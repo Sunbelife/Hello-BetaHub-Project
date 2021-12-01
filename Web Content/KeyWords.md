@@ -1,0 +1,9 @@
+无派科技（深圳）有限责任公司 => nooTag Tech
+iBeta => BetaHub
+在微信上关注 @iBeta尝鲜派 => Follow us on Wechat
+在微博上关注 @iBeta尝鲜派 => Follow us on Weibo
+老孙的店 => Sun Store
+网站现在不盈利 => Buy us a coffee
+全靠捐助养自己 =>（blank）
+如果有幸帮到你 =>（blank）
+捐助我们别吝惜 =>（blank）
