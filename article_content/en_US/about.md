@@ -1,53 +1,59 @@
-## Intro | About us
+## Intro | 简介
 
-Here is the about page of Betahub. Betahub is a gathering place for people who love to try new things. My original intention of establishing this website is to help people get information related to Apple Developer Beta more easily.
-At that time, I found that getting Apple Developer Beta updates was problematic for most developers. It was difficult because of the following reasons:
-There were a few ways to get the update.
-The update is not released in time.
-There was no website to collect this related information.
+This is iBeta, 「iBeta」 is a gathering place for people who wants to experience the latest iOS beta firmware. At first, because of less access to Apple Developer Beta firmware, and there is no unified website to collect this kind of info, so I built the iBeta with the support of some people, I bought an Apple Developer's account, and put the profile link on the website for everyone. We met 3 million visits within a few months and the iOS Beta experience report also has millions of readings, and the donation from all over the world reached a total of thousands of dollars. Now here is the brand new iBeta 2.0.
 
-So with the help of some supporters, I established this website, Betahub. I bought an Apple Developer developer account and put the profile on the website for everyone to use.
+在这个版本里，我们进一步把 Apple Beta 的更新体验提升，而且有了 0xJacky 和 Hintay 的帮助，我们把 UI 更新了、也把 iPSW.me 中获取官方固件的接口实现了本地化，解决了访问缓慢的问题，并第一次实现了（应该是国内第一家）从 Apple Developer 官网抓取了测试版系统的固件。
 
-Within a few months, this website has received more than 3 million visits. The report of iOS Beta has also accumulated millions of readings. We have received thousands of dollars donations from all over the world. Then comes version 2.0.
+紧接着的 3.0 版本是一个命运多舛的版本，由于工期短、任务多、想法不坚定，导致虽然写了许多，但最终还是「胎死腹中」了，于是接下来的两年内，我们没有任何更新。
 
-In version 2.0, we have further improved the update experience of Apple Beta. With the help of @0xJacky and @Hintay, we have updated the UI design and localized the interface for obtaining the official firmware in iPSW.me to solve the problem of slow access.
+而在时隔两年后的 4.0 中，我们成长了许多，也进步了许多，我们重构了前后端的架构，重写了 90% 的代码，吸取了此前的教训，先站在原地，再重新出发，目的只有一个：希望能让尝鲜派更进一步。
 
-This is the first time (it should be the first in China) to grab firmware of the beta system from the official website of Apple Developer.
+总之，作为一个和大家一样的尝鲜派，我们会努力为所有尝鲜者提供更优质、更完善的尝鲜环境和服务，也感谢大家一直以来的支持和鼓励。
 
-The next version, version 3.0,  is a version that has experienced many setbacks. Due to tight time, complicated tasks, and conflicting ideas, although we wrote lots of code, it was still "dead in the belly" in the end. In the following two years, we did not release any updates.
+## FAQ | 问答
 
-When it comes to version 4.0, it's already two years since the last update. We improve a lot. We refactored the front-end and back-end architecture, rewritten 90% of the code and learned the previous lessons. There is only one purpose for us:  take the Betahub to next level.
+Q：固件的来源是哪里？
 
-All in all, we will strive to provide a better and more complete environment and service for everyone who supports us. Thank you for your continuing support and encouragement.
+A：正式版固件抓取自 ipsw.me API，测试版固件抓取来自独家技术、二者固件均为 Apple 官方固件。
 
-## FAQ | Questions and Answers
+Q：描述文件来源是哪里？
 
-Q: Where are the source of the firmware?
+A：来自 Apple Developer 开发者中心。
 
-A: The official firmware is captured from the ipsw.me API and the beta firmware are captured from exclusive technology. Both firmware are Apple's official firmware.
+Q：捐助的资金将用向何处？
 
-Q: Where are the source of the profiles?
+A：所有捐助的资金将用于尝鲜派未来的发展，相关服务器和服务所需的支出。
 
-A: From the Apple Developer Developer Center.
+Q：需要合作/投资吗？
 
-Q: Where will the donated funds be used?
+A：需要，请以邮件联系我：i@Sunbelife.com.
 
-A: All donated funds will be used for the future development of Betahub and expenses for related servers and services.
+Q：需要帮手吗？
 
-Q: Do you need cooperation/investment?
+A：需要，请以邮件联系我：i@Sunbelife.com.
 
-A: Yes, please contact me by email: i@Sunbelife.com.
+## 志愿者团队
 
-Q: Do you need a helper?
+@空一格、@周鸿、@曾偉晉（中国台湾）
 
-A: Yes, please contact me by email: i@Sunbelife.com.
+## 后援团
 
-## International Support
+@杨恩永、@周硙、@空一格
 
-Traditional Chinese：@曾偉晉（Taiwan）
+## 尝鲜派 2.0 项目组
 
-Simplified Chinese：@Sunbelife
+创始人：@Sunbelife
 
-English：@周鸿
+主程序：@0xJacky
 
-Japanese：@Auslese
+贡献者：@Hintay
+
+PHP 开源框架：Codeigniter
+
+## 尝鲜派 4.0 项目组
+
+组长 & 宇宙级产品经理：@Sunbelife
+
+主程序：@0xJacky
+
+Go 开源框架：Gin
