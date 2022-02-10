@@ -1,9 +1,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-10 09:48+0000\n"
-"Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
+"PO-Revision-Date: 2022-02-10 14:02+0000\n"
+"Last-Translator: 何以琛 <542741438@qq.com>\n"
 "Language-Team: English (United States) <http://hello.betahub.cn/projects/"
 "Betahub/betahub/en_US/>\n"
 "Language: en_US\n"
@@ -17,13 +18,12 @@ msgstr ""
 "X-Source-Language: zh\n"
 
 #: src/pages/surface/router.js:74
-#, fuzzy
 msgid "404页面"
 msgstr "404 Not Found"
 
 #: src/pages/surface/router.js:25
 msgid "Apple"
-msgstr ""
+msgstr "APPLE"
 
 #: src/pages/surface/layouts/Widget.vue:8
 #: src/pages/surface/views/Install.vue:67
@@ -49,7 +49,7 @@ msgstr "Fail to copy download link"
 
 #: src/pages/surface/layouts/Widget.vue:27
 msgid "以下是我们特别赞助商的产品。"
-msgstr "The following are products of our special sponsors:"
+msgstr "The following are products of our special sponsors."
 
 #: src/components/Card/SubCard.vue:27
 msgid "候选发布版"
@@ -58,7 +58,7 @@ msgstr "RC"
 #: src/pages/surface/layouts/Widget.vue:10
 #: src/pages/surface/layouts/Widget.vue:1
 msgid "全靠捐助养自己"
-msgstr ""
+msgstr "Fully operated on donations"
 
 #: src/pages/surface/layouts/Widget.vue:9
 msgid "公众号 ID 已拷贝到您的剪切板啦~"
@@ -96,7 +96,7 @@ msgstr "Join us"
 
 #: src/pages/surface/components/SetLanguage/SetLanguage.vue:26
 msgid "加入翻译"
-msgstr "Join"
+msgstr "Join translation group"
 
 #: src/components/Card/SubCard.vue:35
 msgid "即刻尝鲜"
@@ -120,11 +120,11 @@ msgstr "Download firmware"
 
 #: src/pages/surface/router.js:36
 msgid "固件列表"
-msgstr ""
+msgstr "Firmware list"
 
 #: src/pages/surface/router.js:41
 msgid "固件详情"
-msgstr ""
+msgstr "Firmware info"
 
 #: src/pages/surface/layouts/Widget.vue:41
 msgid "在微信上关注 @iBeta尝鲜派"
@@ -229,7 +229,7 @@ msgstr "Do you want to download profiles and skip the tutorial?"
 
 #: src/pages/surface/layouts/Widget.vue:28
 msgid "感谢您~"
-msgstr "Thank you!"
+msgstr "Thank you~"
 
 #: src/pages/surface/layouts/Widget.vue:67
 msgid "成为特别赞助商"
@@ -258,7 +258,7 @@ msgstr "Donate us"
 #: src/pages/surface/layouts/Widget.vue:12
 #: src/pages/surface/layouts/Widget.vue:3
 msgid "捐助我们别吝惜"
-msgstr ""
+msgstr "Feel free to donate us"
 
 #: src/pages/surface/views/page/Donate.vue:2
 msgid "捐助榜"
@@ -272,17 +272,17 @@ msgstr "Amount"
 #: src/pages/surface/views/Install.vue:56
 msgid "描述文件的链接已复制到您的剪贴板，请参照这篇教程来使用"
 msgstr ""
-"The link of configuration file is copied to your clipboard, please follow to "
-"the tutorial for next step."
+"The link of the profile is copied to your clipboard, please follow the "
+"tutorial for the next step"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:13
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:11
 msgid "文件大小:"
-msgstr "File Size: "
+msgstr "File Size:"
 
 #: src/pages/surface/components/FooterComponent.vue:2
 msgid "无派科技（深圳）有限公司"
-msgstr "nootag Tech."
+msgstr "nooTag Tech."
 
 #: src/pages/surface/views/page/Donate.vue:23
 msgid "日期"
