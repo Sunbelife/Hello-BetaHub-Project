@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-10 14:02+0000\n"
+"PO-Revision-Date: 2022-02-11 14:30+0000\n"
 "Last-Translator: 何以琛 <542741438@qq.com>\n"
 "Language-Team: English (United States) <http://hello.betahub.cn/projects/"
 "Betahub/betahub/en_US/>\n"
@@ -241,7 +241,7 @@ msgstr "Follow us"
 
 #: src/pages/surface/components/SetLanguage/SetLanguage.vue:29
 msgid "报告问题"
-msgstr "Issues"
+msgstr "Report issues"
 
 #: src/pages/surface/components/HeaderComponent.vue:20
 #: src/pages/surface/components/HeaderComponent.vue:41
