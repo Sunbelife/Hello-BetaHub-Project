@@ -1,59 +1,59 @@
-## Intro | 简介
+##Intro | Über
 
-这里是尝鲜派的关于页面，「尝鲜派」是一个尝鲜者的聚集地，最初因为 Apple Developer Beta 的更新渠道少、更新不及时、也没有统一的网站收集这部分信息，于是在一些支持者的支持下，我建立了这个 iBeta 尝鲜派，自购了一个 Apple Developer 开发者账号，并将描述文件挂在网站上供大家使用，几个月之内便聚集了 300 万次访问，iOS Beta 的体验报告也累计了百万的阅读量，来自世界各地的捐赠累计有了数千元，如今便有了现在的尝鲜派 2.0
+Hier ist die About-Seite von BetaHub,「BetaHub」ist ein Treffpunkt für Tester, Da die Apple Developer Beta nur wenige Update-Kanäle hatte, war das Update zunächst nicht rechtzeitig, und es gab keine einheitliche Website, um diesen Teil der Informationen zu sammeln, Mit der Unterstützung einiger Unterstützer habe ich diesen BetaHub gegründet, Ich habe ein Apple-Entwicklerkonto gekauft, Und stellen Sie die Beschreibungsdatei auf die Website, damit jeder sie verwenden kann, In wenigen Monaten 3 Millionen Besuche gesammelt, Der Erfahrungsbericht zur iOS-Beta hat auch Millionen von Messwerten gesammelt, Spenden aus der ganzen Welt haben Tausende von Yuan angesammelt, Jetzt gibt es die aktuellen Early Adopters 2.0
 
-在这个版本里，我们进一步把 Apple Beta 的更新体验提升，而且有了 0xJacky 和 Hintay 的帮助，我们把 UI 更新了、也把 iPSW.me 中获取官方固件的接口实现了本地化，解决了访问缓慢的问题，并第一次实现了（应该是国内第一家）从 Apple Developer 官网抓取了测试版系统的固件。
+In dieser Version, Wir haben das Update-Erlebnis von Apple Beta weiter verbessert, Und mit Hilfe von 0xJacky und Hintay, Wir haben die Benutzeroberfläche aktualisiert, Außerdem wurde die Schnittstelle zum Abrufen der offiziellen Firmware in iPSW.me lokalisiert, Lösen Sie das Problem des langsamen Zugriffs, Und zum ersten Mal (es sollte das erste in China sein) die Firmware des Beta-Systems von der offiziellen Website von Apple Developer zu holen.
 
-紧接着的 3.0 版本是一个命运多舛的版本，由于工期短、任务多、想法不坚定，导致虽然写了许多，但最终还是「胎死腹中」了，于是接下来的两年内，我们没有任何更新。
+Die nächste 3.0-Version war eine unglückselige Version, Durch die kurze Bauzeit, viele Aufgaben und keine festen Vorstellungen, Führte zu viel Schreiben, gab aber schließlich auf, Also in den nächsten zwei Jahren, Wir haben keine Updates.
 
-而在时隔两年后的 4.0 中，我们成长了许多，也进步了许多，我们重构了前后端的架构，重写了 90% 的代码，吸取了此前的教训，先站在原地，再重新出发，目的只有一个：希望能让尝鲜派更进一步。
+Und in 4.0, zwei Jahre später, Wir sind sehr gewachsen und haben uns verbessert, Wir haben die Front-End- und Back-End-Architektur überarbeitet, 90% des Codes wurde neu geschrieben, Die vorherigen Lektionen gelernt, Stehen Sie, wo Sie sind, dann fangen Sie von vorne an, Es gibt nur einen Zweck: Ich hoffe, dass BetaHub weiter geht.
 
-总之，作为一个和大家一样的尝鲜派，我们会努力为所有尝鲜者提供更优质、更完善的尝鲜环境和服务，也感谢大家一直以来的支持和鼓励。
+Zusamenfassend, Als BetaHub wie alle, Wir werden hart daran arbeiten, allen Early Adopters eine bessere und umfassendere Umgebung und Dienstleistungen für Early Adopters bereitzustellen, Vielen Dank auch für Ihre anhaltende Unterstützung und Ermutigung.
 
-## FAQ | 问答
+## FAQ | Fragen und Antworten
 
-Q：固件的来源是哪里？
+F: Wo ist die Firmware?
 
-A：正式版固件抓取自 ipsw.me API，测试版固件抓取来自独家技术、二者固件均为 Apple 官方固件。
+A: Die offizielle Version der Firmware wird von der ipsw.me-API erfasst. Die Beta-Firmware stammt von exklusiver Technologie, und beide Firmwares sind die offizielle Firmware von Apple.
 
-Q：描述文件来源是哪里？
+F: Wo ist das Profil?
 
-A：来自 Apple Developer 开发者中心。
+A: Aus dem Apple Developer Center.
 
-Q：捐助的资金将用向何处？
+F: Wohin fließt das gespendete Geld?
 
-A：所有捐助的资金将用于尝鲜派未来的发展，相关服务器和服务所需的支出。
+A: Alle gespendeten Mittel werden für die zukünftige Entwicklung von Early Adopters und Ausgaben für zugehörige Server und Dienste verwendet.
 
-Q：需要合作/投资吗？
+F: Benötigen Sie eine Kooperation/Investition?
 
-A：需要，请以邮件联系我：i@Sunbelife.com.
+A: Bei Bedarf kontaktieren Sie mich bitte per E-Mail: i@Sunbelife.com.
 
-Q：需要帮手吗？
+F: Brauchen Sie Hilfe?
 
-A：需要，请以邮件联系我：i@Sunbelife.com.
+A: Bei Bedarf kontaktieren Sie mich bitte per E-Mail: i@Sunbelife.com.
 
-## 志愿者团队
+## Freiwilligenteam
 
-@空一格、@周鸿、@曾偉晉（中国台湾）
+@空一格、@周鸿、@曾偉晉（Taiwan, China）
 
-## 后援团
+## Selbsthilfegruppe
 
 @杨恩永、@周硙、@空一格
 
-## 尝鲜派 2.0 项目组
+## BetaHub 2.0 Projektteam
 
-创始人：@Sunbelife
+Gründer: @Sunbelife
 
-主程序：@0xJacky
+Hauptprogramm: @0xJacky
 
-贡献者：@Hintay
+Mitwirkender: @Hintay
 
-PHP 开源框架：Codeigniter
+PHP Open-Source-Framework: @Codeigniter
 
-## 尝鲜派 4.0 项目组
+## BetaHub 4.0 Projektteam
 
-组长 & 宇宙级产品经理：@Sunbelife
+ruppenführer & Grooooß-Produktmanager: @Sunbelife
 
-主程序：@0xJacky
+Hauptprogramm: @0xJacky
 
-Go 开源框架：Gin
+Go Open-Source-Framework: Gin
