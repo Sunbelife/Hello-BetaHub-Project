@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-10 14:02+0000\n"
+"PO-Revision-Date: 2022-02-13 04:39+0000\n"
 "Last-Translator: 孫斌 <1335310642@qq.com>\n"
 "Language-Team: German <http://hello.betahub.cn/projects/Betahub/betahub/de/>"
 "\n"
@@ -175,7 +175,7 @@ msgstr "Cowtransfer laden"
 
 #: src/pages/surface/views/page/Donate.vue:19
 msgid "好心人"
-msgstr "Gutherziger Mensch"
+msgstr "Gutherziger Man"
 
 #: src/pages/surface/layouts/Widget.vue:11
 #: src/pages/surface/layouts/Widget.vue:2
