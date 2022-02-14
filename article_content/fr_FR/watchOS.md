@@ -1,19 +1,17 @@
-Le téléchargement du profil a commencé
-Veuillez ouvrir cette page avec Safari et supprimer la mise à jour téléchargée
-Vous verrez le message suivant : 
+所需的描述文件已经开始下载
+请确保您在 Safari 浏览器中打开，并已将配对的手机升级至手表配对所需的版本。
+您会看到如下提示：
 
 ![][Install Profile Alert]
 
-Veuillez cliquer « Autoriser »
-Ensuite, installez le profil, assurez-vous que votre montre est déverrouillé pendant l’installation. 
+请点击「允许」
+接着按照提示在设置中安装描述文件，安装时请确保手表已解锁
 
 ![][After Install Profile]
 
-Après l’installation, vous pouvez dès maintenant recevoir les mises à jour en accédant à Ma montre \> Général \> Mise à jour logicielle
+接着即可在「Watch - 通用 - 软件更新」中收到测试版更新
 
 ![][System Update]
-
-N.B. Vous risquez de perdre vos données précieuses, n’oubliez pas de les sauvegarder avant la mise à jour.
 
 Merci d’utiliser BetaHub
 Si vous trouvez notre site web utile
