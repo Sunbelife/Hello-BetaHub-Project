@@ -1,19 +1,19 @@
-Le téléchargement du package a commencé
-Vous pouvez double-cliquer le package dmg
-Puis installer le fichier pkg à l’intérieur du package
+所需的升级工具已经开始下载
+待下载完毕后，您可以双击 .dmg 后缀的安装包。
+并安装其中的 .pkg 安装包：
 
 ![][After Install PKG]
 
-Après, saisissez le mot de passe
-Vous pouvez dès maintenant recevoir la mise à jour en accédant à Préférences \> Système \> Mise à jour de logiciels
+跟随提示输入密码安装完毕后
+即可在「系统偏好设置 - 软件更新」内检测到更新：
 
 ![][System Update]
 
-PS：尝鲜有风险，资料无价，请切记备份。
+PS: Early adopters are risky, and the data is priceless, please remember to back it up.
 
-Merci d’utiliser BetaHub
-Si vous trouvez notre site web utile
-Nous vous prions de faire un don ou de devenir notre sponsor
+感谢使用尝鲜派
+如果我们的工作帮助到您
+请向我们捐助或赞助我们
 
 [After Install PKG]: https://tva1.sinaimg.cn/large/008i3skNgy1gwqs7s1gegj311q0hqaai.jpg
 [System Update]: https://tva1.sinaimg.cn/large/008i3skNgy1gwqphmcxg6j311a0hqjrp.jpg
