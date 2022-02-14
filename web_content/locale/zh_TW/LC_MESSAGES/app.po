@@ -15,7 +15,7 @@ msgstr ""
 "X-Generator: Weblate 4.10.1\n"
 "Generated-By: easygettext\n"
 
-#: src/pages/surface/router.js:74
+#: src/pages/surface/router.js:73
 msgid "404页面"
 msgstr "404 not found"
 
@@ -29,8 +29,8 @@ msgstr "嚐鮮派"
 msgid "上传时间:"
 msgstr "上傳時間:"
 
-#: src/pages/surface/views/firmware/DevicesList.vue:29
-#: src/pages/surface/views/firmware/FirmwaresList.vue:23
+#: src/pages/surface/views/firmware/DevicesList.vue:27
+#: src/pages/surface/views/firmware/FirmwaresList.vue:25
 msgid "下载"
 msgstr "下載"
 
@@ -65,7 +65,7 @@ msgstr "公告"
 
 #: src/pages/surface/components/HeaderComponent.vue:25
 #: src/pages/surface/components/HeaderComponent.vue:46
-#: src/pages/surface/router.js:63
+#: src/pages/surface/router.js:62
 msgid "关于"
 msgstr "關於"
 
@@ -101,7 +101,8 @@ msgstr "即刻嘗鮮"
 msgid "即可向我们捐赠"
 msgstr "即可向我們捐贈"
 
-#: src/pages/surface/views/firmware/DevicesList.vue:22
+#: src/pages/surface/views/firmware/DevicesList.vue:20
+#: src/pages/surface/views/firmware/FirmwaresList.vue:41
 msgid "发布时间"
 msgstr "發佈時間"
 
@@ -117,11 +118,11 @@ msgstr "哪個版本？"
 msgid "固件下载"
 msgstr "韌體下載"
 
-#: src/pages/surface/router.js:36
+#: src/pages/surface/router.js:35
 msgid "固件列表"
 msgstr "固件列表"
 
-#: src/pages/surface/router.js:41
+#: src/pages/surface/router.js:40
 msgid "固件详情"
 msgstr "固件詳情"
 
@@ -183,7 +184,7 @@ msgstr "好心人"
 msgid "如果有幸帮到你"
 msgstr "如果有幸幫到你"
 
-#: src/pages/surface/router.js:68
+#: src/pages/surface/router.js:67
 msgid "安装描述文件"
 msgstr "安裝設定描述檔"
 
@@ -197,7 +198,7 @@ msgid "开发模式"
 msgstr "開發模式"
 
 #: src/components/Card/SubCard.vue:18
-#: src/pages/surface/views/firmware/FirmwaresList.vue:8
+#: src/pages/surface/views/firmware/FirmwaresList.vue:13
 msgid "开发者测试版"
 msgstr "開發者測試版"
 
@@ -244,7 +245,7 @@ msgstr "報告問題"
 
 #: src/pages/surface/components/HeaderComponent.vue:20
 #: src/pages/surface/components/HeaderComponent.vue:41
-#: src/pages/surface/router.js:58
+#: src/pages/surface/router.js:57
 msgid "捐助"
 msgstr "捐助"
 
@@ -298,7 +299,7 @@ msgstr "暱稱"
 msgid "更新日志"
 msgstr "更新日誌"
 
-#: src/pages/surface/router.js:79
+#: src/pages/surface/router.js:78
 msgid "未找到页面"
 msgstr "404 not found"
 
@@ -307,7 +308,7 @@ msgid "查看教程"
 msgstr "查看教程"
 
 #: src/components/Card/SubCard.vue:20
-#: src/pages/surface/views/firmware/FirmwaresList.vue:7
+#: src/pages/surface/views/firmware/FirmwaresList.vue:12
 msgid "正式版"
 msgstr "正式版"
 
@@ -317,7 +318,7 @@ msgstr "法語"
 
 #: src/pages/surface/components/FooterComponent.vue:9
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:15
-#: src/pages/surface/views/firmware/FirmwaresList.vue:10
+#: src/pages/surface/views/firmware/FirmwaresList.vue:12
 msgid "版本"
 msgstr "版本"
 
@@ -368,14 +369,15 @@ msgstr "英語"
 msgid "苹果服务器下载"
 msgstr "Apple 伺服器下載"
 
-#: src/pages/surface/router.js:31
-#: src/pages/surface/views/firmware/DevicesList.vue:15
+#: src/pages/surface/router.js:30
+#: src/pages/surface/views/firmware/DevicesList.vue:13
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:14
-#: src/pages/surface/views/firmware/FirmwaresList.vue:6
+#: src/pages/surface/views/firmware/FirmwaresList.vue:39
 msgid "设备型号"
 msgstr "設備型號"
 
-#: src/pages/surface/views/firmware/DevicesList.vue:18
+#: src/pages/surface/views/firmware/DevicesList.vue:16
+#: src/pages/surface/views/firmware/FirmwaresList.vue:40
 msgid "设备标识符"
 msgstr "設備標識符"
 
@@ -408,7 +410,7 @@ msgstr ""
 "請在手機中點擊此按鈕，或在微信搜索「老孫的店」小程式，淘寶搜索「老孫的某寶"
 "店」店鋪，感謝您的支持。"
 
-#: src/pages/surface/views/firmware/FirmwaresList.vue:4
+#: src/pages/surface/views/firmware/FirmwaresList.vue:9
 msgid ""
 "请选择您需要下载的固件版本，验证状态绿色标识为「目前可升级/恢复」版本，红色标"
 "识为「目前不可升级/恢复」版本。"
@@ -438,7 +440,7 @@ msgstr "韓語"
 msgid "首页"
 msgstr "首頁"
 
-#: src/pages/surface/views/firmware/FirmwaresList.vue:18
+#: src/pages/surface/views/firmware/FirmwaresList.vue:20
 msgid "验证状态"
 msgstr "驗證狀態"
 

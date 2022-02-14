@@ -5,8 +5,8 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2022-02-14 03:34+0000\n"
 "Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
-"Language-Team: Korean <http://hello.betahub.cn/projects/Betahub/betahub/ko/>"
-"\n"
+"Language-Team: Korean <http://hello.betahub.cn/projects/Betahub/betahub/ko/"
+">\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Language: en\n"
 "X-Source-Language: zh\n"
 
-#: src/pages/surface/router.js:74
+#: src/pages/surface/router.js:73
 msgid "404页面"
 msgstr "404 페이지"
 
@@ -31,8 +31,8 @@ msgstr "BetaHub"
 msgid "上传时间:"
 msgstr "업로드 시간:"
 
-#: src/pages/surface/views/firmware/DevicesList.vue:29
-#: src/pages/surface/views/firmware/FirmwaresList.vue:23
+#: src/pages/surface/views/firmware/DevicesList.vue:27
+#: src/pages/surface/views/firmware/FirmwaresList.vue:25
 msgid "下载"
 msgstr "다운로드"
 
@@ -67,7 +67,7 @@ msgstr "게시판"
 
 #: src/pages/surface/components/HeaderComponent.vue:25
 #: src/pages/surface/components/HeaderComponent.vue:46
-#: src/pages/surface/router.js:63
+#: src/pages/surface/router.js:62
 msgid "关于"
 msgstr "소개"
 
@@ -103,7 +103,8 @@ msgstr "다운로드"
 msgid "即可向我们捐赠"
 msgstr "바로 우리에게 기부할 수 있습니다"
 
-#: src/pages/surface/views/firmware/DevicesList.vue:22
+#: src/pages/surface/views/firmware/DevicesList.vue:20
+#: src/pages/surface/views/firmware/FirmwaresList.vue:41
 msgid "发布时间"
 msgstr "출시일"
 
@@ -119,11 +120,11 @@ msgstr "어떤 버전입니까?"
 msgid "固件下载"
 msgstr "펌웨어를 다운로드하기"
 
-#: src/pages/surface/router.js:36
+#: src/pages/surface/router.js:35
 msgid "固件列表"
 msgstr ""
 
-#: src/pages/surface/router.js:41
+#: src/pages/surface/router.js:40
 msgid "固件详情"
 msgstr ""
 
@@ -185,7 +186,7 @@ msgstr "착한 사람"
 msgid "如果有幸帮到你"
 msgstr " "
 
-#: src/pages/surface/router.js:68
+#: src/pages/surface/router.js:67
 msgid "安装描述文件"
 msgstr "프로필을 설치하기"
 
@@ -199,7 +200,7 @@ msgid "开发模式"
 msgstr "개발 모델"
 
 #: src/components/Card/SubCard.vue:18
-#: src/pages/surface/views/firmware/FirmwaresList.vue:8
+#: src/pages/surface/views/firmware/FirmwaresList.vue:13
 msgid "开发者测试版"
 msgstr "베타 버전"
 
@@ -246,7 +247,7 @@ msgstr "문제를 제출하기"
 
 #: src/pages/surface/components/HeaderComponent.vue:20
 #: src/pages/surface/components/HeaderComponent.vue:41
-#: src/pages/surface/router.js:58
+#: src/pages/surface/router.js:57
 msgid "捐助"
 msgstr "기부하기"
 
@@ -300,7 +301,7 @@ msgstr "닉네임"
 msgid "更新日志"
 msgstr "로그를 업데이트합니다"
 
-#: src/pages/surface/router.js:79
+#: src/pages/surface/router.js:78
 msgid "未找到页面"
 msgstr "페이지를 찾을 수 없습니다"
 
@@ -309,7 +310,7 @@ msgid "查看教程"
 msgstr "튜토리얼 보기"
 
 #: src/components/Card/SubCard.vue:20
-#: src/pages/surface/views/firmware/FirmwaresList.vue:7
+#: src/pages/surface/views/firmware/FirmwaresList.vue:12
 msgid "正式版"
 msgstr "정식 버전"
 
@@ -319,7 +320,7 @@ msgstr "프랑스어"
 
 #: src/pages/surface/components/FooterComponent.vue:9
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:15
-#: src/pages/surface/views/firmware/FirmwaresList.vue:10
+#: src/pages/surface/views/firmware/FirmwaresList.vue:12
 msgid "版本"
 msgstr "버전"
 
@@ -370,14 +371,15 @@ msgstr "영어"
 msgid "苹果服务器下载"
 msgstr "애플 서버 다운로드하기"
 
-#: src/pages/surface/router.js:31
-#: src/pages/surface/views/firmware/DevicesList.vue:15
+#: src/pages/surface/router.js:30
+#: src/pages/surface/views/firmware/DevicesList.vue:13
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:14
-#: src/pages/surface/views/firmware/FirmwaresList.vue:6
+#: src/pages/surface/views/firmware/FirmwaresList.vue:39
 msgid "设备型号"
 msgstr "장치 모델"
 
-#: src/pages/surface/views/firmware/DevicesList.vue:18
+#: src/pages/surface/views/firmware/DevicesList.vue:16
+#: src/pages/surface/views/firmware/FirmwaresList.vue:40
 msgid "设备标识符"
 msgstr ""
 
@@ -388,7 +390,9 @@ msgstr "펌웨어가 인증을 중지했으며 iTunes 를 통해 복원할 수 �
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:103
 msgid "该固件正常验证中，可以通过 iTunes 进行「升级」或「恢复」。"
-msgstr "이 펌웨어는 정상적으로 인증되었으며, iTunes 를 통해 「업그레이드」 또는 「복원」이 가능합니다."
+msgstr ""
+"이 펌웨어는 정상적으로 인증되었으며, iTunes 를 통해 「업그레이드」 또는 「복"
+"원」이 가능합니다."
 
 #: src/pages/surface/views/Install.vue:68
 msgid "请在 Safari 中打开本页面"
@@ -407,16 +411,16 @@ msgid ""
 "请在手机中点击此按钮，或在微信搜索「老孙的店」小程序，淘宝搜索「老孙的某宝"
 "店」店铺，感谢您的支持。"
 msgstr ""
-"이 버튼을 누르거나, 위챗에서 「老孙的店」  애플리케이션을 검색하거나, 타오바오에서  「老孙的某宝店」  스토어를 검색해 주십시오. 성원해 "
-"주셔서 감사합니다."
+"이 버튼을 누르거나, 위챗에서 「老孙的店」  애플리케이션을 검색하거나, 타오바"
+"오에서  「老孙的某宝店」  스토어를 검색해 주십시오. 성원해 주셔서 감사합니다."
 
-#: src/pages/surface/views/firmware/FirmwaresList.vue:4
+#: src/pages/surface/views/firmware/FirmwaresList.vue:9
 msgid ""
 "请选择您需要下载的固件版本，验证状态绿色标识为「目前可升级/恢复」版本，红色标"
 "识为「目前不可升级/恢复」版本。"
 msgstr ""
-"다운로드할 펌웨어 버전을 선택하십시오. 인증 상태의 녹색 표시는「업그레이드/복원」가능 버전이고, 빨간색 표시는「업그레이드/복원」 불가 "
-"버전입니다."
+"다운로드할 펌웨어 버전을 선택하십시오. 인증 상태의 녹색 표시는「업그레이드/복"
+"원」가능 버전이고, 빨간색 표시는「업그레이드/복원」 불가 버전입니다."
 
 #: src/pages/surface/views/firmware/GoBack.vue:4
 msgid "返回上一级"
@@ -440,7 +444,7 @@ msgstr "한국어"
 msgid "首页"
 msgstr "홈페이지"
 
-#: src/pages/surface/views/firmware/FirmwaresList.vue:18
+#: src/pages/surface/views/firmware/FirmwaresList.vue:20
 msgid "验证状态"
 msgstr "인증 상태"
 

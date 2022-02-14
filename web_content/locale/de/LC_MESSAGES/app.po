@@ -5,8 +5,8 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2022-02-14 03:34+0000\n"
 "Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
-"Language-Team: German <http://hello.betahub.cn/projects/Betahub/betahub/de/>"
-"\n"
+"Language-Team: German <http://hello.betahub.cn/projects/Betahub/betahub/de/"
+">\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Language: en\n"
 "X-Source-Language: zh\n"
 
-#: src/pages/surface/router.js:74
+#: src/pages/surface/router.js:73
 msgid "404页面"
 msgstr "404 Fehler"
 
@@ -31,8 +31,8 @@ msgstr "BetaHub"
 msgid "上传时间:"
 msgstr "Upload-Zeit:"
 
-#: src/pages/surface/views/firmware/DevicesList.vue:29
-#: src/pages/surface/views/firmware/FirmwaresList.vue:23
+#: src/pages/surface/views/firmware/DevicesList.vue:27
+#: src/pages/surface/views/firmware/FirmwaresList.vue:25
 msgid "下载"
 msgstr "Laden"
 
@@ -67,7 +67,7 @@ msgstr "Anschlag"
 
 #: src/pages/surface/components/HeaderComponent.vue:25
 #: src/pages/surface/components/HeaderComponent.vue:46
-#: src/pages/surface/router.js:63
+#: src/pages/surface/router.js:62
 msgid "关于"
 msgstr "Über"
 
@@ -103,7 +103,8 @@ msgstr "Versuch's jetzt"
 msgid "即可向我们捐赠"
 msgstr "Kann uns spenden"
 
-#: src/pages/surface/views/firmware/DevicesList.vue:22
+#: src/pages/surface/views/firmware/DevicesList.vue:20
+#: src/pages/surface/views/firmware/FirmwaresList.vue:41
 msgid "发布时间"
 msgstr "Veröffentlichkeitsdatum"
 
@@ -119,11 +120,11 @@ msgstr "Welche Version?"
 msgid "固件下载"
 msgstr "Firmware laden"
 
-#: src/pages/surface/router.js:36
+#: src/pages/surface/router.js:35
 msgid "固件列表"
 msgstr "Firmware Liste"
 
-#: src/pages/surface/router.js:41
+#: src/pages/surface/router.js:40
 msgid "固件详情"
 msgstr "Firmware Detail"
 
@@ -185,7 +186,7 @@ msgstr "Gutherziger Man"
 msgid "如果有幸帮到你"
 msgstr "Wenn ich das Glück habe, Ihnen zu helfen"
 
-#: src/pages/surface/router.js:68
+#: src/pages/surface/router.js:67
 msgid "安装描述文件"
 msgstr "Profil installieren"
 
@@ -199,7 +200,7 @@ msgid "开发模式"
 msgstr "Developer-Programm"
 
 #: src/components/Card/SubCard.vue:18
-#: src/pages/surface/views/firmware/FirmwaresList.vue:8
+#: src/pages/surface/views/firmware/FirmwaresList.vue:13
 msgid "开发者测试版"
 msgstr "Developer Beta testen"
 
@@ -249,7 +250,7 @@ msgstr "Prüfbericht"
 
 #: src/pages/surface/components/HeaderComponent.vue:20
 #: src/pages/surface/components/HeaderComponent.vue:41
-#: src/pages/surface/router.js:58
+#: src/pages/surface/router.js:57
 msgid "捐助"
 msgstr "Spenden"
 
@@ -305,7 +306,7 @@ msgstr "Name"
 msgid "更新日志"
 msgstr "Changelog"
 
-#: src/pages/surface/router.js:79
+#: src/pages/surface/router.js:78
 msgid "未找到页面"
 msgstr "Seite nicht gefunden"
 
@@ -314,7 +315,7 @@ msgid "查看教程"
 msgstr "Tutorial ansehen"
 
 #: src/components/Card/SubCard.vue:20
-#: src/pages/surface/views/firmware/FirmwaresList.vue:7
+#: src/pages/surface/views/firmware/FirmwaresList.vue:12
 msgid "正式版"
 msgstr "offizielle Version"
 
@@ -324,7 +325,7 @@ msgstr "Französisch"
 
 #: src/pages/surface/components/FooterComponent.vue:9
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:15
-#: src/pages/surface/views/firmware/FirmwaresList.vue:10
+#: src/pages/surface/views/firmware/FirmwaresList.vue:12
 msgid "版本"
 msgstr "Version"
 
@@ -375,14 +376,15 @@ msgstr "Englisch"
 msgid "苹果服务器下载"
 msgstr "Apple-Server laden"
 
-#: src/pages/surface/router.js:31
-#: src/pages/surface/views/firmware/DevicesList.vue:15
+#: src/pages/surface/router.js:30
+#: src/pages/surface/views/firmware/DevicesList.vue:13
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:14
-#: src/pages/surface/views/firmware/FirmwaresList.vue:6
+#: src/pages/surface/views/firmware/FirmwaresList.vue:39
 msgid "设备型号"
 msgstr "Modellkategorien"
 
-#: src/pages/surface/views/firmware/DevicesList.vue:18
+#: src/pages/surface/views/firmware/DevicesList.vue:16
+#: src/pages/surface/views/firmware/FirmwaresList.vue:40
 msgid "设备标识符"
 msgstr ""
 
@@ -396,8 +398,8 @@ msgstr ""
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:103
 msgid "该固件正常验证中，可以通过 iTunes 进行「升级」或「恢复」。"
 msgstr ""
-"Die Firmware kann während der normalen Überprüfung über iTunes 「aktualisiert」"
-" oder 「wiederhergestellt」 werden."
+"Die Firmware kann während der normalen Überprüfung über iTunes "
+"「aktualisiert」 oder 「wiederhergestellt」 werden."
 
 #: src/pages/surface/views/Install.vue:68
 msgid "请在 Safari 中打开本页面"
@@ -417,18 +419,18 @@ msgid ""
 "店」店铺，感谢您的支持。"
 msgstr ""
 "Bitte klicken Sie auf Ihrem Mobiltelefon auf diese Schaltfläche oder suchen "
-"Sie auf WeChat nach dem Applet 「老孙的店」 und suchen Sie auf Taobao nach 「老孙的某宝店」"
-". Vielen Dank für Ihre Unterstützung."
+"Sie auf WeChat nach dem Applet 「老孙的店」 und suchen Sie auf Taobao nach "
+"「老孙的某宝店」. Vielen Dank für Ihre Unterstützung."
 
-#: src/pages/surface/views/firmware/FirmwaresList.vue:4
+#: src/pages/surface/views/firmware/FirmwaresList.vue:9
 msgid ""
 "请选择您需要下载的固件版本，验证状态绿色标识为「目前可升级/恢复」版本，红色标"
 "识为「目前不可升级/恢复」版本。"
 msgstr ""
 "Bitte wählen Sie die Version der Firmware aus, die Sie herunterladen "
 "möchten. Der grüne Verifizierungsstatus ist die Version 「jetzt "
-"aktualisierbar/wiederherstellbar」 und die rote Version ist die Version 「"
-"jetzt nicht aktualisierbar/wiederherstellbar」."
+"aktualisierbar/wiederherstellbar」 und die rote Version ist die Version "
+"「jetzt nicht aktualisierbar/wiederherstellbar」."
 
 #: src/pages/surface/views/firmware/GoBack.vue:4
 msgid "返回上一级"
@@ -452,7 +454,7 @@ msgstr "Koreanisch"
 msgid "首页"
 msgstr "Titelseite"
 
-#: src/pages/surface/views/firmware/FirmwaresList.vue:18
+#: src/pages/surface/views/firmware/FirmwaresList.vue:20
 msgid "验证状态"
 msgstr "Verifizierungsstatus"
 
