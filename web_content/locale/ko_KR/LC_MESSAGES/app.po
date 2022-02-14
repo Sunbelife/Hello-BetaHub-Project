@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: Web KR\n"
 "Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-10 14:02+0000\n"
+"PO-Revision-Date: 2022-02-14 02:45+0000\n"
 "Last-Translator: 是猫 <zhangziyi.knu@gmail.com>\n"
-"Language-Team: Korean <http://hello.betahub.cn/projects/Betahub/betahub/ko/"
-">\n"
+"Language-Team: Korean <http://hello.betahub.cn/projects/Betahub/betahub/ko/>"
+"\n"
 "Language: ko_KR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -119,11 +119,11 @@ msgstr "펌웨어를 다운로드하기"
 
 #: src/pages/surface/router.js:36
 msgid "固件列表"
-msgstr ""
+msgstr "펌웨어 리스트"
 
 #: src/pages/surface/router.js:41
 msgid "固件详情"
-msgstr ""
+msgstr "펌웨어 상세 정보"
 
 #: src/pages/surface/layouts/Widget.vue:41
 msgid "在微信上关注 @iBeta尝鲜派"
@@ -377,7 +377,7 @@ msgstr "장치 모델"
 
 #: src/pages/surface/views/firmware/DevicesList.vue:18
 msgid "设备标识符"
-msgstr ""
+msgstr "장치 식별자"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:25
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:23
@@ -407,8 +407,8 @@ msgid ""
 "请在手机中点击此按钮，或在微信搜索「老孙的店」小程序，淘宝搜索「老孙的某宝"
 "店」店铺，感谢您的支持。"
 msgstr ""
-"이 버튼을 누르거나, 위챗에서 「老孙的店」  애플리케이션을 검색하거나, 타오바"
-"오에서  「老孙的某宝店」  스토어를 검색해 주십시오. 성원해 주셔서 감사합니다."
+"이 버튼을 누르거나, 위챗에서 「老孙的店」 애플리케이션을 검색하거나, 타오바오에서 「老孙的某宝店」 스토어를 검색해 주십시오. 성원해 "
+"주셔서 감사합니다."
 
 #: src/pages/surface/views/firmware/FirmwaresList.vue:4
 msgid ""
