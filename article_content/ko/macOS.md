@@ -1,19 +1,16 @@
-所需的升级工具已经开始下载
-待下载完毕后，您可以双击 .dmg 后缀的安装包。
-并安装其中的 .pkg 安装包：
+다운로드가 완료되면 ".dmg" 확장자가 있는 패키지를 두 번 클릭하십시오.
 
 ![][After Install PKG]
 
-跟随提示输入密码安装完毕后
-即可在「系统偏好设置 - 软件更新」内检测到更新：
+설치가 완료된 후 프롬프트에 따라 암호를 입력하십시오
+"시스템 기본 설정-소프트웨어 업데이트" 에서 업데이트를 확인할 수 있습니다:
 
 ![][System Update]
 
-PS：尝鲜有风险，资料无价，请切记备份。
+비고: 테스트 버전은 위험하니 데이터를 백업하십시오
 
-感谢使用尝鲜派
-如果我们的工作帮助到您
-请向我们捐助或赞助我们
+Betahub 를 이용해 주셔서 감사합니다
+도움이 된다면 저희에게 기부 부탁드립니다
 
 [After Install PKG]: https://tva1.sinaimg.cn/large/008i3skNgy1gwqs7s1gegj311q0hqaai.jpg
 [System Update]: https://tva1.sinaimg.cn/large/008i3skNgy1gwqphmcxg6j311a0hqjrp.jpg
