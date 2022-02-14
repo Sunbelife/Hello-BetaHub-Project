@@ -3,9 +3,10 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-11 14:30+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-02-14 03:34+0000\n"
+"Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
+"Language-Team: German <http://hello.betahub.cn/projects/Betahub/betahub/de/>"
+"\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,129 +19,129 @@ msgstr ""
 
 #: src/pages/surface/router.js:74
 msgid "404页面"
-msgstr ""
+msgstr "404 Fehler"
 
 #: src/pages/surface/layouts/Widget.vue:8
 #: src/pages/surface/views/Install.vue:67
 msgid "iBeta 尝鲜派"
-msgstr ""
+msgstr "BetaHub"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:9
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:7
 msgid "上传时间:"
-msgstr ""
+msgstr "Upload-Zeit:"
 
 #: src/pages/surface/views/firmware/DevicesList.vue:29
 #: src/pages/surface/views/firmware/FirmwaresList.vue:23
 msgid "下载"
-msgstr ""
+msgstr "Laden"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:74
 msgid "下载链接已拷贝到您的剪切板啦~"
-msgstr ""
+msgstr "Der Download-Link wurde in Ihre Zwischenablage kopiert~"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:76
 msgid "下载链接拷贝失败"
-msgstr ""
+msgstr "Der Download-Link konnte nicht kopiert werden"
 
 #: src/pages/surface/layouts/Widget.vue:27
 msgid "以下是我们特别赞助商的产品。"
-msgstr ""
+msgstr "Im Folgenden sind die Produkte unserer Sponsoren."
 
 #: src/components/Card/SubCard.vue:19
 msgid "候选发布版"
-msgstr ""
+msgstr "RC-Version"
 
 #: src/pages/surface/layouts/Widget.vue:10
 #: src/pages/surface/layouts/Widget.vue:1
 msgid "全靠捐助养自己"
-msgstr ""
+msgstr "Ernähren Sie sich alle durch Spenden"
 
 #: src/pages/surface/layouts/Widget.vue:9
 msgid "公众号 ID 已拷贝到您的剪切板啦~"
-msgstr ""
+msgstr "Die Offizielle Konten-ID wurde in Ihre Zwischenablage kopiert~"
 
 #: src/pages/surface/layouts/Widget.vue:49
 msgid "公告"
-msgstr ""
+msgstr "Anschlag"
 
 #: src/pages/surface/components/HeaderComponent.vue:25
 #: src/pages/surface/components/HeaderComponent.vue:46
 #: src/pages/surface/router.js:63
 msgid "关于"
-msgstr ""
+msgstr "Über"
 
 #: src/pages/surface/components/SetLanguage/SetLanguage.vue:16
 msgid "其他语言"
-msgstr ""
+msgstr "andere Sprachen"
 
 #: src/pages/surface/views/Install.vue:8 src/pages/surface/views/Install.vue:5
 msgid "再次下载"
-msgstr ""
+msgstr "wieder laden"
 
 #: src/pages/surface/views/Install.vue:12 src/pages/surface/views/Install.vue:9
 msgid "再次复制"
-msgstr ""
+msgstr "wieder kopieren"
 
 #: src/pages/surface/layouts/Widget.vue:45
 msgid "加入 TG 群组"
-msgstr ""
+msgstr "Bei Telegram"
 
 #: src/pages/surface/layouts/Widget.vue:49
 msgid "加入尝鲜派"
-msgstr ""
+msgstr "mit BetaHub teilnehmen"
 
 #: src/pages/surface/components/SetLanguage/SetLanguage.vue:26
 msgid "加入翻译"
-msgstr ""
+msgstr "Übersetzen"
 
 #: src/components/Card/SubCard.vue:27
 msgid "即刻尝鲜"
-msgstr ""
+msgstr "Versuch's jetzt"
 
 #: src/pages/surface/views/page/Donate.vue:4
 msgid "即可向我们捐赠"
-msgstr ""
+msgstr "Kann uns spenden"
 
 #: src/pages/surface/views/firmware/DevicesList.vue:22
 msgid "发布时间"
-msgstr ""
+msgstr "Veröffentlichkeitsdatum"
 
 #: src/pages/surface/views/firmware/DevicesList.vue:3
 msgid "哪个型号？"
-msgstr ""
+msgstr "Welches Kategorien?"
 
 #: src/pages/surface/views/firmware/FirmwaresList.vue:3
 msgid "哪个版本？"
-msgstr ""
+msgstr "Welche Version?"
 
 #: src/pages/surface/views/firmware/DeviceGroup.vue:2
 msgid "固件下载"
-msgstr ""
+msgstr "Firmware laden"
 
 #: src/pages/surface/router.js:36
 msgid "固件列表"
-msgstr ""
+msgstr "Firmware Liste"
 
 #: src/pages/surface/router.js:41
 msgid "固件详情"
-msgstr ""
+msgstr "Firmware Detail"
 
 #: src/pages/surface/layouts/Widget.vue:41
 msgid "在微信上关注 @iBeta尝鲜派"
-msgstr ""
+msgstr "Folgen Sie auf WeChat"
 
 #: src/pages/surface/layouts/Widget.vue:59
 msgid "在微信上购买"
-msgstr ""
+msgstr "Bei WeChat kaufen"
 
 #: src/pages/surface/layouts/Widget.vue:37
 msgid "在微博上关注 @iBeta尝鲜派"
-msgstr ""
+msgstr "Folgen Sie auf Weibo"
 
 #: src/pages/surface/layouts/Widget.vue:63
 msgid "在淘宝上购买"
-msgstr ""
+msgstr "Bei Taobao kaufen"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:31
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:51
@@ -149,11 +150,11 @@ msgstr ""
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:2
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:1
 msgid "复制下载链接"
-msgstr ""
+msgstr "Der Download-Link kopieren"
 
 #: src/pages/surface/layouts/Widget.vue:14
 msgid "复制失败"
-msgstr ""
+msgstr "kopieren fehlgeschlagen"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:43
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:62
@@ -163,218 +164,223 @@ msgstr ""
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:1
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:12
 msgid "复制链接"
-msgstr ""
+msgstr "Link kopieren"
 
 #: src/pages/surface/views/page/Donate.vue:17
 msgid "大老板"
-msgstr ""
+msgstr "großer Chef"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:57
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:55
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:7
 msgid "奶牛快传下载"
-msgstr ""
+msgstr "Cowtransfer laden"
 
 #: src/pages/surface/views/page/Donate.vue:19
 msgid "好心人"
-msgstr ""
+msgstr "Gutherziger Man"
 
 #: src/pages/surface/layouts/Widget.vue:11
 #: src/pages/surface/layouts/Widget.vue:2
 msgid "如果有幸帮到你"
-msgstr ""
+msgstr "Wenn ich das Glück habe, Ihnen zu helfen"
 
 #: src/pages/surface/router.js:68
 msgid "安装描述文件"
-msgstr ""
+msgstr "Profil installieren"
 
 #: src/pages/surface/router.js:6
 msgid "尝鲜派"
-msgstr ""
+msgstr "BetaHub"
 
 #: src/pages/manage/views/other/About.vue:8
 #: src/pages/surface/components/FooterComponent.vue:7
 msgid "开发模式"
-msgstr ""
+msgstr "Developer-Programm"
 
 #: src/components/Card/SubCard.vue:18
 #: src/pages/surface/views/firmware/FirmwaresList.vue:8
 msgid "开发者测试版"
-msgstr ""
+msgstr "Developer Beta testen"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:4
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:2
 msgid "开始下载吧"
-msgstr ""
+msgstr "Anfang laden bitte"
 
 #: src/pages/surface/components/SetLanguage/SetLanguage.vue:10
 msgid "当前语言"
-msgstr ""
+msgstr "aktuelle Sprache"
 
 #: src/pages/surface/views/page/Donate.vue:3
 msgid "微信扫描下方二维码"
-msgstr ""
+msgstr "Scannen Sie den QR-Code unten auf WeChat"
 
 #: src/lib/translate/info.js:26
 msgid "德语"
-msgstr ""
+msgstr "Deutsch"
 
 #: src/pages/surface/views/Install.vue:41
 msgid "您希望直接下载升级工具而跳过本教程吗"
 msgstr ""
+"Möchten Sie das Upgrade-Tool direkt herunterladen und dieses Tutorial "
+"überspringen"
 
 #: src/pages/surface/views/Install.vue:42
 msgid "您希望直接下载描述文件而跳过本教程吗"
 msgstr ""
+"Möchten Sie das Profil direkt herunterladen und dieses Tutorial überspringen"
 
 #: src/pages/surface/layouts/Widget.vue:28
 msgid "感谢您~"
-msgstr ""
+msgstr "Dankschön~"
 
 #: src/pages/surface/layouts/Widget.vue:67
 msgid "成为特别赞助商"
-msgstr ""
+msgstr "Werden Sie ein besonderer Sponsor"
 
 #: src/pages/surface/layouts/Widget.vue:139
 msgid "找到我们"
-msgstr ""
+msgstr "Finde uns"
 
 #: src/pages/surface/components/SetLanguage/SetLanguage.vue:29
 msgid "报告问题"
-msgstr ""
+msgstr "Prüfbericht"
 
 #: src/pages/surface/components/HeaderComponent.vue:20
 #: src/pages/surface/components/HeaderComponent.vue:41
 #: src/pages/surface/router.js:58
 msgid "捐助"
-msgstr ""
+msgstr "Spenden"
 
 #: src/pages/surface/layouts/Widget.vue:20
 #: src/pages/surface/views/Install.vue:17
 #: src/pages/surface/views/Install.vue:14
 msgid "捐助我们"
-msgstr ""
+msgstr "Spenden Sie an uns"
 
 #: src/pages/surface/layouts/Widget.vue:12
 #: src/pages/surface/layouts/Widget.vue:3
 msgid "捐助我们别吝惜"
-msgstr ""
+msgstr "Bitte spenden Sie für uns, seien Sie nicht geizig"
 
 #: src/pages/surface/views/page/Donate.vue:2
 msgid "捐助榜"
-msgstr ""
+msgstr "Spendenliste"
 
 #: src/pages/surface/views/page/Donate.vue:15
 msgid "捐助金额"
-msgstr ""
+msgstr "Spendenbetrag"
 
 #: src/pages/surface/views/Install.vue:32
 #: src/pages/surface/views/Install.vue:56
 msgid "描述文件的链接已复制到您的剪贴板，请参照这篇教程来使用"
 msgstr ""
+"Der Link des Profil wurde in Ihre Zwischenablage kopiert, bitte verwenden "
+"Sie dieses Tutorial"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:13
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:11
 msgid "文件大小:"
-msgstr ""
+msgstr "Dateigröße:"
 
 #: src/pages/surface/components/FooterComponent.vue:2
 msgid "无派科技（深圳）有限公司"
-msgstr ""
+msgstr "nooTag Tech"
 
 #: src/pages/surface/views/page/Donate.vue:23
 msgid "日期"
-msgstr ""
+msgstr "Datum"
 
 #: src/lib/translate/info.js:12
 msgid "日语"
-msgstr ""
+msgstr "Japanisch"
 
 #: src/pages/surface/views/page/Donate.vue:10
 msgid "昵称"
-msgstr ""
+msgstr "Name"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:73
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:71
 msgid "更新日志"
-msgstr ""
+msgstr "Changelog"
 
 #: src/pages/surface/router.js:79
 msgid "未找到页面"
-msgstr ""
+msgstr "Seite nicht gefunden"
 
 #: src/components/Card/SubCard.vue:28
 msgid "查看教程"
-msgstr ""
+msgstr "Tutorial ansehen"
 
 #: src/components/Card/SubCard.vue:20
 #: src/pages/surface/views/firmware/FirmwaresList.vue:7
 msgid "正式版"
-msgstr ""
+msgstr "offizielle Version"
 
 #: src/lib/translate/info.js:33
 msgid "法语"
-msgstr ""
+msgstr "Französisch"
 
 #: src/pages/surface/components/FooterComponent.vue:9
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:15
 #: src/pages/surface/views/firmware/FirmwaresList.vue:10
 msgid "版本"
-msgstr ""
+msgstr "Version"
 
 #: src/pages/surface/layouts/Widget.vue:115
 msgid "特别赞助"
-msgstr ""
+msgstr "Sondersponsor"
 
 #: src/pages/surface/views/Install.vue:43
 msgid "直接下载"
-msgstr ""
+msgstr "Herunterladen"
 
 #: src/pages/surface/views/Install.vue:39
 #: src/pages/surface/views/Install.vue:55
 msgid "稍等一下..."
-msgstr ""
+msgstr "Warte mal..."
 
 #: src/lib/translate/info.js:47
 msgid "简体中文"
-msgstr ""
+msgstr "Chinesisch (Vereinfacht)"
 
 #: src/lib/translate/info.js:40
 msgid "繁体中文"
-msgstr ""
+msgstr "Chinesisch (Traditionell)"
 
 #: src/pages/surface/layouts/Widget.vue:8
 msgid "网站现在不盈利"
-msgstr ""
+msgstr "Kauf uns einen Kaffee"
 
 #: src/pages/surface/components/SetLanguage/SetLanguageItem.vue:11
 msgid "翻译来自志愿者"
-msgstr ""
+msgstr "Übersetzung von Freiwilligen"
 
 #: src/pages/surface/layouts/Widget.vue:55
 msgid "老孙的店"
-msgstr ""
+msgstr "Sun Store"
 
 #: src/pages/surface/views/page/Donate.vue:18
 msgid "老板"
-msgstr ""
+msgstr "Chef"
 
 #: src/lib/translate/info.js:5
 msgid "英语"
-msgstr ""
+msgstr "Englisch"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:38
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:36
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:9
 msgid "苹果服务器下载"
-msgstr ""
+msgstr "Apple-Server laden"
 
 #: src/pages/surface/router.js:31
 #: src/pages/surface/views/firmware/DevicesList.vue:15
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:14
 #: src/pages/surface/views/firmware/FirmwaresList.vue:6
 msgid "设备型号"
-msgstr ""
+msgstr "Modellkategorien"
 
 #: src/pages/surface/views/firmware/DevicesList.vue:18
 msgid "设备标识符"
@@ -384,60 +390,71 @@ msgstr ""
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:23
 msgid "该固件已经停止验证，无法通过 iTunes 恢复。"
 msgstr ""
+"Die Firmware wurde nicht mehr überprüft und kann nicht über iTunes "
+"wiederhergestellt werden."
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:103
 msgid "该固件正常验证中，可以通过 iTunes 进行「升级」或「恢复」。"
 msgstr ""
+"Die Firmware kann während der normalen Überprüfung über iTunes 「aktualisiert」"
+" oder 「wiederhergestellt」 werden."
 
 #: src/pages/surface/views/Install.vue:68
 msgid "请在 Safari 中打开本页面"
-msgstr ""
+msgstr "Bitte öffnen Sie diese Seite in Safari"
 
 #: src/pages/surface/views/firmware/DevicesList.vue:4
 msgid "请在下面选择您的设备型号"
-msgstr ""
+msgstr "Bitte wählen Sie unten Ihr Gerätemodell aus"
 
 #: src/pages/surface/views/firmware/DeviceGroup.vue:3
 msgid "请在下面选择您的设备类型"
-msgstr ""
+msgstr "Bitte wählen Sie unten Ihren Gerätetyp aus"
 
 #: src/pages/surface/layouts/Widget.vue:29
 msgid ""
 "请在手机中点击此按钮，或在微信搜索「老孙的店」小程序，淘宝搜索「老孙的某宝"
 "店」店铺，感谢您的支持。"
 msgstr ""
+"Bitte klicken Sie auf Ihrem Mobiltelefon auf diese Schaltfläche oder suchen "
+"Sie auf WeChat nach dem Applet 「老孙的店」 und suchen Sie auf Taobao nach 「老孙的某宝店」"
+". Vielen Dank für Ihre Unterstützung."
 
 #: src/pages/surface/views/firmware/FirmwaresList.vue:4
 msgid ""
 "请选择您需要下载的固件版本，验证状态绿色标识为「目前可升级/恢复」版本，红色标"
 "识为「目前不可升级/恢复」版本。"
 msgstr ""
+"Bitte wählen Sie die Version der Firmware aus, die Sie herunterladen "
+"möchten. Der grüne Verifizierungsstatus ist die Version 「jetzt "
+"aktualisierbar/wiederherstellbar」 und die rote Version ist die Version 「"
+"jetzt nicht aktualisierbar/wiederherstellbar」."
 
 #: src/pages/surface/views/firmware/GoBack.vue:4
 msgid "返回上一级"
-msgstr ""
+msgstr "Zurück"
 
 #: src/pages/surface/layouts/Widget.vue:29
 msgid "销售额的一部分会作为网站的经费："
-msgstr ""
+msgstr "Ein Teil des Verkaufs wird zur Finanzierung der Website verwendet:"
 
 #: src/pages/surface/views/Install.vue:44
 msgid "阅读教程"
-msgstr ""
+msgstr "Anleitung lesen"
 
 #: src/lib/translate/info.js:19
 msgid "韩语"
-msgstr ""
+msgstr "Koreanisch"
 
 #: src/pages/surface/components/HeaderComponent.vue:15
 #: src/pages/surface/components/HeaderComponent.vue:36
 #: src/pages/surface/router.js:25
 msgid "首页"
-msgstr ""
+msgstr "Titelseite"
 
 #: src/pages/surface/views/firmware/FirmwaresList.vue:18
 msgid "验证状态"
-msgstr ""
+msgstr "Verifizierungsstatus"
 
 #~ msgid "Apple"
 #~ msgstr "APPLE"
