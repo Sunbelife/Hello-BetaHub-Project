@@ -5,8 +5,8 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2022-02-13 04:39+0000\n"
 "Last-Translator: 孫斌 <1335310642@qq.com>\n"
-"Language-Team: German <http://hello.betahub.cn/projects/Betahub/betahub/de/>"
-"\n"
+"Language-Team: German <http://hello.betahub.cn/projects/Betahub/betahub/de/"
+">\n"
 "Language: de_DE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,10 +18,6 @@ msgstr ""
 #: src/pages/surface/router.js:74
 msgid "404页面"
 msgstr "404 Fehler"
-
-#: src/pages/surface/router.js:25
-msgid "Apple"
-msgstr "Apple"
 
 #: src/pages/surface/layouts/Widget.vue:8
 #: src/pages/surface/views/Install.vue:67
@@ -37,11 +33,11 @@ msgstr "Upload-Zeit:"
 msgid "下载"
 msgstr "Laden"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:70
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:72
 msgid "下载链接已拷贝到您的剪切板啦~"
 msgstr "Der Download-Link wurde in Ihre Zwischenablage kopiert~"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:72
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:74
 msgid "下载链接拷贝失败"
 msgstr "Der Download-Link konnte nicht kopiert werden"
 
@@ -49,7 +45,7 @@ msgstr "Der Download-Link konnte nicht kopiert werden"
 msgid "以下是我们特别赞助商的产品。"
 msgstr "Im Folgenden sind die Produkte unserer Sponsoren."
 
-#: src/components/Card/SubCard.vue:27
+#: src/components/Card/SubCard.vue:19
 msgid "候选发布版"
 msgstr "RC-Version"
 
@@ -96,7 +92,7 @@ msgstr "mit BetaHub teilnehmen"
 msgid "加入翻译"
 msgstr "Übersetzen"
 
-#: src/components/Card/SubCard.vue:35
+#: src/components/Card/SubCard.vue:27
 msgid "即刻尝鲜"
 msgstr "Versuch's jetzt"
 
@@ -195,7 +191,7 @@ msgstr "BetaHub"
 msgid "开发模式"
 msgstr "Developer-Programm"
 
-#: src/components/Card/SubCard.vue:26
+#: src/components/Card/SubCard.vue:18
 #: src/pages/surface/views/firmware/FirmwaresList.vue:8
 msgid "开发者测试版"
 msgstr "Developer Beta testen"
@@ -213,7 +209,7 @@ msgstr "aktuelle Sprache"
 msgid "微信扫描下方二维码"
 msgstr "Scannen Sie den QR-Code unten auf WeChat"
 
-#: src/lib/translate/info.js:23
+#: src/lib/translate/info.js:26
 msgid "德语"
 msgstr "Deutsch"
 
@@ -289,7 +285,7 @@ msgstr "nooTag Tech"
 msgid "日期"
 msgstr "Datum"
 
-#: src/lib/translate/info.js:11
+#: src/lib/translate/info.js:12
 msgid "日语"
 msgstr "Japanisch"
 
@@ -297,8 +293,8 @@ msgstr "Japanisch"
 msgid "昵称"
 msgstr "Name"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:69
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:67
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:2
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:1
 msgid "更新日志"
 msgstr "Changelog"
 
@@ -306,16 +302,16 @@ msgstr "Changelog"
 msgid "未找到页面"
 msgstr "Seite nicht gefunden"
 
-#: src/components/Card/SubCard.vue:36
+#: src/components/Card/SubCard.vue:28
 msgid "查看教程"
 msgstr "Tutorial ansehen"
 
-#: src/components/Card/SubCard.vue:28
+#: src/components/Card/SubCard.vue:20
 #: src/pages/surface/views/firmware/FirmwaresList.vue:7
 msgid "正式版"
 msgstr "offizielle Version"
 
-#: src/lib/translate/info.js:29
+#: src/lib/translate/info.js:33
 msgid "法语"
 msgstr "Französisch"
 
@@ -338,11 +334,11 @@ msgstr "Herunterladen"
 msgid "稍等一下..."
 msgstr "Warte mal..."
 
-#: src/lib/translate/info.js:40
+#: src/lib/translate/info.js:47
 msgid "简体中文"
 msgstr "Chinesisch (Vereinfacht)"
 
-#: src/lib/translate/info.js:35
+#: src/lib/translate/info.js:40
 msgid "繁体中文"
 msgstr "Chinesisch (Traditionell)"
 
@@ -385,7 +381,7 @@ msgstr ""
 "Die Firmware wurde nicht mehr überprüft und kann nicht über iTunes "
 "wiederhergestellt werden."
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:102
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:93
 msgid "该固件正常验证中，可以通过 iTunes 进行「升级」或「恢复」。"
 msgstr ""
 "Die Firmware kann während der normalen Überprüfung über iTunes "
@@ -434,19 +430,22 @@ msgstr "Ein Teil des Verkaufs wird zur Finanzierung der Website verwendet:"
 msgid "阅读教程"
 msgstr "Anleitung lesen"
 
-#: src/lib/translate/info.js:17
+#: src/lib/translate/info.js:19
 msgid "韩语"
 msgstr "Koreanisch"
 
 #: src/pages/surface/components/HeaderComponent.vue:15
 #: src/pages/surface/components/HeaderComponent.vue:36
-#: src/pages/surface/router.js:19
+#: src/pages/surface/router.js:25
 msgid "首页"
 msgstr "Titelseite"
 
 #: src/pages/surface/views/firmware/FirmwaresList.vue:18
 msgid "验证状态"
 msgstr "Verifizierungsstatus"
+
+#~ msgid "Apple"
+#~ msgstr "Apple"
 
 #~ msgid "哪种设备？"
 #~ msgstr "Welche Kategorien?"

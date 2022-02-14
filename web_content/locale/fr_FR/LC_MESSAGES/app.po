@@ -17,10 +17,6 @@ msgstr ""
 msgid "404页面"
 msgstr "Page 404"
 
-#: src/pages/surface/router.js:25
-msgid "Apple"
-msgstr ""
-
 #: src/pages/surface/layouts/Widget.vue:8
 #: src/pages/surface/views/Install.vue:67
 msgid "iBeta 尝鲜派"
@@ -35,11 +31,11 @@ msgstr "Date de publication :"
 msgid "下载"
 msgstr "Téléchargement"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:70
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:72
 msgid "下载链接已拷贝到您的剪切板啦~"
 msgstr "Le lien de téléchargement a été copié"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:72
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:74
 msgid "下载链接拷贝失败"
 msgstr "Copie du lien échouée"
 
@@ -47,7 +43,7 @@ msgstr "Copie du lien échouée"
 msgid "以下是我们特别赞助商的产品。"
 msgstr "Voici les boutiques de nos sponsors."
 
-#: src/components/Card/SubCard.vue:27
+#: src/components/Card/SubCard.vue:19
 msgid "候选发布版"
 msgstr "Version prête"
 
@@ -94,7 +90,7 @@ msgstr "Nous rejoindre"
 msgid "加入翻译"
 msgstr "Traduire"
 
-#: src/components/Card/SubCard.vue:35
+#: src/components/Card/SubCard.vue:27
 msgid "即刻尝鲜"
 msgstr "J’en profite"
 
@@ -193,7 +189,7 @@ msgstr "BetaHub"
 msgid "开发模式"
 msgstr "Mode développeur"
 
-#: src/components/Card/SubCard.vue:26
+#: src/components/Card/SubCard.vue:18
 #: src/pages/surface/views/firmware/FirmwaresList.vue:8
 msgid "开发者测试版"
 msgstr "Bêta développeur"
@@ -211,7 +207,7 @@ msgstr "langue courante"
 msgid "微信扫描下方二维码"
 msgstr "Scanner le code QR par WeChat"
 
-#: src/lib/translate/info.js:23
+#: src/lib/translate/info.js:26
 msgid "德语"
 msgstr "allemand"
 
@@ -282,7 +278,7 @@ msgstr "nooTag Tech"
 msgid "日期"
 msgstr "Date"
 
-#: src/lib/translate/info.js:11
+#: src/lib/translate/info.js:12
 msgid "日语"
 msgstr "Japonais"
 
@@ -290,8 +286,8 @@ msgstr "Japonais"
 msgid "昵称"
 msgstr "Nom"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:69
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:67
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:2
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:1
 msgid "更新日志"
 msgstr "Journal des modifications"
 
@@ -299,16 +295,16 @@ msgstr "Journal des modifications"
 msgid "未找到页面"
 msgstr "Page non trouvée"
 
-#: src/components/Card/SubCard.vue:36
+#: src/components/Card/SubCard.vue:28
 msgid "查看教程"
 msgstr "Lire le tutoriel"
 
-#: src/components/Card/SubCard.vue:28
+#: src/components/Card/SubCard.vue:20
 #: src/pages/surface/views/firmware/FirmwaresList.vue:7
 msgid "正式版"
 msgstr "La version publique"
 
-#: src/lib/translate/info.js:29
+#: src/lib/translate/info.js:33
 msgid "法语"
 msgstr "Français"
 
@@ -331,11 +327,11 @@ msgstr "Télécharger"
 msgid "稍等一下..."
 msgstr "Veuillez attendre…"
 
-#: src/lib/translate/info.js:40
+#: src/lib/translate/info.js:47
 msgid "简体中文"
 msgstr "Chinois simplifié"
 
-#: src/lib/translate/info.js:35
+#: src/lib/translate/info.js:40
 msgid "繁体中文"
 msgstr "Chinois traditionnel"
 
@@ -377,7 +373,7 @@ msgid "该固件已经停止验证，无法通过 iTunes 恢复。"
 msgstr ""
 "Ce firmware n’est plus signé, vous ne pouvez pas rétrograder avec iTunes. "
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:102
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:93
 msgid "该固件正常验证中，可以通过 iTunes 进行「升级」或「恢复」。"
 msgstr ""
 "Ce firmware est signé, vous pouvez mettre à jour ou rétrograder vers cela "
@@ -425,13 +421,13 @@ msgstr "Une partie du chiffre d’affaires seront notre source financière : "
 msgid "阅读教程"
 msgstr "Lire le tutoriel"
 
-#: src/lib/translate/info.js:17
+#: src/lib/translate/info.js:19
 msgid "韩语"
 msgstr "Coréen"
 
 #: src/pages/surface/components/HeaderComponent.vue:15
 #: src/pages/surface/components/HeaderComponent.vue:36
-#: src/pages/surface/router.js:19
+#: src/pages/surface/router.js:25
 msgid "首页"
 msgstr "Accueil"
 
