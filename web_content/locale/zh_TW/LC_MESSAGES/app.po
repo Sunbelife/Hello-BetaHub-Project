@@ -1,16 +1,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-02-14 02:45+0000\n"
+"Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
+"Language-Team: Chinese (Traditional) <http://hello.betahub.cn/projects/"
+"Betahub/betahub/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.10.1\n"
 "Generated-By: easygettext\n"
-"X-Generator: Poedit 3.0.1\n"
 
 #: src/pages/surface/router.js:74
 msgid "404页面"
@@ -116,11 +119,11 @@ msgstr "韌體下載"
 
 #: src/pages/surface/router.js:36
 msgid "固件列表"
-msgstr ""
+msgstr "固件列表"
 
 #: src/pages/surface/router.js:41
 msgid "固件详情"
-msgstr ""
+msgstr "固件詳情"
 
 #: src/pages/surface/layouts/Widget.vue:41
 msgid "在微信上关注 @iBeta尝鲜派"
@@ -374,7 +377,7 @@ msgstr "設備型號"
 
 #: src/pages/surface/views/firmware/DevicesList.vue:18
 msgid "设备标识符"
-msgstr ""
+msgstr "設備標識符"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:25
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:23
