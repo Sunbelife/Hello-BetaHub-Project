@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-14 07:44+0000\n"
-"Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
+"PO-Revision-Date: 2022-02-15 17:30+0000\n"
+"Last-Translator: 孫斌 <1335310642@qq.com>\n"
 "Language-Team: German <http://hello.betahub.cn/projects/Betahub/betahub/de/>"
 "\n"
 "Language: de\n"
@@ -386,7 +386,7 @@ msgstr "Modellkategorien"
 #: src/pages/surface/views/firmware/DevicesList.vue:16
 #: src/pages/surface/views/firmware/FirmwaresList.vue:40
 msgid "设备标识符"
-msgstr "Gerätekennung"
+msgstr "Gerätekennungen"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:25
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:23
