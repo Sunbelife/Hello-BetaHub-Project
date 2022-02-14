@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-13 04:39+0000\n"
+"PO-Revision-Date: 2022-02-14 02:45+0000\n"
 "Last-Translator: GuoDongHao <guodonghao18@gmail.com>\n"
 "Language-Team: Japanese <http://hello.betahub.cn/projects/Betahub/betahub/"
 "jp_JP/>\n"
@@ -267,7 +267,7 @@ msgstr "寄付ランク"
 
 #: src/pages/surface/views/page/Donate.vue:15
 msgid "捐助金额"
-msgstr "寄付金額（中国元）"
+msgstr "寄付金額（人民元）"
 
 #: src/pages/surface/views/Install.vue:32
 #: src/pages/surface/views/Install.vue:56
@@ -382,7 +382,7 @@ msgstr "モデル"
 
 #: src/pages/surface/views/firmware/DevicesList.vue:18
 msgid "设备标识符"
-msgstr ""
+msgstr "デバイス識別子"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:25
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:23
