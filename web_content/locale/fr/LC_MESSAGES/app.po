@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-14 03:34+0000\n"
+"PO-Revision-Date: 2022-02-14 07:44+0000\n"
 "Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
-"Language-Team: French <http://hello.betahub.cn/projects/Betahub/betahub/fr/"
-">\n"
+"Language-Team: French <http://hello.betahub.cn/projects/Betahub/betahub/fr/>"
+"\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -122,11 +122,11 @@ msgstr "Téléchargement de firmware"
 
 #: src/pages/surface/router.js:35
 msgid "固件列表"
-msgstr ""
+msgstr "Liste des micrologiciels"
 
 #: src/pages/surface/router.js:40
 msgid "固件详情"
-msgstr ""
+msgstr "Détails du micrologiciel"
 
 #: src/pages/surface/layouts/Widget.vue:41
 msgid "在微信上关注 @iBeta尝鲜派"
@@ -381,7 +381,7 @@ msgstr "Le modèle d’appareil"
 #: src/pages/surface/views/firmware/DevicesList.vue:16
 #: src/pages/surface/views/firmware/FirmwaresList.vue:40
 msgid "设备标识符"
-msgstr ""
+msgstr "identifiant de l'appareil"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:25
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:23
