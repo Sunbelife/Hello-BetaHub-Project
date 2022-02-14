@@ -29,15 +29,16 @@ msgstr "BetaHub"
 msgid "上传时间:"
 msgstr "Upload-Zeit:"
 
+#: src/pages/surface/views/firmware/DevicesList.vue:29
 #: src/pages/surface/views/firmware/FirmwaresList.vue:23
 msgid "下载"
 msgstr "Laden"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:72
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:74
 msgid "下载链接已拷贝到您的剪切板啦~"
 msgstr "Der Download-Link wurde in Ihre Zwischenablage kopiert~"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:74
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:76
 msgid "下载链接拷贝失败"
 msgstr "Der Download-Link konnte nicht kopiert werden"
 
@@ -100,6 +101,10 @@ msgstr "Versuch's jetzt"
 msgid "即可向我们捐赠"
 msgstr "Kann uns spenden"
 
+#: src/pages/surface/views/firmware/DevicesList.vue:22
+msgid "发布时间"
+msgstr "Veröffentlichkeitsdatum"
+
 #: src/pages/surface/views/firmware/DevicesList.vue:3
 msgid "哪个型号？"
 msgstr "Welches Kategorien?"
@@ -136,10 +141,10 @@ msgstr "Folgen Sie auf Weibo"
 msgid "在淘宝上购买"
 msgstr "Bei Taobao kaufen"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:30
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:50
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:28
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:48
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:31
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:51
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:29
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:49
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:2
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:1
 msgid "复制下载链接"
@@ -149,10 +154,10 @@ msgstr "Der Download-Link kopieren"
 msgid "复制失败"
 msgstr "kopieren fehlgeschlagen"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:42
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:61
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:40
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:59
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:43
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:62
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:41
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:60
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:14
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:1
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:12
@@ -163,8 +168,8 @@ msgstr "Link kopieren"
 msgid "大老板"
 msgstr "großer Chef"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:56
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:54
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:57
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:55
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:7
 msgid "奶牛快传下载"
 msgstr "Cowtransfer laden"
@@ -293,8 +298,8 @@ msgstr "Japanisch"
 msgid "昵称"
 msgstr "Name"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:2
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:1
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:73
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:71
 msgid "更新日志"
 msgstr "Changelog"
 
@@ -362,26 +367,31 @@ msgstr "Chef"
 msgid "英语"
 msgstr "Englisch"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:37
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:35
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:38
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:36
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:9
 msgid "苹果服务器下载"
 msgstr "Apple-Server laden"
 
 #: src/pages/surface/router.js:31
+#: src/pages/surface/views/firmware/DevicesList.vue:15
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:14
 #: src/pages/surface/views/firmware/FirmwaresList.vue:6
 msgid "设备型号"
 msgstr "Modellkategorien"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:24
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:22
+#: src/pages/surface/views/firmware/DevicesList.vue:18
+msgid "设备标识符"
+msgstr ""
+
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:25
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:23
 msgid "该固件已经停止验证，无法通过 iTunes 恢复。"
 msgstr ""
 "Die Firmware wurde nicht mehr überprüft und kann nicht über iTunes "
 "wiederhergestellt werden."
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:93
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:103
 msgid "该固件正常验证中，可以通过 iTunes 进行「升级」或「恢复」。"
 msgstr ""
 "Die Firmware kann während der normalen Überprüfung über iTunes "
@@ -466,6 +476,3 @@ msgstr "Verifizierungsstatus"
 #~ msgstr ""
 #~ "↑ Vielen Dank für den Test und die Bildschirmfotos von @Alien、@Mobei、"
 #~ "@Mars.W"
-
-#~ msgid "发布时间"
-#~ msgstr "Veröffentlichkeitsdatum"
