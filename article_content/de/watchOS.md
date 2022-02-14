@@ -1,21 +1,21 @@
-所需的描述文件已经开始下载
-请确保您在 Safari 浏览器中打开，并已将配对的手机升级至手表配对所需的版本。
-您会看到如下提示：
+Das Profil wird heruntergeladen
+Bitte stellen Sie sicher, dass Sie es in Safari öffnen, Und das gekoppelte iPhone wurde auf die Version aktualisiert, die zum Koppeln das iWatch erforderlich ist
+Sie sehen die folgende Eingabeaufforderung:
 
 ![][Install Profile Alert]
 
-请点击「允许」
-接着按照提示在设置中安装描述文件，安装时请确保手表已解锁
+Bitte klicken Sie auf 「Zulassen」
+Folgen Sie dann den Anweisungen, um die Beschreibungsdatei in den Einstellungen zu installieren,Bitte stellen Sie sicher, dass das iWatch bei der Installation entsperrt ist
 
 ![][After Install Profile]
 
-接着即可在「Watch - 通用 - 软件更新」中收到测试版更新
+Dann können Sie das Beta-Update unter 「Watch-Allgemein-Softwareupdate」 erhalten.
 
 ![][System Update]
 
-感谢使用尝鲜派
-如果我们的工作帮助到您
-请向我们捐助或赞助我们
+Danke für die Nutzung von BetaHub
+Wenn unsere Arbeit Ihnen hilft
+Bitte spenden Sie an uns oder sponsern Sie uns
 
 [Install Profile Alert]: https://tva1.sinaimg.cn/large/008i3skNgy1gwqlc5hlmuj30gz0afgli.jpg
 [After Install Profile]: https://tva1.sinaimg.cn/large/008i3skNgy1gwqoqzmdmwj311q0hqdgl.jpg
