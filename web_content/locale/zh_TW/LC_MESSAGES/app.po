@@ -1,24 +1,23 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-02-14 02:45+0000\n"
+"Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
+"Language-Team: Chinese (Traditional) <http://hello.betahub.cn/projects/"
+"Betahub/betahub/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.10.1\n"
 "Generated-By: easygettext\n"
-"X-Generator: Poedit 3.0.1\n"
 
 #: src/pages/surface/router.js:74
 msgid "404页面"
 msgstr "404 not found"
-
-#: src/pages/surface/router.js:25
-msgid "Apple"
-msgstr ""
 
 #: src/pages/surface/layouts/Widget.vue:8
 #: src/pages/surface/views/Install.vue:67
@@ -30,15 +29,16 @@ msgstr "嚐鮮派"
 msgid "上传时间:"
 msgstr "上傳時間:"
 
+#: src/pages/surface/views/firmware/DevicesList.vue:29
 #: src/pages/surface/views/firmware/FirmwaresList.vue:23
 msgid "下载"
 msgstr "下載"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:70
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:74
 msgid "下载链接已拷贝到您的剪切板啦~"
 msgstr "下載連結已複製到您的剪貼板啦~"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:72
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:76
 msgid "下载链接拷贝失败"
 msgstr "下載連結複製失敗"
 
@@ -46,7 +46,7 @@ msgstr "下載連結複製失敗"
 msgid "以下是我们特别赞助商的产品。"
 msgstr "以下是我們特別贊助商的產品。"
 
-#: src/components/Card/SubCard.vue:27
+#: src/components/Card/SubCard.vue:19
 msgid "候选发布版"
 msgstr "候選發佈版"
 
@@ -93,13 +93,17 @@ msgstr "加入嚐鮮派"
 msgid "加入翻译"
 msgstr "加入翻譯"
 
-#: src/components/Card/SubCard.vue:35
+#: src/components/Card/SubCard.vue:27
 msgid "即刻尝鲜"
 msgstr "即刻嘗鮮"
 
 #: src/pages/surface/views/page/Donate.vue:4
 msgid "即可向我们捐赠"
 msgstr "即可向我們捐贈"
+
+#: src/pages/surface/views/firmware/DevicesList.vue:22
+msgid "发布时间"
+msgstr "發佈時間"
 
 #: src/pages/surface/views/firmware/DevicesList.vue:3
 msgid "哪个型号？"
@@ -115,11 +119,11 @@ msgstr "韌體下載"
 
 #: src/pages/surface/router.js:36
 msgid "固件列表"
-msgstr ""
+msgstr "固件列表"
 
 #: src/pages/surface/router.js:41
 msgid "固件详情"
-msgstr ""
+msgstr "固件詳情"
 
 #: src/pages/surface/layouts/Widget.vue:41
 msgid "在微信上关注 @iBeta尝鲜派"
@@ -137,10 +141,10 @@ msgstr "在微博上關注 @iBeta嚐鮮派"
 msgid "在淘宝上购买"
 msgstr "在淘寶上購買"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:30
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:50
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:28
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:48
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:31
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:51
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:29
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:49
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:2
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:1
 msgid "复制下载链接"
@@ -150,10 +154,10 @@ msgstr "複製下載連結"
 msgid "复制失败"
 msgstr "複製失敗"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:42
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:61
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:40
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:59
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:43
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:62
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:41
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:60
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:14
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:1
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:12
@@ -164,8 +168,8 @@ msgstr "複製連結"
 msgid "大老板"
 msgstr "大老闆"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:56
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:54
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:57
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:55
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:7
 msgid "奶牛快传下载"
 msgstr "奶牛快傳下載"
@@ -192,7 +196,7 @@ msgstr "嚐鮮派"
 msgid "开发模式"
 msgstr "開發模式"
 
-#: src/components/Card/SubCard.vue:26
+#: src/components/Card/SubCard.vue:18
 #: src/pages/surface/views/firmware/FirmwaresList.vue:8
 msgid "开发者测试版"
 msgstr "開發者測試版"
@@ -210,7 +214,7 @@ msgstr "當前語言"
 msgid "微信扫描下方二维码"
 msgstr "微信掃描下方QR Code"
 
-#: src/lib/translate/info.js:23
+#: src/lib/translate/info.js:26
 msgid "德语"
 msgstr "德語"
 
@@ -281,7 +285,7 @@ msgstr "nooTag Tech."
 msgid "日期"
 msgstr "日期"
 
-#: src/lib/translate/info.js:11
+#: src/lib/translate/info.js:12
 msgid "日语"
 msgstr "日語"
 
@@ -289,8 +293,8 @@ msgstr "日語"
 msgid "昵称"
 msgstr "暱稱"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:69
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:67
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:73
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:71
 msgid "更新日志"
 msgstr "更新日誌"
 
@@ -298,16 +302,16 @@ msgstr "更新日誌"
 msgid "未找到页面"
 msgstr "404 not found"
 
-#: src/components/Card/SubCard.vue:36
+#: src/components/Card/SubCard.vue:28
 msgid "查看教程"
 msgstr "查看教程"
 
-#: src/components/Card/SubCard.vue:28
+#: src/components/Card/SubCard.vue:20
 #: src/pages/surface/views/firmware/FirmwaresList.vue:7
 msgid "正式版"
 msgstr "正式版"
 
-#: src/lib/translate/info.js:29
+#: src/lib/translate/info.js:33
 msgid "法语"
 msgstr "法語"
 
@@ -330,11 +334,11 @@ msgstr "直接下載"
 msgid "稍等一下..."
 msgstr "稍等一下..."
 
-#: src/lib/translate/info.js:40
+#: src/lib/translate/info.js:47
 msgid "简体中文"
 msgstr "簡體中文"
 
-#: src/lib/translate/info.js:35
+#: src/lib/translate/info.js:40
 msgid "繁体中文"
 msgstr "繁體中文"
 
@@ -358,24 +362,29 @@ msgstr "老闆"
 msgid "英语"
 msgstr "英語"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:37
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:35
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:38
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:36
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:9
 msgid "苹果服务器下载"
 msgstr "Apple 伺服器下載"
 
 #: src/pages/surface/router.js:31
+#: src/pages/surface/views/firmware/DevicesList.vue:15
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:14
 #: src/pages/surface/views/firmware/FirmwaresList.vue:6
 msgid "设备型号"
 msgstr "設備型號"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:24
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:22
+#: src/pages/surface/views/firmware/DevicesList.vue:18
+msgid "设备标识符"
+msgstr "設備標識符"
+
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:25
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:23
 msgid "该固件已经停止验证，无法通过 iTunes 恢复。"
 msgstr "該韌體已經停止驗證，無法通過 iTunes 回復。"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:102
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:103
 msgid "该固件正常验证中，可以通过 iTunes 进行「升级」或「恢复」。"
 msgstr "該韌體正常驗證中，可以通過 iTunes 進行「升級」或「回復」。"
 
@@ -419,13 +428,13 @@ msgstr "銷售額的一部分會作為網站的經費："
 msgid "阅读教程"
 msgstr "閱讀教學"
 
-#: src/lib/translate/info.js:17
+#: src/lib/translate/info.js:19
 msgid "韩语"
 msgstr "韓語"
 
 #: src/pages/surface/components/HeaderComponent.vue:15
 #: src/pages/surface/components/HeaderComponent.vue:36
-#: src/pages/surface/router.js:19
+#: src/pages/surface/router.js:25
 msgid "首页"
 msgstr "首頁"
 
@@ -447,9 +456,6 @@ msgstr "驗證狀態"
 
 #~ msgid "↑ 感谢 @Alien、@Mobei、@Mars.W 提供测试与截图"
 #~ msgstr "↑ 感謝 @Alien、@Mobei、@Mars.W 提供測試與截圖"
-
-#~ msgid "发布时间"
-#~ msgstr "發佈時間"
 
 #~ msgid "如果我们的工作帮助到您"
 #~ msgstr "如果我們的工作幫助到您"

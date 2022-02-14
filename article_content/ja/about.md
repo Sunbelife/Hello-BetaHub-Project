@@ -1,6 +1,6 @@
 ## Intro | 简介
 
-This is iBeta, 「iBeta」 is a gathering place for people who wants to experience the latest iOS beta firmware. At first, because of less access to Apple Developer Beta firmware, and there is no unified website to collect this kind of info, so I built the iBeta with the support of some people, I bought an Apple Developer's account, and put the profile link on the website for everyone. We met 3 million visits within a few months and the iOS Beta experience report also has millions of readings, and the donation from all over the world reached a total of thousands of dollars. Now here is the brand new iBeta 2.0.
+这里是尝鲜派的关于页面，「尝鲜派」是一个尝鲜者的聚集地，最初因为 Apple Developer Beta 的更新渠道少、更新不及时、也没有统一的网站收集这部分信息，于是在一些支持者的支持下，我建立了这个 iBeta 尝鲜派，自购了一个 Apple Developer 开发者账号，并将描述文件挂在网站上供大家使用，几个月之内便聚集了 300 万次访问，iOS Beta 的体验报告也累计了百万的阅读量，来自世界各地的捐赠累计有了数千元，如今便有了现在的尝鲜派 2.0
 
 在这个版本里，我们进一步把 Apple Beta 的更新体验提升，而且有了 0xJacky 和 Hintay 的帮助，我们把 UI 更新了、也把 iPSW.me 中获取官方固件的接口实现了本地化，解决了访问缓慢的问题，并第一次实现了（应该是国内第一家）从 Apple Developer 官网抓取了测试版系统的固件。
 

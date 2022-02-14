@@ -1,23 +1,22 @@
-プロファイルのダウンロードが開始しました
-こちらのページは Safari で開いたことをご確認した上、
-ペアリングしようとする iPhone のシステムバージョンと Apple Watch のシステムバージョンに満たしていることをご確認ください
-下記のヒントに従って操作してください：
+必要なプロファイルのダウンロードが開始しました
+当ページがSafariで開いた上、iPhoneのシステムバージョンが対応バージョンにアップデートされることをご確認ください。
+以下の手順が表示します：
 
 ![][Install Profile Alert]
 
-「允许」をクリック
-Apple Watch がアンロックしていることを確認した上、ヒントに従ってプロファイルをインストールしてください
+「許可」を押してください
+手順に従って、プロファイルをインストールし、インストール時Apple Watchが解除していることがご確認ください
 
 ![][After Install Profile]
 
-上記のインストールが完了後、「Watch - 一般 - ソフトウェア・アップデート」でベータ版の更新が確認できるようになります
+「Watch-一般-ソフトウェア・アップデート」で更新を確認できるようになります
 
 ![][System Update]
 
-BetaHub ご利用いただきます、ありがとうございます
+BetaHubご利用いただきありがとうございます
 「助かりました」と思ったら
-私たちに寄付することをお考えください
+寄付することをご考えください
 
-[Install Profile Alert]:  https://tva1.sinaimg.cn/large/008i3skNgy1gwqlc5hlmuj30gz0afgli.jpg
-[After Install Profile]:  https://tva1.sinaimg.cn/large/008i3skNgy1gwqoqzmdmwj311q0hqdgl.jpg
-[System Update]:  https://tva1.sinaimg.cn/large/008i3skNgy1gwqoqqe48qj30f10hqq31.jpg
+[Install Profile Alert]: https://tva1.sinaimg.cn/large/008i3skNgy1gwqlc5hlmuj30gz0afgli.jpg
+[After Install Profile]: https://tva1.sinaimg.cn/large/008i3skNgy1gwqoqzmdmwj311q0hqdgl.jpg
+[System Update]: https://tva1.sinaimg.cn/large/008i3skNgy1gwqoqqe48qj30f10hqq31.jpg
