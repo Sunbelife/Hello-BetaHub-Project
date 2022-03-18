@@ -1,12 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
-"POT-Creation-Date: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-15 01:52+0000\n"
 "PO-Revision-Date: 2022-02-14 07:44+0000\n"
 "Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
-"Language-Team: French <http://hello.betahub.cn/projects/Betahub/betahub/fr/>"
-"\n"
+"Language-Team: French <http://hello.betahub.cn/projects/Betahub/betahub/fr/"
+">\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -48,6 +48,18 @@ msgstr "Copie du lien échouée"
 msgid "以下是我们特别赞助商的产品。"
 msgstr "Voici les boutiques de nos sponsors."
 
+#: src/pages/user/views/project/Project.vue:64
+msgid "保存失败"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:60
+msgid "保存成功"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:102
+msgid "修改项目"
+msgstr ""
+
 #: src/components/Card/SubCard.vue:19
 msgid "候选发布版"
 msgstr "Version prête"
@@ -83,6 +95,14 @@ msgstr "Réessayer"
 msgid "再次复制"
 msgstr "Réessayer"
 
+#: src/pages/surface/components/Status/StatusList.vue:2
+msgid "最新动态"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:18
+msgid "创建时间："
+msgstr ""
+
 #: src/pages/surface/layouts/Widget.vue:45
 msgid "加入 TG 群组"
 msgstr "Rejoindre notre groupe TG"
@@ -102,6 +122,10 @@ msgstr "J’en profite"
 #: src/pages/surface/views/page/Donate.vue:4
 msgid "即可向我们捐赠"
 msgstr "Faire un don"
+
+#: src/pages/surface/components/Status/StatusCard.vue:12
+msgid "发布于"
+msgstr ""
 
 #: src/pages/surface/views/firmware/DevicesList.vue:20
 #: src/pages/surface/views/firmware/FirmwaresList.vue:41
@@ -194,7 +218,6 @@ msgstr "Installer le profil bêta"
 msgid "尝鲜派"
 msgstr "BetaHub"
 
-#: src/pages/manage/views/other/About.vue:8
 #: src/pages/surface/components/FooterComponent.vue:7
 msgid "开发模式"
 msgstr "Mode développeur"
@@ -270,15 +293,27 @@ msgstr "Nos donateurs"
 msgid "捐助金额"
 msgstr "Montant du don"
 
+#: src/pages/user/views/project/Project.vue:14
+msgid "描述："
+msgstr ""
+
 #: src/pages/surface/views/Install.vue:32
 #: src/pages/surface/views/Install.vue:56
 msgid "描述文件的链接已复制到您的剪贴板，请参照这篇教程来使用"
 msgstr "Le lien du profil a été copié, vous pouvez consulter ce tutoriel"
 
+#: src/pages/surface/components/Status/StatusCard.vue:22
+msgid "提供"
+msgstr ""
+
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:13
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:11
 msgid "文件大小:"
 msgstr "Taille du fichier :"
+
+#: src/pages/user/views/project/Project.vue:102
+msgid "新建项目"
+msgstr ""
 
 #: src/pages/surface/components/FooterComponent.vue:2
 msgid "无派科技（深圳）有限公司"
@@ -296,10 +331,26 @@ msgstr "Japonais"
 msgid "昵称"
 msgstr "Nom"
 
+#: src/pages/surface/components/Status/StatusList.vue:13
+msgid "显示更多"
+msgstr ""
+
+#: src/pages/surface/components/Status/StatusList.vue:10
+msgid "暂无更多动态"
+msgstr ""
+
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:73
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:71
 msgid "更新日志"
 msgstr "Journal des modifications"
+
+#: src/pages/surface/components/Status/StatusCard.vue:9
+msgid "有更新"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:54
+msgid "服务器错误"
+msgstr ""
 
 #: src/pages/surface/router.js:78
 msgid "未找到页面"
@@ -344,6 +395,10 @@ msgstr "Chinois simplifié"
 #: src/lib/translate/info.js:40
 msgid "繁体中文"
 msgstr "Chinois traditionnel"
+
+#: src/pages/user/views/project/Project.vue:6
+msgid "编辑"
+msgstr ""
 
 #: src/pages/surface/layouts/Widget.vue:8
 msgid "网站现在不盈利"
@@ -440,6 +495,14 @@ msgstr "Lire le tutoriel"
 #: src/lib/translate/info.js:19
 msgid "韩语"
 msgstr "Coréen"
+
+#: src/pages/user/views/project/Project.vue:7
+msgid "项目名称"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:13
+msgid "项目描述"
+msgstr ""
 
 #: src/pages/surface/components/HeaderComponent.vue:15
 #: src/pages/surface/components/HeaderComponent.vue:36

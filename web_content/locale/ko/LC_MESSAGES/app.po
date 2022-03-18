@@ -1,12 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
-"POT-Creation-Date: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-15 01:52+0000\n"
 "PO-Revision-Date: 2022-02-14 07:44+0000\n"
 "Last-Translator: 是猫 <zhangziyi.knu@gmail.com>\n"
-"Language-Team: Korean <http://hello.betahub.cn/projects/Betahub/betahub/ko/>"
-"\n"
+"Language-Team: Korean <http://hello.betahub.cn/projects/Betahub/betahub/ko/"
+">\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -48,6 +48,18 @@ msgstr "다운로드 링크를 복사하지 못했습니다"
 msgid "以下是我们特别赞助商的产品。"
 msgstr "다음은 특별 스폰서의 제품입니다."
 
+#: src/pages/user/views/project/Project.vue:64
+msgid "保存失败"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:60
+msgid "保存成功"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:102
+msgid "修改项目"
+msgstr ""
+
 #: src/components/Card/SubCard.vue:19
 msgid "候选发布版"
 msgstr "후보 버전"
@@ -83,6 +95,14 @@ msgstr "다시 다운로드"
 msgid "再次复制"
 msgstr "다시 복사하기"
 
+#: src/pages/surface/components/Status/StatusList.vue:2
+msgid "最新动态"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:18
+msgid "创建时间："
+msgstr ""
+
 #: src/pages/surface/layouts/Widget.vue:45
 msgid "加入 TG 群组"
 msgstr "Telegram 이 가입하기"
@@ -102,6 +122,10 @@ msgstr "다운로드"
 #: src/pages/surface/views/page/Donate.vue:4
 msgid "即可向我们捐赠"
 msgstr "바로 우리에게 기부할 수 있습니다"
+
+#: src/pages/surface/components/Status/StatusCard.vue:12
+msgid "发布于"
+msgstr ""
 
 #: src/pages/surface/views/firmware/DevicesList.vue:20
 #: src/pages/surface/views/firmware/FirmwaresList.vue:41
@@ -194,7 +218,6 @@ msgstr "프로필을 설치하기"
 msgid "尝鲜派"
 msgstr "BetaHub"
 
-#: src/pages/manage/views/other/About.vue:8
 #: src/pages/surface/components/FooterComponent.vue:7
 msgid "开发模式"
 msgstr "개발 모델"
@@ -270,15 +293,27 @@ msgstr "기부 순위"
 msgid "捐助金额"
 msgstr "기부금액"
 
+#: src/pages/user/views/project/Project.vue:14
+msgid "描述："
+msgstr ""
+
 #: src/pages/surface/views/Install.vue:32
 #: src/pages/surface/views/Install.vue:56
 msgid "描述文件的链接已复制到您的剪贴板，请参照这篇教程来使用"
 msgstr "프로필 링크가 클립보드에 복사되었고 이 튜토리얼을 참조하십시오"
 
+#: src/pages/surface/components/Status/StatusCard.vue:22
+msgid "提供"
+msgstr ""
+
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:13
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:11
 msgid "文件大小:"
 msgstr "파일 크기:"
+
+#: src/pages/user/views/project/Project.vue:102
+msgid "新建项目"
+msgstr ""
 
 #: src/pages/surface/components/FooterComponent.vue:2
 msgid "无派科技（深圳）有限公司"
@@ -296,10 +331,26 @@ msgstr "일본어"
 msgid "昵称"
 msgstr "닉네임"
 
+#: src/pages/surface/components/Status/StatusList.vue:13
+msgid "显示更多"
+msgstr ""
+
+#: src/pages/surface/components/Status/StatusList.vue:10
+msgid "暂无更多动态"
+msgstr ""
+
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:73
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:71
 msgid "更新日志"
 msgstr "로그를 업데이트합니다"
+
+#: src/pages/surface/components/Status/StatusCard.vue:9
+msgid "有更新"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:54
+msgid "服务器错误"
+msgstr ""
 
 #: src/pages/surface/router.js:78
 msgid "未找到页面"
@@ -344,6 +395,10 @@ msgstr "중국어 간체"
 #: src/lib/translate/info.js:40
 msgid "繁体中文"
 msgstr "중국어 번체"
+
+#: src/pages/user/views/project/Project.vue:6
+msgid "编辑"
+msgstr ""
 
 #: src/pages/surface/layouts/Widget.vue:8
 msgid "网站现在不盈利"
@@ -411,8 +466,8 @@ msgid ""
 "请在手机中点击此按钮，或在微信搜索「老孙的店」小程序，淘宝搜索「老孙的某宝"
 "店」店铺，感谢您的支持。"
 msgstr ""
-"이 버튼을 누르거나, 위챗에서 「老孙的店」 애플리케이션을 검색하거나, 타오바오에서 「老孙的某宝店」 스토어를 검색해 주십시오. 성원해 "
-"주셔서 감사합니다."
+"이 버튼을 누르거나, 위챗에서 「老孙的店」 애플리케이션을 검색하거나, 타오바오"
+"에서 「老孙的某宝店」 스토어를 검색해 주십시오. 성원해 주셔서 감사합니다."
 
 #: src/pages/surface/views/firmware/FirmwaresList.vue:9
 msgid ""
@@ -437,6 +492,14 @@ msgstr "튜토리얼 보기"
 #: src/lib/translate/info.js:19
 msgid "韩语"
 msgstr "한국어"
+
+#: src/pages/user/views/project/Project.vue:7
+msgid "项目名称"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:13
+msgid "项目描述"
+msgstr ""
 
 #: src/pages/surface/components/HeaderComponent.vue:15
 #: src/pages/surface/components/HeaderComponent.vue:36
