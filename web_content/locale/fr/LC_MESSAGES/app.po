@@ -17,6 +17,10 @@ msgstr ""
 "X-Language: en\n"
 "X-Source-Language: zh\n"
 
+#: src/pages/surface/components/Status/StatusCard.vue:41
+msgid "%{date} 有更新"
+msgstr ""
+
 #: src/pages/surface/router.js:73
 msgid "404页面"
 msgstr "Page 404"
@@ -44,7 +48,7 @@ msgstr "Le lien de téléchargement a été copié"
 msgid "下载链接拷贝失败"
 msgstr "Copie du lien échouée"
 
-#: src/pages/surface/layouts/Widget.vue:27
+#: src/pages/surface/layouts/Widget.vue:32
 msgid "以下是我们特别赞助商的产品。"
 msgstr "Voici les boutiques de nos sponsors."
 
@@ -64,7 +68,7 @@ msgstr ""
 msgid "候选发布版"
 msgstr "Version prête"
 
-#: src/pages/surface/layouts/Widget.vue:10
+#: src/pages/surface/layouts/Widget.vue:13
 #: src/pages/surface/layouts/Widget.vue:1
 msgid "全靠捐助养自己"
 msgstr "Les dons sont vitaux"
@@ -73,7 +77,7 @@ msgstr "Les dons sont vitaux"
 msgid "公众号 ID 已拷贝到您的剪切板啦~"
 msgstr "Le nom de notre chaîne WeChat a été copié"
 
-#: src/pages/surface/layouts/Widget.vue:49
+#: src/pages/surface/layouts/Widget.vue:51
 msgid "公告"
 msgstr "Annonce"
 
@@ -123,7 +127,7 @@ msgstr "J’en profite"
 msgid "即可向我们捐赠"
 msgstr "Faire un don"
 
-#: src/pages/surface/components/Status/StatusCard.vue:12
+#: src/pages/surface/components/Status/StatusCard.vue:11
 msgid "发布于"
 msgstr ""
 
@@ -205,7 +209,7 @@ msgstr "Télécharger depuis Cowtransfer"
 msgid "好心人"
 msgstr "Bienfaiteur"
 
-#: src/pages/surface/layouts/Widget.vue:11
+#: src/pages/surface/layouts/Widget.vue:14
 #: src/pages/surface/layouts/Widget.vue:2
 msgid "如果有幸帮到你"
 msgstr " "
@@ -260,7 +264,7 @@ msgstr "Merci beaucoup !"
 msgid "成为特别赞助商"
 msgstr "Devenir sponsor"
 
-#: src/pages/surface/layouts/Widget.vue:139
+#: src/pages/surface/layouts/Widget.vue:156
 msgid "找到我们"
 msgstr "Nous trouver"
 
@@ -274,13 +278,13 @@ msgstr "Reportage"
 msgid "捐助"
 msgstr "Don"
 
-#: src/pages/surface/layouts/Widget.vue:20
+#: src/pages/surface/layouts/Widget.vue:23
 #: src/pages/surface/views/Install.vue:17
 #: src/pages/surface/views/Install.vue:14
 msgid "捐助我们"
 msgstr "Faire un don"
 
-#: src/pages/surface/layouts/Widget.vue:12
+#: src/pages/surface/layouts/Widget.vue:15
 #: src/pages/surface/layouts/Widget.vue:3
 msgid "捐助我们别吝惜"
 msgstr " "
@@ -302,7 +306,7 @@ msgstr ""
 msgid "描述文件的链接已复制到您的剪贴板，请参照这篇教程来使用"
 msgstr "Le lien du profil a été copié, vous pouvez consulter ce tutoriel"
 
-#: src/pages/surface/components/Status/StatusCard.vue:22
+#: src/pages/surface/components/Status/StatusCard.vue:21
 msgid "提供"
 msgstr ""
 
@@ -344,10 +348,6 @@ msgstr ""
 msgid "更新日志"
 msgstr "Journal des modifications"
 
-#: src/pages/surface/components/Status/StatusCard.vue:9
-msgid "有更新"
-msgstr ""
-
 #: src/pages/user/views/project/Project.vue:54
 msgid "服务器错误"
 msgstr ""
@@ -375,7 +375,7 @@ msgstr "Français"
 msgid "版本"
 msgstr "Version"
 
-#: src/pages/surface/layouts/Widget.vue:115
+#: src/pages/surface/layouts/Widget.vue:127
 msgid "特别赞助"
 msgstr "Sponsors"
 
@@ -400,7 +400,7 @@ msgstr "Chinois traditionnel"
 msgid "编辑"
 msgstr ""
 
-#: src/pages/surface/layouts/Widget.vue:8
+#: src/pages/surface/layouts/Widget.vue:11
 msgid "网站现在不盈利"
 msgstr "Nous offrez un café"
 
@@ -484,7 +484,7 @@ msgstr ""
 msgid "返回上一级"
 msgstr "Revenir à la page précédente"
 
-#: src/pages/surface/layouts/Widget.vue:29
+#: src/pages/surface/layouts/Widget.vue:34
 msgid "销售额的一部分会作为网站的经费："
 msgstr "Une partie du chiffre d’affaires seront notre source financière :"
 

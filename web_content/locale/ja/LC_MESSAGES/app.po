@@ -17,6 +17,10 @@ msgstr ""
 "X-Language: en\n"
 "X-Source-Language: zh\n"
 
+#: src/pages/surface/components/Status/StatusCard.vue:41
+msgid "%{date} 有更新"
+msgstr ""
+
 #: src/pages/surface/router.js:73
 msgid "404页面"
 msgstr "404 ページ"
@@ -44,7 +48,7 @@ msgstr "ダウンロードリンクはクリップボードに貼り付けだよ
 msgid "下载链接拷贝失败"
 msgstr "ダウンロードリンクの貼り付けは失敗しました"
 
-#: src/pages/surface/layouts/Widget.vue:27
+#: src/pages/surface/layouts/Widget.vue:32
 msgid "以下是我们特别赞助商的产品。"
 msgstr "スポンサー商品です。"
 
@@ -64,7 +68,7 @@ msgstr ""
 msgid "候选发布版"
 msgstr "RC 版"
 
-#: src/pages/surface/layouts/Widget.vue:10
+#: src/pages/surface/layouts/Widget.vue:13
 #: src/pages/surface/layouts/Widget.vue:1
 msgid "全靠捐助养自己"
 msgstr "寄付によってサイトを運営しています"
@@ -73,7 +77,7 @@ msgstr "寄付によってサイトを運営しています"
 msgid "公众号 ID 已拷贝到您的剪切板啦~"
 msgstr "公式アカウントIDはクリップボードに貼り付けだよ~"
 
-#: src/pages/surface/layouts/Widget.vue:49
+#: src/pages/surface/layouts/Widget.vue:51
 msgid "公告"
 msgstr "アナウンス"
 
@@ -123,7 +127,7 @@ msgstr "ダウンロード"
 msgid "即可向我们捐赠"
 msgstr "私たちへ寄付することが出来ます"
 
-#: src/pages/surface/components/Status/StatusCard.vue:12
+#: src/pages/surface/components/Status/StatusCard.vue:11
 msgid "发布于"
 msgstr ""
 
@@ -205,7 +209,7 @@ msgstr "奶牛快传よりダウンロード"
 msgid "好心人"
 msgstr "いい人"
 
-#: src/pages/surface/layouts/Widget.vue:11
+#: src/pages/surface/layouts/Widget.vue:14
 #: src/pages/surface/layouts/Widget.vue:2
 msgid "如果有幸帮到你"
 msgstr "もし「助かりました」と思ったら"
@@ -261,7 +265,7 @@ msgstr "ありがとうございました～"
 msgid "成为特别赞助商"
 msgstr "スポンサーになる"
 
-#: src/pages/surface/layouts/Widget.vue:139
+#: src/pages/surface/layouts/Widget.vue:156
 msgid "找到我们"
 msgstr "私たちに連絡する"
 
@@ -275,13 +279,13 @@ msgstr "報告する"
 msgid "捐助"
 msgstr "寄付する"
 
-#: src/pages/surface/layouts/Widget.vue:20
+#: src/pages/surface/layouts/Widget.vue:23
 #: src/pages/surface/views/Install.vue:17
 #: src/pages/surface/views/Install.vue:14
 msgid "捐助我们"
 msgstr "私たちに寄付する"
 
-#: src/pages/surface/layouts/Widget.vue:12
+#: src/pages/surface/layouts/Widget.vue:15
 #: src/pages/surface/layouts/Widget.vue:3
 msgid "捐助我们别吝惜"
 msgstr "寄付することをお考えください"
@@ -305,7 +309,7 @@ msgstr ""
 "ベータインストールプロファイルのリンクはクリップボードに貼り付けしました、こ"
 "ちらのチュートリアルをご確認した上、インストールしてください"
 
-#: src/pages/surface/components/Status/StatusCard.vue:22
+#: src/pages/surface/components/Status/StatusCard.vue:21
 msgid "提供"
 msgstr ""
 
@@ -347,10 +351,6 @@ msgstr ""
 msgid "更新日志"
 msgstr "ログを更新します"
 
-#: src/pages/surface/components/Status/StatusCard.vue:9
-msgid "有更新"
-msgstr ""
-
 #: src/pages/user/views/project/Project.vue:54
 msgid "服务器错误"
 msgstr ""
@@ -378,7 +378,7 @@ msgstr "フランス語"
 msgid "版本"
 msgstr "バージョン"
 
-#: src/pages/surface/layouts/Widget.vue:115
+#: src/pages/surface/layouts/Widget.vue:127
 msgid "特别赞助"
 msgstr "スポンサー"
 
@@ -403,7 +403,7 @@ msgstr "繁体字中国語"
 msgid "编辑"
 msgstr ""
 
-#: src/pages/surface/layouts/Widget.vue:8
+#: src/pages/surface/layouts/Widget.vue:11
 msgid "网站现在不盈利"
 msgstr "私たちに寄付する"
 
@@ -485,7 +485,7 @@ msgstr ""
 msgid "返回上一级"
 msgstr "戻る"
 
-#: src/pages/surface/layouts/Widget.vue:29
+#: src/pages/surface/layouts/Widget.vue:34
 msgid "销售额的一部分会作为网站的经费："
 msgstr "売上の一部は本サイトの運営経費として使われます："
 

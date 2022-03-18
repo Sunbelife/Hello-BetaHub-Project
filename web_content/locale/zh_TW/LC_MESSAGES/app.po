@@ -15,6 +15,10 @@ msgstr ""
 "X-Generator: Weblate 4.10.1\n"
 "Generated-By: easygettext\n"
 
+#: src/pages/surface/components/Status/StatusCard.vue:41
+msgid "%{date} 有更新"
+msgstr ""
+
 #: src/pages/surface/router.js:73
 msgid "404页面"
 msgstr "404 not found"
@@ -42,7 +46,7 @@ msgstr "下載連結已複製到您的剪貼板啦~"
 msgid "下载链接拷贝失败"
 msgstr "下載連結複製失敗"
 
-#: src/pages/surface/layouts/Widget.vue:27
+#: src/pages/surface/layouts/Widget.vue:32
 msgid "以下是我们特别赞助商的产品。"
 msgstr "以下是我們特別贊助商的產品。"
 
@@ -62,7 +66,7 @@ msgstr ""
 msgid "候选发布版"
 msgstr "候選發佈版"
 
-#: src/pages/surface/layouts/Widget.vue:10
+#: src/pages/surface/layouts/Widget.vue:13
 #: src/pages/surface/layouts/Widget.vue:1
 msgid "全靠捐助养自己"
 msgstr "全靠捐助養自己"
@@ -71,7 +75,7 @@ msgstr "全靠捐助養自己"
 msgid "公众号 ID 已拷贝到您的剪切板啦~"
 msgstr "公眾號 ID 已複製到您的剪貼板啦~"
 
-#: src/pages/surface/layouts/Widget.vue:49
+#: src/pages/surface/layouts/Widget.vue:51
 msgid "公告"
 msgstr "公告"
 
@@ -121,7 +125,7 @@ msgstr "即刻嘗鮮"
 msgid "即可向我们捐赠"
 msgstr "即可向我們捐贈"
 
-#: src/pages/surface/components/Status/StatusCard.vue:12
+#: src/pages/surface/components/Status/StatusCard.vue:11
 msgid "发布于"
 msgstr ""
 
@@ -203,7 +207,7 @@ msgstr "奶牛快傳下載"
 msgid "好心人"
 msgstr "好心人"
 
-#: src/pages/surface/layouts/Widget.vue:11
+#: src/pages/surface/layouts/Widget.vue:14
 #: src/pages/surface/layouts/Widget.vue:2
 msgid "如果有幸帮到你"
 msgstr "如果有幸幫到你"
@@ -258,7 +262,7 @@ msgstr "感謝您~"
 msgid "成为特别赞助商"
 msgstr "成為特別贊助商"
 
-#: src/pages/surface/layouts/Widget.vue:139
+#: src/pages/surface/layouts/Widget.vue:156
 msgid "找到我们"
 msgstr "找到我們"
 
@@ -272,13 +276,13 @@ msgstr "報告問題"
 msgid "捐助"
 msgstr "捐助"
 
-#: src/pages/surface/layouts/Widget.vue:20
+#: src/pages/surface/layouts/Widget.vue:23
 #: src/pages/surface/views/Install.vue:17
 #: src/pages/surface/views/Install.vue:14
 msgid "捐助我们"
 msgstr "捐助我們"
 
-#: src/pages/surface/layouts/Widget.vue:12
+#: src/pages/surface/layouts/Widget.vue:15
 #: src/pages/surface/layouts/Widget.vue:3
 msgid "捐助我们别吝惜"
 msgstr "捐助我們別吝惜"
@@ -300,7 +304,7 @@ msgstr ""
 msgid "描述文件的链接已复制到您的剪贴板，请参照这篇教程来使用"
 msgstr "設定描述檔的連結已複製到您的剪貼板，請參照這篇教學來使用"
 
-#: src/pages/surface/components/Status/StatusCard.vue:22
+#: src/pages/surface/components/Status/StatusCard.vue:21
 msgid "提供"
 msgstr ""
 
@@ -342,10 +346,6 @@ msgstr ""
 msgid "更新日志"
 msgstr "更新日誌"
 
-#: src/pages/surface/components/Status/StatusCard.vue:9
-msgid "有更新"
-msgstr ""
-
 #: src/pages/user/views/project/Project.vue:54
 msgid "服务器错误"
 msgstr ""
@@ -373,7 +373,7 @@ msgstr "法語"
 msgid "版本"
 msgstr "版本"
 
-#: src/pages/surface/layouts/Widget.vue:115
+#: src/pages/surface/layouts/Widget.vue:127
 msgid "特别赞助"
 msgstr "特別贊助"
 
@@ -398,7 +398,7 @@ msgstr "繁體中文"
 msgid "编辑"
 msgstr ""
 
-#: src/pages/surface/layouts/Widget.vue:8
+#: src/pages/surface/layouts/Widget.vue:11
 msgid "网站现在不盈利"
 msgstr "網站現在不盈利"
 
@@ -477,7 +477,7 @@ msgstr ""
 msgid "返回上一级"
 msgstr "返回"
 
-#: src/pages/surface/layouts/Widget.vue:29
+#: src/pages/surface/layouts/Widget.vue:34
 msgid "销售额的一部分会作为网站的经费："
 msgstr "銷售額的一部分會作為網站的經費："
 

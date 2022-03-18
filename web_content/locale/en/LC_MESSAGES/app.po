@@ -1,12 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-15 01:52+0000\n"
 "PO-Revision-Date: 2022-03-18 09:32+0000\n"
 "Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
-"Language-Team: English <http://hello.betahub.cn/projects/Betahub/betahub/en/>"
-"\n"
+"Language-Team: English <http://hello.betahub.cn/projects/Betahub/betahub/en/"
+">\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,6 +16,10 @@ msgstr ""
 "Generated-By: easygettext\n"
 "X-Language: en\n"
 "X-Source-Language: zh\n"
+
+#: src/pages/surface/components/Status/StatusCard.vue:41
+msgid "%{date} 有更新"
+msgstr ""
 
 #: src/pages/surface/router.js:73
 msgid "404页面"
@@ -44,7 +48,7 @@ msgstr "ID of Wechat official account has been copied to your clipboard~"
 msgid "下载链接拷贝失败"
 msgstr "Fail to copy download link"
 
-#: src/pages/surface/layouts/Widget.vue:27
+#: src/pages/surface/layouts/Widget.vue:32
 msgid "以下是我们特别赞助商的产品。"
 msgstr "The following are products of our special sponsors."
 
@@ -64,7 +68,7 @@ msgstr "Edit Project"
 msgid "候选发布版"
 msgstr "RC"
 
-#: src/pages/surface/layouts/Widget.vue:10
+#: src/pages/surface/layouts/Widget.vue:13
 #: src/pages/surface/layouts/Widget.vue:1
 msgid "全靠捐助养自己"
 msgstr "Fully operated on donations"
@@ -73,7 +77,7 @@ msgstr "Fully operated on donations"
 msgid "公众号 ID 已拷贝到您的剪切板啦~"
 msgstr "ID of wechat official account has been copied to your clipboard~"
 
-#: src/pages/surface/layouts/Widget.vue:49
+#: src/pages/surface/layouts/Widget.vue:51
 msgid "公告"
 msgstr "Billboard"
 
@@ -123,7 +127,7 @@ msgstr "Try it now"
 msgid "即可向我们捐赠"
 msgstr "Donate to us"
 
-#: src/pages/surface/components/Status/StatusCard.vue:12
+#: src/pages/surface/components/Status/StatusCard.vue:11
 msgid "发布于"
 msgstr "Update at"
 
@@ -205,7 +209,7 @@ msgstr "Download it from CowTransfer"
 msgid "好心人"
 msgstr "Good man"
 
-#: src/pages/surface/layouts/Widget.vue:11
+#: src/pages/surface/layouts/Widget.vue:14
 #: src/pages/surface/layouts/Widget.vue:2
 msgid "如果有幸帮到你"
 msgstr " "
@@ -260,7 +264,7 @@ msgstr "Thank you~"
 msgid "成为特别赞助商"
 msgstr "Become our special sponsor"
 
-#: src/pages/surface/layouts/Widget.vue:139
+#: src/pages/surface/layouts/Widget.vue:156
 msgid "找到我们"
 msgstr "Follow us"
 
@@ -274,13 +278,13 @@ msgstr "Report issues"
 msgid "捐助"
 msgstr "Donate"
 
-#: src/pages/surface/layouts/Widget.vue:20
+#: src/pages/surface/layouts/Widget.vue:23
 #: src/pages/surface/views/Install.vue:17
 #: src/pages/surface/views/Install.vue:14
 msgid "捐助我们"
 msgstr "Donate us"
 
-#: src/pages/surface/layouts/Widget.vue:12
+#: src/pages/surface/layouts/Widget.vue:15
 #: src/pages/surface/layouts/Widget.vue:3
 msgid "捐助我们别吝惜"
 msgstr "Feel free to donate us"
@@ -304,7 +308,7 @@ msgstr ""
 "The link of the profile is copied to your clipboard, please follow the "
 "tutorial for the next step"
 
-#: src/pages/surface/components/Status/StatusCard.vue:22
+#: src/pages/surface/components/Status/StatusCard.vue:21
 msgid "提供"
 msgstr "Provide"
 
@@ -346,10 +350,6 @@ msgstr "No more things"
 msgid "更新日志"
 msgstr "Changelog"
 
-#: src/pages/surface/components/Status/StatusCard.vue:9
-msgid "有更新"
-msgstr "updated"
-
 #: src/pages/user/views/project/Project.vue:54
 msgid "服务器错误"
 msgstr "404 not found"
@@ -377,7 +377,7 @@ msgstr "French"
 msgid "版本"
 msgstr "Version"
 
-#: src/pages/surface/layouts/Widget.vue:115
+#: src/pages/surface/layouts/Widget.vue:127
 msgid "特别赞助"
 msgstr "Special Sponsors"
 
@@ -402,7 +402,7 @@ msgstr "Traditional Chinese"
 msgid "编辑"
 msgstr "edit"
 
-#: src/pages/surface/layouts/Widget.vue:8
+#: src/pages/surface/layouts/Widget.vue:11
 msgid "网站现在不盈利"
 msgstr "Buy us a coffee"
 
@@ -484,7 +484,7 @@ msgstr ""
 msgid "返回上一级"
 msgstr "Back"
 
-#: src/pages/surface/layouts/Widget.vue:29
+#: src/pages/surface/layouts/Widget.vue:34
 msgid "销售额的一部分会作为网站的经费："
 msgstr "A portion of the sales will be used to fund the website:"
 
@@ -513,6 +513,9 @@ msgstr "Home"
 #: src/pages/surface/views/firmware/FirmwaresList.vue:20
 msgid "验证状态"
 msgstr "Sign status"
+
+#~ msgid "有更新"
+#~ msgstr "updated"
 
 #~ msgid "Apple"
 #~ msgstr "APPLE"
