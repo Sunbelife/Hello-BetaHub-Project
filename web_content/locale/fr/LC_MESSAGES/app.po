@@ -1,12 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: 2022-02-15 01:52+0000\n"
-"PO-Revision-Date: 2022-02-14 07:44+0000\n"
-"Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
-"Language-Team: French <http://hello.betahub.cn/projects/Betahub/betahub/fr/"
-">\n"
+"PO-Revision-Date: 2022-03-19 05:34+0000\n"
+"Last-Translator: KONG Zijun <kongzijun@live.com>\n"
+"Language-Team: French <http://hello.betahub.cn/projects/Betahub/betahub/fr/>"
+"\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: src/pages/surface/components/Status/StatusCard.vue:41
 msgid "%{date} 有更新"
-msgstr ""
+msgstr "Nouvelle mise à jour depuis %{date}"
 
 #: src/pages/surface/router.js:73
 msgid "404页面"
@@ -38,7 +38,7 @@ msgstr "Date de publication :"
 #: src/pages/surface/views/firmware/DevicesList.vue:27
 #: src/pages/surface/views/firmware/FirmwaresList.vue:25
 msgid "下载"
-msgstr "Téléchargement"
+msgstr "Télécharger"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:74
 msgid "下载链接已拷贝到您的剪切板啦~"
@@ -101,7 +101,7 @@ msgstr "Réessayer"
 
 #: src/pages/surface/components/Status/StatusList.vue:2
 msgid "最新动态"
-msgstr ""
+msgstr "Actualités"
 
 #: src/pages/user/views/project/Project.vue:18
 msgid "创建时间："
@@ -154,7 +154,7 @@ msgstr "Liste des micrologiciels"
 
 #: src/pages/surface/router.js:40
 msgid "固件详情"
-msgstr "Détails du micrologiciel"
+msgstr "Détails du firmware"
 
 #: src/pages/surface/layouts/Widget.vue:41
 msgid "在微信上关注 @iBeta尝鲜派"
@@ -337,7 +337,7 @@ msgstr "Nom"
 
 #: src/pages/surface/components/Status/StatusList.vue:13
 msgid "显示更多"
-msgstr ""
+msgstr "Plus"
 
 #: src/pages/surface/components/Status/StatusList.vue:10
 msgid "暂无更多动态"
@@ -346,7 +346,7 @@ msgstr ""
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:73
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:71
 msgid "更新日志"
-msgstr "Journal des modifications"
+msgstr "Notes"
 
 #: src/pages/user/views/project/Project.vue:54
 msgid "服务器错误"
