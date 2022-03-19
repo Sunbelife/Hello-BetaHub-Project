@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: 2022-02-15 01:52+0000\n"
 "PO-Revision-Date: 2022-03-19 05:34+0000\n"
-"Last-Translator: KONG Zijun <kongzijun@live.com>\n"
+"Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
 "Language-Team: French <http://hello.betahub.cn/projects/Betahub/betahub/fr/>"
 "\n"
 "Language: fr\n"
@@ -54,15 +54,15 @@ msgstr "Voici les boutiques de nos sponsors."
 
 #: src/pages/user/views/project/Project.vue:64
 msgid "保存失败"
-msgstr ""
+msgstr "Échec de l'enregistrement"
 
 #: src/pages/user/views/project/Project.vue:60
 msgid "保存成功"
-msgstr ""
+msgstr "Enregistré avec succès"
 
 #: src/pages/user/views/project/Project.vue:102
 msgid "修改项目"
-msgstr ""
+msgstr "Modifier un article"
 
 #: src/components/Card/SubCard.vue:19
 msgid "候选发布版"
@@ -105,7 +105,7 @@ msgstr "Actualités"
 
 #: src/pages/user/views/project/Project.vue:18
 msgid "创建时间："
-msgstr ""
+msgstr "Temps de creation :"
 
 #: src/pages/surface/layouts/Widget.vue:45
 msgid "加入 TG 群组"
@@ -129,7 +129,7 @@ msgstr "Faire un don"
 
 #: src/pages/surface/components/Status/StatusCard.vue:11
 msgid "发布于"
-msgstr ""
+msgstr "Posté sur"
 
 #: src/pages/surface/views/firmware/DevicesList.vue:20
 #: src/pages/surface/views/firmware/FirmwaresList.vue:41
@@ -299,7 +299,7 @@ msgstr "Montant du don"
 
 #: src/pages/user/views/project/Project.vue:14
 msgid "描述："
-msgstr ""
+msgstr "décris :"
 
 #: src/pages/surface/views/Install.vue:32
 #: src/pages/surface/views/Install.vue:56
@@ -308,7 +308,7 @@ msgstr "Le lien du profil a été copié, vous pouvez consulter ce tutoriel"
 
 #: src/pages/surface/components/Status/StatusCard.vue:21
 msgid "提供"
-msgstr ""
+msgstr "fournir"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:13
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:11
@@ -317,7 +317,7 @@ msgstr "Taille du fichier :"
 
 #: src/pages/user/views/project/Project.vue:102
 msgid "新建项目"
-msgstr ""
+msgstr "Nouveau projet"
 
 #: src/pages/surface/components/FooterComponent.vue:2
 msgid "无派科技（深圳）有限公司"
@@ -341,7 +341,7 @@ msgstr "Plus"
 
 #: src/pages/surface/components/Status/StatusList.vue:10
 msgid "暂无更多动态"
-msgstr ""
+msgstr "Plus de nouvelles"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:73
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:71
@@ -350,7 +350,7 @@ msgstr "Notes"
 
 #: src/pages/user/views/project/Project.vue:54
 msgid "服务器错误"
-msgstr ""
+msgstr "erreur du serveur"
 
 #: src/pages/surface/router.js:78
 msgid "未找到页面"
@@ -398,7 +398,7 @@ msgstr "Chinois traditionnel"
 
 #: src/pages/user/views/project/Project.vue:6
 msgid "编辑"
-msgstr ""
+msgstr "Éditer"
 
 #: src/pages/surface/layouts/Widget.vue:11
 msgid "网站现在不盈利"
@@ -498,11 +498,11 @@ msgstr "Coréen"
 
 #: src/pages/user/views/project/Project.vue:7
 msgid "项目名称"
-msgstr ""
+msgstr "nom du projet"
 
 #: src/pages/user/views/project/Project.vue:13
 msgid "项目描述"
-msgstr ""
+msgstr "Description du projet"
 
 #: src/pages/surface/components/HeaderComponent.vue:15
 #: src/pages/surface/components/HeaderComponent.vue:36
