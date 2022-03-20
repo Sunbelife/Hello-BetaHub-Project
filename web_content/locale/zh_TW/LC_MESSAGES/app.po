@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: 2022-02-15 01:52+0000\n"
-"PO-Revision-Date: 2022-03-19 05:34+0000\n"
+"PO-Revision-Date: 2022-03-20 07:48+0000\n"
 "Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
 "Language-Team: Chinese (Traditional) <http://hello.betahub.cn/projects/"
 "Betahub/betahub/zh_TW/>\n"
@@ -26,7 +26,7 @@ msgstr "404 not found"
 #: src/pages/surface/layouts/Widget.vue:8
 #: src/pages/surface/views/Install.vue:67
 msgid "iBeta 尝鲜派"
-msgstr "嚐鮮派"
+msgstr "嘗鮮派"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:9
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:7
@@ -111,7 +111,7 @@ msgstr "加入 TG 群組"
 
 #: src/pages/surface/layouts/Widget.vue:49
 msgid "加入尝鲜派"
-msgstr "加入嚐鮮派"
+msgstr "加入嘗鮮派"
 
 #: src/pages/surface/components/SetLanguage/SetLanguage.vue:26
 msgid "加入翻译"
@@ -156,7 +156,7 @@ msgstr "固件詳情"
 
 #: src/pages/surface/layouts/Widget.vue:41
 msgid "在微信上关注 @iBeta尝鲜派"
-msgstr "在微信上關注 @iBeta嚐鮮派"
+msgstr "在微信上關注 @iBeta嘗鮮派"
 
 #: src/pages/surface/layouts/Widget.vue:59
 msgid "在微信上购买"
@@ -164,7 +164,7 @@ msgstr "在微信上購買"
 
 #: src/pages/surface/layouts/Widget.vue:37
 msgid "在微博上关注 @iBeta尝鲜派"
-msgstr "在微博上關注 @iBeta嚐鮮派"
+msgstr "在微博上關注 @iBeta嘗鮮派"
 
 #: src/pages/surface/layouts/Widget.vue:63
 msgid "在淘宝上购买"
@@ -218,7 +218,7 @@ msgstr "安裝設定描述檔"
 
 #: src/pages/surface/router.js:6
 msgid "尝鲜派"
-msgstr "嚐鮮派"
+msgstr "嘗鮮派"
 
 #: src/pages/surface/components/FooterComponent.vue:7
 msgid "开发模式"
