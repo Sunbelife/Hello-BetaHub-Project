@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
-"POT-Creation-Date: 2022-02-15 01:52+0000\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-18 09:38+0000\n"
 "PO-Revision-Date: 2022-03-20 07:48+0000\n"
 "Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
 "Language-Team: Chinese (Traditional) <http://hello.betahub.cn/projects/"
@@ -15,11 +15,12 @@ msgstr ""
 "X-Generator: Weblate 4.10.1\n"
 "Generated-By: easygettext\n"
 
-#: src/pages/surface/components/Status/StatusCard.vue:41
+#: src/components/PostCard/PostCard.vue:40
+#: src/pages/surface/components/Status/StatusCard.vue:43
 msgid "%{date} 有更新"
 msgstr "%{date} 有更新"
 
-#: src/pages/surface/router.js:73
+#: src/pages/surface/router.js:77
 msgid "404页面"
 msgstr "404 not found"
 
@@ -46,25 +47,25 @@ msgstr "下載連結已複製到您的剪貼板啦~"
 msgid "下载链接拷贝失败"
 msgstr "下載連結複製失敗"
 
+#: src/pages/user/views/settings/Settings.vue:41
+msgid "令牌创建成功"
+msgstr ""
+
 #: src/pages/surface/layouts/Widget.vue:32
 msgid "以下是我们特别赞助商的产品。"
 msgstr "以下是我們特別贊助商的產品。"
 
-#: src/pages/user/views/project/Project.vue:64
+#: src/pages/user/views/project/Project.vue:73
 msgid "保存失败"
 msgstr "保存失敗"
 
-#: src/pages/user/views/project/Project.vue:60
+#: src/pages/user/views/project/Project.vue:69
 msgid "保存成功"
 msgstr "保存成功"
 
-#: src/pages/user/views/project/Project.vue:102
+#: src/pages/user/views/project/Project.vue:112
 msgid "修改项目"
 msgstr "修改項目"
-
-#: src/components/Card/SubCard.vue:19
-msgid "候选发布版"
-msgstr "候選發佈版"
 
 #: src/pages/surface/layouts/Widget.vue:13
 #: src/pages/surface/layouts/Widget.vue:1
@@ -79,9 +80,15 @@ msgstr "公眾號 ID 已複製到您的剪貼板啦~"
 msgid "公告"
 msgstr "公告"
 
-#: src/pages/surface/components/HeaderComponent.vue:25
-#: src/pages/surface/components/HeaderComponent.vue:46
-#: src/pages/surface/router.js:62
+#: src/constant.js:10
+#, fuzzy
+#| msgid "公告"
+msgid "公开"
+msgstr "公告"
+
+#: src/pages/surface/components/HeaderComponent.vue:30
+#: src/pages/surface/components/HeaderComponent.vue:56
+#: src/pages/surface/router.js:40
 msgid "关于"
 msgstr "關於"
 
@@ -117,7 +124,13 @@ msgstr "加入嘗鮮派"
 msgid "加入翻译"
 msgstr "加入翻譯"
 
-#: src/components/Card/SubCard.vue:27
+#: src/pages/user/views/post/Post.vue:29
+#, fuzzy
+#| msgid "最新动态"
+msgid "动态"
+msgstr "最新動態"
+
+#: src/components/Card/SubCard.vue:26
 msgid "即刻尝鲜"
 msgstr "即刻嘗鮮"
 
@@ -125,6 +138,7 @@ msgstr "即刻嘗鮮"
 msgid "即可向我们捐赠"
 msgstr "即可向我們捐贈"
 
+#: src/components/PostCard/PostCard.vue:10
 #: src/pages/surface/components/Status/StatusCard.vue:11
 msgid "发布于"
 msgstr "發佈於"
@@ -134,6 +148,10 @@ msgstr "發佈於"
 msgid "发布时间"
 msgstr "發佈時間"
 
+#: src/constant.js:9
+msgid "只读"
+msgstr ""
+
 #: src/pages/surface/views/firmware/DevicesList.vue:3
 msgid "哪个型号？"
 msgstr "哪個型號？"
@@ -142,15 +160,16 @@ msgstr "哪個型號？"
 msgid "哪个版本？"
 msgstr "哪個版本？"
 
+#: src/pages/surface/router.js:54
 #: src/pages/surface/views/firmware/DeviceGroup.vue:2
 msgid "固件下载"
 msgstr "韌體下載"
 
-#: src/pages/surface/router.js:35
+#: src/pages/surface/router.js:64
 msgid "固件列表"
 msgstr "固件列表"
 
-#: src/pages/surface/router.js:40
+#: src/pages/surface/router.js:69
 msgid "固件详情"
 msgstr "固件詳情"
 
@@ -212,20 +231,22 @@ msgstr "好心人"
 msgid "如果有幸帮到你"
 msgstr "如果有幸幫到你"
 
-#: src/pages/surface/router.js:67
+#: src/pages/surface/router.js:45
 msgid "安装描述文件"
 msgstr "安裝設定描述檔"
 
-#: src/pages/surface/router.js:6
+#: src/pages/surface/router.js:7 src/pages/surface/views/other/Post.vue:27
 msgid "尝鲜派"
 msgstr "嘗鮮派"
 
-#: src/pages/surface/components/FooterComponent.vue:7
+#: src/components/Footer/FooterComponent.vue:13
 msgid "开发模式"
 msgstr "開發模式"
 
-#: src/components/Card/SubCard.vue:18
-#: src/pages/surface/views/firmware/FirmwaresList.vue:13
+#: src/components/Card/SubCard.vue:18 src/components/PostCard/PostCard.vue:16
+#: src/components/StdEditor/StdEditor.vue:74
+#: src/pages/surface/components/Status/StatusCard.vue:14
+#: src/pages/surface/views/firmware/FirmwaresList.vue:16
 msgid "开发者测试版"
 msgstr "開發者測試版"
 
@@ -266,13 +287,21 @@ msgstr "成為特別贊助商"
 msgid "找到我们"
 msgstr "找到我們"
 
+#: src/pages/surface/views/project/Topic.vue:10
+msgid "投稿"
+msgstr ""
+
+#: src/pages/user/views/post/Post.vue:54
+msgid "投稿类型"
+msgstr ""
+
 #: src/pages/surface/components/SetLanguage/SetLanguage.vue:29
 msgid "报告问题"
 msgstr "報告問題"
 
-#: src/pages/surface/components/HeaderComponent.vue:20
-#: src/pages/surface/components/HeaderComponent.vue:41
-#: src/pages/surface/router.js:57
+#: src/pages/surface/components/HeaderComponent.vue:25
+#: src/pages/surface/components/HeaderComponent.vue:51
+#: src/pages/surface/router.js:35
 msgid "捐助"
 msgstr "捐助"
 
@@ -304,6 +333,7 @@ msgstr "描述："
 msgid "描述文件的链接已复制到您的剪贴板，请参照这篇教程来使用"
 msgstr "設定描述檔的連結已複製到您的剪貼板，請參照這篇教學來使用"
 
+#: src/components/PostCard/PostCard.vue:19
 #: src/pages/surface/components/Status/StatusCard.vue:21
 msgid "提供"
 msgstr "提供"
@@ -313,11 +343,15 @@ msgstr "提供"
 msgid "文件大小:"
 msgstr "檔案大小:"
 
-#: src/pages/user/views/project/Project.vue:102
+#: src/pages/surface/router.js:30 src/pages/user/views/post/Post.vue:28
+msgid "文章"
+msgstr "文章"
+
+#: src/pages/user/views/project/Project.vue:112
 msgid "新建项目"
 msgstr "新建項目"
 
-#: src/pages/surface/components/FooterComponent.vue:2
+#: src/components/Footer/FooterComponent.vue:3
 msgid "无派科技（深圳）有限公司"
 msgstr "nooTag Tech"
 
@@ -333,11 +367,7 @@ msgstr "日語"
 msgid "昵称"
 msgstr "暱稱"
 
-#: src/pages/surface/components/Status/StatusList.vue:13
-msgid "显示更多"
-msgstr "顯示更多"
-
-#: src/pages/surface/components/Status/StatusList.vue:10
+#: src/pages/surface/components/Status/StatusList.vue:11
 msgid "暂无更多动态"
 msgstr "暫無更多動態"
 
@@ -346,20 +376,24 @@ msgstr "暫無更多動態"
 msgid "更新日志"
 msgstr "更新日誌"
 
-#: src/pages/user/views/project/Project.vue:54
+#: src/pages/user/views/post/List.vue:30
+#: src/pages/user/views/project/Project.vue:63
+#: src/pages/user/views/settings/Settings.vue:43
 msgid "服务器错误"
 msgstr "服務器錯誤"
 
-#: src/pages/surface/router.js:78
+#: src/pages/surface/router.js:82
 msgid "未找到页面"
 msgstr "404 not found"
 
-#: src/components/Card/SubCard.vue:28
+#: src/components/Card/SubCard.vue:27
 msgid "查看教程"
 msgstr "查看教程"
 
-#: src/components/Card/SubCard.vue:20
-#: src/pages/surface/views/firmware/FirmwaresList.vue:12
+#: src/components/Card/SubCard.vue:19 src/components/PostCard/PostCard.vue:17
+#: src/components/StdEditor/StdEditor.vue:75
+#: src/pages/surface/components/Status/StatusCard.vue:15
+#: src/pages/surface/views/firmware/FirmwaresList.vue:13
 msgid "正式版"
 msgstr "正式版"
 
@@ -367,7 +401,7 @@ msgstr "正式版"
 msgid "法语"
 msgstr "法語"
 
-#: src/pages/surface/components/FooterComponent.vue:9
+#: src/components/Footer/FooterComponent.vue:10
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:15
 #: src/pages/surface/views/firmware/FirmwaresList.vue:12
 msgid "版本"
@@ -418,13 +452,18 @@ msgstr "老闆"
 msgid "英语"
 msgstr "英語"
 
+#: src/pages/surface/components/HeaderComponent.vue:20
+#: src/pages/surface/components/HeaderComponent.vue:46
+msgid "苹果固件"
+msgstr ""
+
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:38
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:36
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:9
 msgid "苹果服务器下载"
 msgstr "Apple 伺服器下載"
 
-#: src/pages/surface/router.js:30
+#: src/pages/surface/router.js:59
 #: src/pages/surface/views/firmware/DevicesList.vue:13
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:14
 #: src/pages/surface/views/firmware/FirmwaresList.vue:39
@@ -435,6 +474,14 @@ msgstr "設備型號"
 #: src/pages/surface/views/firmware/FirmwaresList.vue:40
 msgid "设备标识符"
 msgstr "設備標識符"
+
+#: src/pages/user/views/project/Project.vue:20
+msgid "访问权限"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:22
+msgid "访问权限："
+msgstr ""
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:25
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:23
@@ -473,6 +520,10 @@ msgstr ""
 "請選擇您需要下載的韌體版本，驗證狀態綠色標識為「目前可升級/回復」版本，紅色標"
 "識為「目前不可升級/回復」版本。"
 
+#: src/components/StdEditor/StdEditor.vue:36
+msgid "软件版本类型"
+msgstr ""
+
 #: src/pages/surface/views/firmware/GoBack.vue:4
 msgid "返回上一级"
 msgstr "返回"
@@ -489,23 +540,35 @@ msgstr "閱讀教學"
 msgid "韩语"
 msgstr "韓語"
 
-#: src/pages/user/views/project/Project.vue:7
+#: src/pages/surface/router.js:25 src/pages/user/views/post/Post.vue:23
+#, fuzzy
+#| msgid "修改项目"
+msgid "项目"
+msgstr "修改項目"
+
+#: src/pages/user/views/project/Project.vue:8
 msgid "项目名称"
 msgstr "項目名稱"
 
-#: src/pages/user/views/project/Project.vue:13
+#: src/pages/user/views/project/Project.vue:14
 msgid "项目描述"
 msgstr "項目描述"
 
 #: src/pages/surface/components/HeaderComponent.vue:15
-#: src/pages/surface/components/HeaderComponent.vue:36
-#: src/pages/surface/router.js:25
+#: src/pages/surface/components/HeaderComponent.vue:41
+#: src/pages/surface/router.js:20
 msgid "首页"
 msgstr "首頁"
 
 #: src/pages/surface/views/firmware/FirmwaresList.vue:20
 msgid "验证状态"
 msgstr "驗證狀態"
+
+#~ msgid "候选发布版"
+#~ msgstr "候選發佈版"
+
+#~ msgid "显示更多"
+#~ msgstr "顯示更多"
 
 #~ msgid "哪种设备？"
 #~ msgstr "哪種設備？"
@@ -542,6 +605,3 @@ msgstr "驗證狀態"
 
 #~ msgid "描述文件"
 #~ msgstr "設定描述檔"
-
-#~ msgid "文章"
-#~ msgstr "文章"

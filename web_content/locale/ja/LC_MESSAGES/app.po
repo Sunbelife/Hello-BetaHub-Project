@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
-"POT-Creation-Date: 2022-02-15 01:52+0000\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-18 09:38+0000\n"
 "PO-Revision-Date: 2022-03-22 13:30+0000\n"
 "Last-Translator: 羽沢波瑠 <zhikunze@me.com>\n"
 "Language-Team: Japanese <http://hello.betahub.cn/projects/Betahub/betahub/ja/"
@@ -17,11 +17,12 @@ msgstr ""
 "X-Language: en\n"
 "X-Source-Language: zh\n"
 
-#: src/pages/surface/components/Status/StatusCard.vue:41
+#: src/components/PostCard/PostCard.vue:40
+#: src/pages/surface/components/Status/StatusCard.vue:43
 msgid "%{date} 有更新"
 msgstr "%{date} ニューバージョンがあります"
 
-#: src/pages/surface/router.js:73
+#: src/pages/surface/router.js:77
 msgid "404页面"
 msgstr "404 ページ"
 
@@ -48,25 +49,25 @@ msgstr "ダウンロードリンクはクリップボードに貼り付けだよ
 msgid "下载链接拷贝失败"
 msgstr "ダウンロードリンクの貼り付けは失敗しました"
 
+#: src/pages/user/views/settings/Settings.vue:41
+msgid "令牌创建成功"
+msgstr ""
+
 #: src/pages/surface/layouts/Widget.vue:32
 msgid "以下是我们特别赞助商的产品。"
 msgstr "スポンサー商品です。"
 
-#: src/pages/user/views/project/Project.vue:64
+#: src/pages/user/views/project/Project.vue:73
 msgid "保存失败"
 msgstr "保存に失敗しました"
 
-#: src/pages/user/views/project/Project.vue:60
+#: src/pages/user/views/project/Project.vue:69
 msgid "保存成功"
 msgstr "保存しました"
 
-#: src/pages/user/views/project/Project.vue:102
+#: src/pages/user/views/project/Project.vue:112
 msgid "修改项目"
 msgstr "プロジェクトを編集する"
-
-#: src/components/Card/SubCard.vue:19
-msgid "候选发布版"
-msgstr "RC 版"
 
 #: src/pages/surface/layouts/Widget.vue:13
 #: src/pages/surface/layouts/Widget.vue:1
@@ -81,9 +82,15 @@ msgstr "公式アカウントIDはクリップボードに貼り付けだよ~"
 msgid "公告"
 msgstr "アナウンス"
 
-#: src/pages/surface/components/HeaderComponent.vue:25
-#: src/pages/surface/components/HeaderComponent.vue:46
-#: src/pages/surface/router.js:62
+#: src/constant.js:10
+#, fuzzy
+#| msgid "公告"
+msgid "公开"
+msgstr "アナウンス"
+
+#: src/pages/surface/components/HeaderComponent.vue:30
+#: src/pages/surface/components/HeaderComponent.vue:56
+#: src/pages/surface/router.js:40
 msgid "关于"
 msgstr "私たちについて"
 
@@ -119,7 +126,13 @@ msgstr "BetaHub の一員になる"
 msgid "加入翻译"
 msgstr "翻訳を追加"
 
-#: src/components/Card/SubCard.vue:27
+#: src/pages/user/views/post/Post.vue:29
+#, fuzzy
+#| msgid "最新动态"
+msgid "动态"
+msgstr "最新情報"
+
+#: src/components/Card/SubCard.vue:26
 msgid "即刻尝鲜"
 msgstr "ダウンロード"
 
@@ -127,6 +140,7 @@ msgstr "ダウンロード"
 msgid "即可向我们捐赠"
 msgstr "私たちへ寄付することが出来ます"
 
+#: src/components/PostCard/PostCard.vue:10
 #: src/pages/surface/components/Status/StatusCard.vue:11
 msgid "发布于"
 msgstr "リリース日"
@@ -136,6 +150,10 @@ msgstr "リリース日"
 msgid "发布时间"
 msgstr "リリース日"
 
+#: src/constant.js:9
+msgid "只读"
+msgstr ""
+
 #: src/pages/surface/views/firmware/DevicesList.vue:3
 msgid "哪个型号？"
 msgstr "どのモデル？"
@@ -144,15 +162,16 @@ msgstr "どのモデル？"
 msgid "哪个版本？"
 msgstr "どのバージョン？"
 
+#: src/pages/surface/router.js:54
 #: src/pages/surface/views/firmware/DeviceGroup.vue:2
 msgid "固件下载"
 msgstr "ファームウェアをダウンロード"
 
-#: src/pages/surface/router.js:35
+#: src/pages/surface/router.js:64
 msgid "固件列表"
 msgstr "ファームウェアリスト"
 
-#: src/pages/surface/router.js:40
+#: src/pages/surface/router.js:69
 msgid "固件详情"
 msgstr "ファームウェア詳細"
 
@@ -214,20 +233,22 @@ msgstr "いい人"
 msgid "如果有幸帮到你"
 msgstr "もし「助かりました」と思ったら"
 
-#: src/pages/surface/router.js:67
+#: src/pages/surface/router.js:45
 msgid "安装描述文件"
 msgstr "ベータインストールプロファイルをダウンロードする"
 
-#: src/pages/surface/router.js:6
+#: src/pages/surface/router.js:7 src/pages/surface/views/other/Post.vue:27
 msgid "尝鲜派"
 msgstr "BetaHub"
 
-#: src/pages/surface/components/FooterComponent.vue:7
+#: src/components/Footer/FooterComponent.vue:13
 msgid "开发模式"
 msgstr "開発者モード"
 
-#: src/components/Card/SubCard.vue:18
-#: src/pages/surface/views/firmware/FirmwaresList.vue:13
+#: src/components/Card/SubCard.vue:18 src/components/PostCard/PostCard.vue:16
+#: src/components/StdEditor/StdEditor.vue:74
+#: src/pages/surface/components/Status/StatusCard.vue:14
+#: src/pages/surface/views/firmware/FirmwaresList.vue:16
 msgid "开发者测试版"
 msgstr "開発者ベータ版"
 
@@ -269,13 +290,21 @@ msgstr "スポンサーになる"
 msgid "找到我们"
 msgstr "私たちに連絡する"
 
+#: src/pages/surface/views/project/Topic.vue:10
+msgid "投稿"
+msgstr ""
+
+#: src/pages/user/views/post/Post.vue:54
+msgid "投稿类型"
+msgstr ""
+
 #: src/pages/surface/components/SetLanguage/SetLanguage.vue:29
 msgid "报告问题"
 msgstr "報告する"
 
-#: src/pages/surface/components/HeaderComponent.vue:20
-#: src/pages/surface/components/HeaderComponent.vue:41
-#: src/pages/surface/router.js:57
+#: src/pages/surface/components/HeaderComponent.vue:25
+#: src/pages/surface/components/HeaderComponent.vue:51
+#: src/pages/surface/router.js:35
 msgid "捐助"
 msgstr "寄付する"
 
@@ -309,6 +338,7 @@ msgstr ""
 "ベータインストールプロファイルのリンクはクリップボードに貼り付けしました、こ"
 "ちらのチュートリアルをご確認した上、インストールしてください"
 
+#: src/components/PostCard/PostCard.vue:19
 #: src/pages/surface/components/Status/StatusCard.vue:21
 msgid "提供"
 msgstr "提供"
@@ -318,11 +348,15 @@ msgstr "提供"
 msgid "文件大小:"
 msgstr "ファイルサイズ："
 
-#: src/pages/user/views/project/Project.vue:102
+#: src/pages/surface/router.js:30 src/pages/user/views/post/Post.vue:28
+msgid "文章"
+msgstr "Post"
+
+#: src/pages/user/views/project/Project.vue:112
 msgid "新建项目"
 msgstr "新しいプロジェクトを作成する"
 
-#: src/pages/surface/components/FooterComponent.vue:2
+#: src/components/Footer/FooterComponent.vue:3
 msgid "无派科技（深圳）有限公司"
 msgstr "nooTag Tech"
 
@@ -338,11 +372,7 @@ msgstr "日本語"
 msgid "昵称"
 msgstr "ニックネーム"
 
-#: src/pages/surface/components/Status/StatusList.vue:13
-msgid "显示更多"
-msgstr "さらに表示"
-
-#: src/pages/surface/components/Status/StatusList.vue:10
+#: src/pages/surface/components/Status/StatusList.vue:11
 msgid "暂无更多动态"
 msgstr "しばらくはこちらが以上です"
 
@@ -351,20 +381,24 @@ msgstr "しばらくはこちらが以上です"
 msgid "更新日志"
 msgstr "ログを更新します"
 
-#: src/pages/user/views/project/Project.vue:54
+#: src/pages/user/views/post/List.vue:30
+#: src/pages/user/views/project/Project.vue:63
+#: src/pages/user/views/settings/Settings.vue:43
 msgid "服务器错误"
 msgstr "エラー"
 
-#: src/pages/surface/router.js:78
+#: src/pages/surface/router.js:82
 msgid "未找到页面"
 msgstr "ページが見つかりません"
 
-#: src/components/Card/SubCard.vue:28
+#: src/components/Card/SubCard.vue:27
 msgid "查看教程"
 msgstr "手順を閲覧する"
 
-#: src/components/Card/SubCard.vue:20
-#: src/pages/surface/views/firmware/FirmwaresList.vue:12
+#: src/components/Card/SubCard.vue:19 src/components/PostCard/PostCard.vue:17
+#: src/components/StdEditor/StdEditor.vue:75
+#: src/pages/surface/components/Status/StatusCard.vue:15
+#: src/pages/surface/views/firmware/FirmwaresList.vue:13
 msgid "正式版"
 msgstr "正式リリース版"
 
@@ -372,7 +406,7 @@ msgstr "正式リリース版"
 msgid "法语"
 msgstr "フランス語"
 
-#: src/pages/surface/components/FooterComponent.vue:9
+#: src/components/Footer/FooterComponent.vue:10
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:15
 #: src/pages/surface/views/firmware/FirmwaresList.vue:12
 msgid "版本"
@@ -423,13 +457,18 @@ msgstr "めっちゃいい人"
 msgid "英语"
 msgstr "英語"
 
+#: src/pages/surface/components/HeaderComponent.vue:20
+#: src/pages/surface/components/HeaderComponent.vue:46
+msgid "苹果固件"
+msgstr ""
+
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:38
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:36
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:9
 msgid "苹果服务器下载"
 msgstr "Apple からダウンロード"
 
-#: src/pages/surface/router.js:30
+#: src/pages/surface/router.js:59
 #: src/pages/surface/views/firmware/DevicesList.vue:13
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:14
 #: src/pages/surface/views/firmware/FirmwaresList.vue:39
@@ -440,6 +479,14 @@ msgstr "モデル"
 #: src/pages/surface/views/firmware/FirmwaresList.vue:40
 msgid "设备标识符"
 msgstr "デバイス識別子"
+
+#: src/pages/user/views/project/Project.vue:20
+msgid "访问权限"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:22
+msgid "访问权限："
+msgstr ""
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:25
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:23
@@ -481,6 +528,10 @@ msgstr ""
 "ダウンロードしたいファームウェアを選択してください、ステータスが緑の場合「リ"
 "カバリー可能」、赤の場合は Apple による検証停止のため「リカバリー不可」。"
 
+#: src/components/StdEditor/StdEditor.vue:36
+msgid "软件版本类型"
+msgstr ""
+
 #: src/pages/surface/views/firmware/GoBack.vue:4
 msgid "返回上一级"
 msgstr "戻る"
@@ -497,23 +548,35 @@ msgstr "手順を閲覧する"
 msgid "韩语"
 msgstr "韓国語"
 
-#: src/pages/user/views/project/Project.vue:7
+#: src/pages/surface/router.js:25 src/pages/user/views/post/Post.vue:23
+#, fuzzy
+#| msgid "修改项目"
+msgid "项目"
+msgstr "プロジェクトを編集する"
+
+#: src/pages/user/views/project/Project.vue:8
 msgid "项目名称"
 msgstr "プロジェクト名"
 
-#: src/pages/user/views/project/Project.vue:13
+#: src/pages/user/views/project/Project.vue:14
 msgid "项目描述"
 msgstr "プロジェクトの説明"
 
 #: src/pages/surface/components/HeaderComponent.vue:15
-#: src/pages/surface/components/HeaderComponent.vue:36
-#: src/pages/surface/router.js:25
+#: src/pages/surface/components/HeaderComponent.vue:41
+#: src/pages/surface/router.js:20
 msgid "首页"
 msgstr "ホーム"
 
 #: src/pages/surface/views/firmware/FirmwaresList.vue:20
 msgid "验证状态"
 msgstr "ステータス"
+
+#~ msgid "候选发布版"
+#~ msgstr "RC 版"
+
+#~ msgid "显示更多"
+#~ msgstr "さらに表示"
 
 #~ msgid "Apple"
 #~ msgstr "APPLE"
@@ -555,9 +618,6 @@ msgstr "ステータス"
 
 #~ msgid "分类"
 #~ msgstr "Category"
-
-#~ msgid "文章"
-#~ msgstr "Post"
 
 #~ msgid "About"
 #~ msgstr "About"

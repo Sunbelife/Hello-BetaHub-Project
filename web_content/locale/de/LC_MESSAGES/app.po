@@ -1,12 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
-"POT-Creation-Date: 2022-02-15 01:52+0000\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-18 09:38+0000\n"
 "PO-Revision-Date: 2022-03-19 05:34+0000\n"
 "Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
-"Language-Team: German <http://hello.betahub.cn/projects/Betahub/betahub/de/>"
-"\n"
+"Language-Team: German <http://hello.betahub.cn/projects/Betahub/betahub/de/"
+">\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,11 +17,12 @@ msgstr ""
 "X-Language: en\n"
 "X-Source-Language: zh\n"
 
-#: src/pages/surface/components/Status/StatusCard.vue:41
+#: src/components/PostCard/PostCard.vue:40
+#: src/pages/surface/components/Status/StatusCard.vue:43
 msgid "%{date} 有更新"
 msgstr "%{date} aufrüstbar"
 
-#: src/pages/surface/router.js:73
+#: src/pages/surface/router.js:77
 msgid "404页面"
 msgstr "404 Fehler"
 
@@ -48,25 +49,25 @@ msgstr "Der Download-Link wurde in Ihre Zwischenablage kopiert~"
 msgid "下载链接拷贝失败"
 msgstr "Der Download-Link konnte nicht kopiert werden"
 
+#: src/pages/user/views/settings/Settings.vue:41
+msgid "令牌创建成功"
+msgstr ""
+
 #: src/pages/surface/layouts/Widget.vue:32
 msgid "以下是我们特别赞助商的产品。"
 msgstr "Im Folgenden sind die Produkte unserer Sponsoren."
 
-#: src/pages/user/views/project/Project.vue:64
+#: src/pages/user/views/project/Project.vue:73
 msgid "保存失败"
 msgstr "Speichern fehlgeschlagen"
 
-#: src/pages/user/views/project/Project.vue:60
+#: src/pages/user/views/project/Project.vue:69
 msgid "保存成功"
 msgstr "Erfolgreich gespeichert"
 
-#: src/pages/user/views/project/Project.vue:102
+#: src/pages/user/views/project/Project.vue:112
 msgid "修改项目"
 msgstr "Element ändern"
-
-#: src/components/Card/SubCard.vue:19
-msgid "候选发布版"
-msgstr "RC-Version"
 
 #: src/pages/surface/layouts/Widget.vue:13
 #: src/pages/surface/layouts/Widget.vue:1
@@ -81,9 +82,15 @@ msgstr "Die Offizielle Konten-ID wurde in Ihre Zwischenablage kopiert~"
 msgid "公告"
 msgstr "Anschlag"
 
-#: src/pages/surface/components/HeaderComponent.vue:25
-#: src/pages/surface/components/HeaderComponent.vue:46
-#: src/pages/surface/router.js:62
+#: src/constant.js:10
+#, fuzzy
+#| msgid "公告"
+msgid "公开"
+msgstr "Anschlag"
+
+#: src/pages/surface/components/HeaderComponent.vue:30
+#: src/pages/surface/components/HeaderComponent.vue:56
+#: src/pages/surface/router.js:40
 msgid "关于"
 msgstr "Über"
 
@@ -119,7 +126,13 @@ msgstr "mit BetaHub teilnehmen"
 msgid "加入翻译"
 msgstr "Übersetzen"
 
-#: src/components/Card/SubCard.vue:27
+#: src/pages/user/views/post/Post.vue:29
+#, fuzzy
+#| msgid "最新动态"
+msgid "动态"
+msgstr "Neuesten Nachrichten"
+
+#: src/components/Card/SubCard.vue:26
 msgid "即刻尝鲜"
 msgstr "Versuch's jetzt"
 
@@ -127,6 +140,7 @@ msgstr "Versuch's jetzt"
 msgid "即可向我们捐赠"
 msgstr "Kann uns spenden"
 
+#: src/components/PostCard/PostCard.vue:10
 #: src/pages/surface/components/Status/StatusCard.vue:11
 msgid "发布于"
 msgstr "Veröffentlicht im"
@@ -136,6 +150,10 @@ msgstr "Veröffentlicht im"
 msgid "发布时间"
 msgstr "Veröffentlichkeitsdatum"
 
+#: src/constant.js:9
+msgid "只读"
+msgstr ""
+
 #: src/pages/surface/views/firmware/DevicesList.vue:3
 msgid "哪个型号？"
 msgstr "Welches Kategorien?"
@@ -144,15 +162,16 @@ msgstr "Welches Kategorien?"
 msgid "哪个版本？"
 msgstr "Welche Version?"
 
+#: src/pages/surface/router.js:54
 #: src/pages/surface/views/firmware/DeviceGroup.vue:2
 msgid "固件下载"
 msgstr "Firmware laden"
 
-#: src/pages/surface/router.js:35
+#: src/pages/surface/router.js:64
 msgid "固件列表"
 msgstr "Firmware Liste"
 
-#: src/pages/surface/router.js:40
+#: src/pages/surface/router.js:69
 msgid "固件详情"
 msgstr "Firmware Detail"
 
@@ -214,20 +233,22 @@ msgstr "Gutherziger Man"
 msgid "如果有幸帮到你"
 msgstr "Wenn ich das Glück habe, Ihnen zu helfen"
 
-#: src/pages/surface/router.js:67
+#: src/pages/surface/router.js:45
 msgid "安装描述文件"
 msgstr "Profil installieren"
 
-#: src/pages/surface/router.js:6
+#: src/pages/surface/router.js:7 src/pages/surface/views/other/Post.vue:27
 msgid "尝鲜派"
 msgstr "BetaHub"
 
-#: src/pages/surface/components/FooterComponent.vue:7
+#: src/components/Footer/FooterComponent.vue:13
 msgid "开发模式"
 msgstr "Developer-Programm"
 
-#: src/components/Card/SubCard.vue:18
-#: src/pages/surface/views/firmware/FirmwaresList.vue:13
+#: src/components/Card/SubCard.vue:18 src/components/PostCard/PostCard.vue:16
+#: src/components/StdEditor/StdEditor.vue:74
+#: src/pages/surface/components/Status/StatusCard.vue:14
+#: src/pages/surface/views/firmware/FirmwaresList.vue:16
 msgid "开发者测试版"
 msgstr "Developer Beta testen"
 
@@ -271,13 +292,21 @@ msgstr "Werden Sie ein besonderer Sponsor"
 msgid "找到我们"
 msgstr "Finde uns"
 
+#: src/pages/surface/views/project/Topic.vue:10
+msgid "投稿"
+msgstr ""
+
+#: src/pages/user/views/post/Post.vue:54
+msgid "投稿类型"
+msgstr ""
+
 #: src/pages/surface/components/SetLanguage/SetLanguage.vue:29
 msgid "报告问题"
 msgstr "Prüfbericht"
 
-#: src/pages/surface/components/HeaderComponent.vue:20
-#: src/pages/surface/components/HeaderComponent.vue:41
-#: src/pages/surface/router.js:57
+#: src/pages/surface/components/HeaderComponent.vue:25
+#: src/pages/surface/components/HeaderComponent.vue:51
+#: src/pages/surface/router.js:35
 msgid "捐助"
 msgstr "Spenden"
 
@@ -311,6 +340,7 @@ msgstr ""
 "Der Link des Profil wurde in Ihre Zwischenablage kopiert, bitte verwenden "
 "Sie dieses Tutorial"
 
+#: src/components/PostCard/PostCard.vue:19
 #: src/pages/surface/components/Status/StatusCard.vue:21
 msgid "提供"
 msgstr "liefern"
@@ -320,11 +350,15 @@ msgstr "liefern"
 msgid "文件大小:"
 msgstr "Dateigröße:"
 
-#: src/pages/user/views/project/Project.vue:102
+#: src/pages/surface/router.js:30 src/pages/user/views/post/Post.vue:28
+msgid "文章"
+msgstr "Post"
+
+#: src/pages/user/views/project/Project.vue:112
 msgid "新建项目"
 msgstr "Neues Projekt"
 
-#: src/pages/surface/components/FooterComponent.vue:2
+#: src/components/Footer/FooterComponent.vue:3
 msgid "无派科技（深圳）有限公司"
 msgstr "nooTag Tech"
 
@@ -340,11 +374,7 @@ msgstr "Japanisch"
 msgid "昵称"
 msgstr "Name"
 
-#: src/pages/surface/components/Status/StatusList.vue:13
-msgid "显示更多"
-msgstr "Zeig mehr"
-
-#: src/pages/surface/components/Status/StatusList.vue:10
+#: src/pages/surface/components/Status/StatusList.vue:11
 msgid "暂无更多动态"
 msgstr "Keine Neuigkeiten mehr"
 
@@ -353,20 +383,24 @@ msgstr "Keine Neuigkeiten mehr"
 msgid "更新日志"
 msgstr "Changelog"
 
-#: src/pages/user/views/project/Project.vue:54
+#: src/pages/user/views/post/List.vue:30
+#: src/pages/user/views/project/Project.vue:63
+#: src/pages/user/views/settings/Settings.vue:43
 msgid "服务器错误"
 msgstr "Serverfehler"
 
-#: src/pages/surface/router.js:78
+#: src/pages/surface/router.js:82
 msgid "未找到页面"
 msgstr "Seite nicht gefunden"
 
-#: src/components/Card/SubCard.vue:28
+#: src/components/Card/SubCard.vue:27
 msgid "查看教程"
 msgstr "Tutorial ansehen"
 
-#: src/components/Card/SubCard.vue:20
-#: src/pages/surface/views/firmware/FirmwaresList.vue:12
+#: src/components/Card/SubCard.vue:19 src/components/PostCard/PostCard.vue:17
+#: src/components/StdEditor/StdEditor.vue:75
+#: src/pages/surface/components/Status/StatusCard.vue:15
+#: src/pages/surface/views/firmware/FirmwaresList.vue:13
 msgid "正式版"
 msgstr "offizielle Version"
 
@@ -374,7 +408,7 @@ msgstr "offizielle Version"
 msgid "法语"
 msgstr "Französisch"
 
-#: src/pages/surface/components/FooterComponent.vue:9
+#: src/components/Footer/FooterComponent.vue:10
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:15
 #: src/pages/surface/views/firmware/FirmwaresList.vue:12
 msgid "版本"
@@ -425,13 +459,18 @@ msgstr "Chef"
 msgid "英语"
 msgstr "Englisch"
 
+#: src/pages/surface/components/HeaderComponent.vue:20
+#: src/pages/surface/components/HeaderComponent.vue:46
+msgid "苹果固件"
+msgstr ""
+
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:38
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:36
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:9
 msgid "苹果服务器下载"
 msgstr "Apple-Server laden"
 
-#: src/pages/surface/router.js:30
+#: src/pages/surface/router.js:59
 #: src/pages/surface/views/firmware/DevicesList.vue:13
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:14
 #: src/pages/surface/views/firmware/FirmwaresList.vue:39
@@ -442,6 +481,14 @@ msgstr "Modellkategorien"
 #: src/pages/surface/views/firmware/FirmwaresList.vue:40
 msgid "设备标识符"
 msgstr "Gerätekennungen"
+
+#: src/pages/user/views/project/Project.vue:20
+msgid "访问权限"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:22
+msgid "访问权限："
+msgstr ""
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:25
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:23
@@ -487,6 +534,10 @@ msgstr ""
 "aktualisierbar/wiederherstellbar」 und die rote Version ist die Version "
 "「jetzt nicht aktualisierbar/wiederherstellbar」."
 
+#: src/components/StdEditor/StdEditor.vue:36
+msgid "软件版本类型"
+msgstr ""
+
 #: src/pages/surface/views/firmware/GoBack.vue:4
 msgid "返回上一级"
 msgstr "Zurück"
@@ -503,23 +554,35 @@ msgstr "Anleitung lesen"
 msgid "韩语"
 msgstr "Koreanisch"
 
-#: src/pages/user/views/project/Project.vue:7
+#: src/pages/surface/router.js:25 src/pages/user/views/post/Post.vue:23
+#, fuzzy
+#| msgid "修改项目"
+msgid "项目"
+msgstr "Element ändern"
+
+#: src/pages/user/views/project/Project.vue:8
 msgid "项目名称"
 msgstr "Projektname"
 
-#: src/pages/user/views/project/Project.vue:13
+#: src/pages/user/views/project/Project.vue:14
 msgid "项目描述"
 msgstr "Projektbeschreibung"
 
 #: src/pages/surface/components/HeaderComponent.vue:15
-#: src/pages/surface/components/HeaderComponent.vue:36
-#: src/pages/surface/router.js:25
+#: src/pages/surface/components/HeaderComponent.vue:41
+#: src/pages/surface/router.js:20
 msgid "首页"
 msgstr "Titelseite"
 
 #: src/pages/surface/views/firmware/FirmwaresList.vue:20
 msgid "验证状态"
 msgstr "Verifizierungsstatus"
+
+#~ msgid "候选发布版"
+#~ msgstr "RC-Version"
+
+#~ msgid "显示更多"
+#~ msgstr "Zeig mehr"
 
 #~ msgid "Apple"
 #~ msgstr "APPLE"
@@ -561,9 +624,6 @@ msgstr "Verifizierungsstatus"
 
 #~ msgid "分类"
 #~ msgstr "Category"
-
-#~ msgid "文章"
-#~ msgstr "Post"
 
 #~ msgid "About"
 #~ msgstr "About"
