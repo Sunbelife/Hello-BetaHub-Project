@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: 2022-04-08 07:36+0000\n"
 "PO-Revision-Date: 2022-04-08 10:40+0000\n"
-"Last-Translator: 陈老板顺利毕业offer多多 <yimingchen01@foxmail.com>\n"
+"Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
 "Language-Team: English <http://hello.betahub.cn/projects/Betahub/betahub/en/>"
 "\n"
 "Language: en\n"
@@ -358,7 +358,7 @@ msgstr "New Project"
 
 #: src/components/PostCard/PostCard.vue:7
 msgid "新鲜事"
-msgstr ""
+msgstr "News"
 
 #: src/components/Footer/FooterComponent.vue:3
 msgid "无派科技（深圳）有限公司"
@@ -420,7 +420,7 @@ msgstr "French"
 
 #: src/pages/surface/components/CardList/CardList.vue:2
 msgid "热门尝鲜"
-msgstr ""
+msgstr "What's hot"
 
 #: src/components/Footer/FooterComponent.vue:10
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:15
