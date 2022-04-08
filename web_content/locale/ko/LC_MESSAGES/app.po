@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-18 09:38+0000\n"
+"POT-Creation-Date: 2022-04-08 07:36+0000\n"
 "PO-Revision-Date: 2022-03-19 05:34+0000\n"
 "Last-Translator: 是猫 <zhangziyi.knu@gmail.com>\n"
 "Language-Team: Korean <http://hello.betahub.cn/projects/Betahub/betahub/ko/"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Language: en\n"
 "X-Source-Language: zh\n"
 
-#: src/components/Card/SubCard.vue:30 src/components/PostCard/PostCard.vue:44
+#: src/components/Card/SubCard.vue:30 src/components/PostCard/PostCard.vue:49
 #: src/pages/surface/components/Status/StatusCard.vue:43
 #: src/pages/surface/views/project/BetaCat.vue:47
 #: src/pages/surface/views/project/Topic.vue:76
@@ -142,7 +142,7 @@ msgstr "다운로드"
 msgid "即可向我们捐赠"
 msgstr "바로 우리에게 기부할 수 있습니다"
 
-#: src/components/PostCard/PostCard.vue:14
+#: src/components/PostCard/PostCard.vue:13
 #: src/pages/surface/components/Status/StatusCard.vue:11
 msgid "发布于"
 msgstr "발표하였다"
@@ -250,7 +250,7 @@ msgid "开发模式"
 msgstr "개발 모델"
 
 #: src/components/PostCard/PostCard.vue:19
-#: src/components/StdEditor/StdEditor.vue:74 src/constant.js:20
+#: src/components/StdEditor/StdEditor.vue:74 src/constant.js:21
 #: src/pages/surface/components/Status/StatusCard.vue:14
 #: src/pages/surface/views/firmware/FirmwaresList.vue:16
 msgid "开发者测试版"
@@ -339,7 +339,7 @@ msgstr "설명:"
 msgid "描述文件的链接已复制到您的剪贴板，请参照这篇教程来使用"
 msgstr "프로필 링크가 클립보드에 복사되었고 이 튜토리얼을 참조하십시오"
 
-#: src/components/PostCard/PostCard.vue:29
+#: src/components/PostCard/PostCard.vue:28
 #: src/pages/surface/components/Status/StatusCard.vue:21
 #: src/pages/surface/views/project/Topic.vue:65
 msgid "提供"
@@ -357,6 +357,10 @@ msgstr "Post"
 #: src/pages/user/views/project/Project.vue:112
 msgid "新建项目"
 msgstr "새 항목"
+
+#: src/components/PostCard/PostCard.vue:7
+msgid "新鲜事"
+msgstr ""
 
 #: src/components/Footer/FooterComponent.vue:3
 msgid "无派科技（深圳）有限公司"
@@ -406,7 +410,7 @@ msgid "查看教程"
 msgstr "튜토리얼 보기"
 
 #: src/components/PostCard/PostCard.vue:20
-#: src/components/StdEditor/StdEditor.vue:75 src/constant.js:21
+#: src/components/StdEditor/StdEditor.vue:75 src/constant.js:22
 #: src/pages/surface/components/Status/StatusCard.vue:15
 #: src/pages/surface/views/firmware/FirmwaresList.vue:13
 msgid "正式版"
@@ -415,6 +419,10 @@ msgstr "정식 버전"
 #: src/lib/translate/info.js:33
 msgid "法语"
 msgstr "프랑스어"
+
+#: src/pages/surface/components/CardList/CardList.vue:2
+msgid "热门尝鲜"
+msgstr ""
 
 #: src/components/Footer/FooterComponent.vue:10
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:15
