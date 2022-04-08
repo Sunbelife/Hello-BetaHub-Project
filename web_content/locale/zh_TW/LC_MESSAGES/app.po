@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: 2022-03-18 09:38+0000\n"
-"PO-Revision-Date: 2022-03-20 07:48+0000\n"
+"PO-Revision-Date: 2022-04-08 07:36+0000\n"
 "Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
 "Language-Team: Chinese (Traditional) <http://hello.betahub.cn/projects/"
 "Betahub/betahub/zh_TW/>\n"
@@ -51,7 +51,7 @@ msgstr "下載連結複製失敗"
 
 #: src/pages/user/views/settings/Settings.vue:41
 msgid "令牌创建成功"
-msgstr ""
+msgstr "令牌創建成功"
 
 #: src/pages/surface/layouts/Widget.vue:32
 msgid "以下是我们特别赞助商的产品。"
@@ -83,10 +83,8 @@ msgid "公告"
 msgstr "公告"
 
 #: src/constant.js:10
-#, fuzzy
-#| msgid "公告"
 msgid "公开"
-msgstr "公告"
+msgstr "公開"
 
 #: src/pages/surface/components/HeaderComponent.vue:25
 #: src/pages/surface/components/HeaderComponent.vue:46
@@ -127,10 +125,8 @@ msgid "加入翻译"
 msgstr "加入翻譯"
 
 #: src/pages/user/views/post/Post.vue:29
-#, fuzzy
-#| msgid "最新动态"
 msgid "动态"
-msgstr "最新動態"
+msgstr "動態"
 
 #: src/components/Card/SubCard.vue:29
 msgid "即刻尝鲜"
@@ -152,7 +148,7 @@ msgstr "發佈時間"
 
 #: src/constant.js:9
 msgid "只读"
-msgstr ""
+msgstr "只讀"
 
 #: src/pages/surface/views/firmware/DevicesList.vue:3
 msgid "哪个型号？"
@@ -261,7 +257,7 @@ msgstr "開始下載吧"
 
 #: src/components/Card/VersionTag.vue:3
 msgid "当前更新至"
-msgstr ""
+msgstr "當前更新至"
 
 #: src/pages/surface/components/SetLanguage/SetLanguage.vue:10
 msgid "当前语言"
@@ -297,7 +293,7 @@ msgstr "找到我們"
 
 #: src/pages/user/views/post/Post.vue:54
 msgid "投稿类型"
-msgstr ""
+msgstr "投稿類型"
 
 #: src/pages/surface/components/SetLanguage/SetLanguage.vue:29
 msgid "报告问题"
@@ -374,7 +370,7 @@ msgstr "暱稱"
 
 #: src/pages/surface/components/Status/StatusList.vue:48
 msgid "显示 %{n} 条新动态"
-msgstr ""
+msgstr "顯示 %{n} 條新動態"
 
 #: src/pages/surface/components/Status/StatusList.vue:24
 msgid "显示更多"
@@ -435,7 +431,7 @@ msgstr "稍等一下..."
 
 #: src/pages/surface/views/project/Topic.vue:49
 msgid "立即安装"
-msgstr ""
+msgstr "立即安裝"
 
 #: src/lib/translate/info.js:47
 msgid "简体中文"
@@ -489,11 +485,11 @@ msgstr "設備標識符"
 
 #: src/pages/user/views/project/Project.vue:20
 msgid "访问权限"
-msgstr ""
+msgstr "訪問權限"
 
 #: src/pages/user/views/project/Project.vue:22
 msgid "访问权限："
-msgstr ""
+msgstr "訪問權限："
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:25
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:23
@@ -534,7 +530,7 @@ msgstr ""
 
 #: src/components/StdEditor/StdEditor.vue:36
 msgid "软件版本类型"
-msgstr ""
+msgstr "軟件版本類型"
 
 #: src/pages/surface/views/firmware/GoBack.vue:4
 msgid "返回上一级"
@@ -553,10 +549,8 @@ msgid "韩语"
 msgstr "韓語"
 
 #: src/pages/user/views/post/Post.vue:23
-#, fuzzy
-#| msgid "修改项目"
 msgid "项目"
-msgstr "修改項目"
+msgstr "項目"
 
 #: src/pages/user/views/project/Project.vue:8
 msgid "项目名称"
@@ -568,11 +562,11 @@ msgstr "項目描述"
 
 #: src/pages/surface/router.js:59
 msgid "项目页面"
-msgstr ""
+msgstr "項目頁面"
 
 #: src/pages/surface/router.js:51
 msgid "项目首页"
-msgstr ""
+msgstr "項目首頁"
 
 #: src/pages/surface/components/HeaderComponent.vue:15
 #: src/pages/surface/components/HeaderComponent.vue:36
