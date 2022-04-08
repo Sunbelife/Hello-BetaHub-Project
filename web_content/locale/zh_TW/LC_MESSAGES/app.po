@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: 2022-04-08 07:36+0000\n"
-"PO-Revision-Date: 2022-04-08 07:36+0000\n"
+"PO-Revision-Date: 2022-04-10 15:30+0000\n"
 "Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
 "Language-Team: Chinese (Traditional) <http://hello.betahub.cn/projects/"
 "Betahub/betahub/zh_TW/>\n"
@@ -354,7 +354,7 @@ msgstr "新建項目"
 
 #: src/components/PostCard/PostCard.vue:7
 msgid "新鲜事"
-msgstr ""
+msgstr "新資訊"
 
 #: src/components/Footer/FooterComponent.vue:3
 msgid "无派科技（深圳）有限公司"
@@ -416,7 +416,7 @@ msgstr "法語"
 
 #: src/pages/surface/components/CardList/CardList.vue:2
 msgid "热门尝鲜"
-msgstr ""
+msgstr "熱門嘗鮮"
 
 #: src/components/Footer/FooterComponent.vue:10
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:15
