@@ -14,12 +14,14 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.10.1\n"
 
-#: src/components/PostCard/PostCard.vue:40
+#: src/components/Card/SubCard.vue:30 src/components/PostCard/PostCard.vue:44
 #: src/pages/surface/components/Status/StatusCard.vue:43
+#: src/pages/surface/views/project/BetaCat.vue:47
+#: src/pages/surface/views/project/Topic.vue:76
 msgid "%{date} 有更新"
 msgstr "%{date} 有更新"
 
-#: src/pages/surface/router.js:77
+#: src/pages/surface/router.js:88
 msgid "404页面"
 msgstr "404页面"
 
@@ -84,9 +86,9 @@ msgstr "公告"
 msgid "公开"
 msgstr "公告"
 
-#: src/pages/surface/components/HeaderComponent.vue:30
-#: src/pages/surface/components/HeaderComponent.vue:56
-#: src/pages/surface/router.js:40
+#: src/pages/surface/components/HeaderComponent.vue:25
+#: src/pages/surface/components/HeaderComponent.vue:46
+#: src/pages/surface/router.js:77
 msgid "关于"
 msgstr "关于"
 
@@ -127,7 +129,7 @@ msgstr "加入翻译"
 msgid "动态"
 msgstr "最新动态"
 
-#: src/components/Card/SubCard.vue:26
+#: src/components/Card/SubCard.vue:29
 msgid "即刻尝鲜"
 msgstr "即刻尝鲜"
 
@@ -135,7 +137,7 @@ msgstr "即刻尝鲜"
 msgid "即可向我们捐赠"
 msgstr "即可向我们捐赠"
 
-#: src/components/PostCard/PostCard.vue:10
+#: src/components/PostCard/PostCard.vue:14
 #: src/pages/surface/components/Status/StatusCard.vue:11
 msgid "发布于"
 msgstr "发布于"
@@ -157,16 +159,17 @@ msgstr "哪个型号？"
 msgid "哪个版本？"
 msgstr "哪个版本？"
 
-#: src/pages/surface/router.js:54
+#: src/pages/surface/router.js:29
 #: src/pages/surface/views/firmware/DeviceGroup.vue:2
+#: src/pages/surface/views/project/Topic.vue:55
 msgid "固件下载"
 msgstr "固件下载"
 
-#: src/pages/surface/router.js:64
+#: src/pages/surface/router.js:39
 msgid "固件列表"
 msgstr "固件列表"
 
-#: src/pages/surface/router.js:69
+#: src/pages/surface/router.js:44
 msgid "固件详情"
 msgstr "固件详情"
 
@@ -228,11 +231,12 @@ msgstr "好心人"
 msgid "如果有幸帮到你"
 msgstr "如果有幸帮到你"
 
-#: src/pages/surface/router.js:45
+#: src/pages/surface/router.js:82
 msgid "安装描述文件"
 msgstr "安装描述文件"
 
 #: src/pages/surface/router.js:7 src/pages/surface/views/other/Post.vue:27
+#: src/pages/surface/views/project/Topic.vue:54
 msgid "尝鲜派"
 msgstr "尝鲜派"
 
@@ -240,8 +244,8 @@ msgstr "尝鲜派"
 msgid "开发模式"
 msgstr "开发模式"
 
-#: src/components/Card/SubCard.vue:18 src/components/PostCard/PostCard.vue:16
-#: src/components/StdEditor/StdEditor.vue:74
+#: src/components/PostCard/PostCard.vue:19
+#: src/components/StdEditor/StdEditor.vue:74 src/constant.js:20
 #: src/pages/surface/components/Status/StatusCard.vue:14
 #: src/pages/surface/views/firmware/FirmwaresList.vue:16
 msgid "开发者测试版"
@@ -251,6 +255,10 @@ msgstr "开发者测试版"
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:2
 msgid "开始下载吧"
 msgstr "开始下载吧"
+
+#: src/components/Card/VersionTag.vue:3
+msgid "当前更新至"
+msgstr ""
 
 #: src/pages/surface/components/SetLanguage/SetLanguage.vue:10
 msgid "当前语言"
@@ -284,10 +292,6 @@ msgstr "成为特别赞助商"
 msgid "找到我们"
 msgstr "找到我们"
 
-#: src/pages/surface/views/project/Topic.vue:10
-msgid "投稿"
-msgstr ""
-
 #: src/pages/user/views/post/Post.vue:54
 msgid "投稿类型"
 msgstr ""
@@ -296,9 +300,9 @@ msgstr ""
 msgid "报告问题"
 msgstr "报告问题"
 
-#: src/pages/surface/components/HeaderComponent.vue:25
-#: src/pages/surface/components/HeaderComponent.vue:51
-#: src/pages/surface/router.js:35
+#: src/pages/surface/components/HeaderComponent.vue:20
+#: src/pages/surface/components/HeaderComponent.vue:41
+#: src/pages/surface/router.js:72
 msgid "捐助"
 msgstr "捐助"
 
@@ -330,8 +334,9 @@ msgstr "描述："
 msgid "描述文件的链接已复制到您的剪贴板，请参照这篇教程来使用"
 msgstr "描述文件的链接已复制到您的剪贴板，请参照这篇教程来使用"
 
-#: src/components/PostCard/PostCard.vue:19
+#: src/components/PostCard/PostCard.vue:29
 #: src/pages/surface/components/Status/StatusCard.vue:21
+#: src/pages/surface/views/project/Topic.vue:65
 msgid "提供"
 msgstr "提供"
 
@@ -340,7 +345,7 @@ msgstr "提供"
 msgid "文件大小:"
 msgstr "文件大小:"
 
-#: src/pages/surface/router.js:30 src/pages/user/views/post/Post.vue:28
+#: src/pages/surface/router.js:67 src/pages/user/views/post/Post.vue:28
 msgid "文章"
 msgstr ""
 
@@ -364,7 +369,15 @@ msgstr "日语"
 msgid "昵称"
 msgstr "昵称"
 
-#: src/pages/surface/components/Status/StatusList.vue:11
+#: src/pages/surface/components/Status/StatusList.vue:48
+msgid "显示 %{n} 条新动态"
+msgstr ""
+
+#: src/pages/surface/components/Status/StatusList.vue:24
+msgid "显示更多"
+msgstr "显示更多"
+
+#: src/pages/surface/components/Status/StatusList.vue:28
 msgid "暂无更多动态"
 msgstr "暂无更多动态"
 
@@ -379,16 +392,16 @@ msgstr "更新日志"
 msgid "服务器错误"
 msgstr "服务器错误"
 
-#: src/pages/surface/router.js:82
+#: src/pages/surface/router.js:93
 msgid "未找到页面"
 msgstr "未找到页面"
 
-#: src/components/Card/SubCard.vue:27
+#: src/components/Card/SubCard.vue:30
 msgid "查看教程"
 msgstr "查看教程"
 
-#: src/components/Card/SubCard.vue:19 src/components/PostCard/PostCard.vue:17
-#: src/components/StdEditor/StdEditor.vue:75
+#: src/components/PostCard/PostCard.vue:20
+#: src/components/StdEditor/StdEditor.vue:75 src/constant.js:21
 #: src/pages/surface/components/Status/StatusCard.vue:15
 #: src/pages/surface/views/firmware/FirmwaresList.vue:13
 msgid "正式版"
@@ -416,6 +429,10 @@ msgstr "直接下载"
 #: src/pages/surface/views/Install.vue:55
 msgid "稍等一下..."
 msgstr "稍等一下..."
+
+#: src/pages/surface/views/project/Topic.vue:49
+msgid "立即安装"
+msgstr ""
 
 #: src/lib/translate/info.js:47
 msgid "简体中文"
@@ -449,18 +466,13 @@ msgstr "老板"
 msgid "英语"
 msgstr "英语"
 
-#: src/pages/surface/components/HeaderComponent.vue:20
-#: src/pages/surface/components/HeaderComponent.vue:46
-msgid "苹果固件"
-msgstr ""
-
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:38
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:36
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:9
 msgid "苹果服务器下载"
 msgstr "苹果服务器下载"
 
-#: src/pages/surface/router.js:59
+#: src/pages/surface/router.js:34
 #: src/pages/surface/views/firmware/DevicesList.vue:13
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:14
 #: src/pages/surface/views/firmware/FirmwaresList.vue:39
@@ -537,7 +549,7 @@ msgstr "阅读教程"
 msgid "韩语"
 msgstr "韩语"
 
-#: src/pages/surface/router.js:25 src/pages/user/views/post/Post.vue:23
+#: src/pages/user/views/post/Post.vue:23
 #, fuzzy
 msgid "项目"
 msgstr "修改项目"
@@ -550,8 +562,16 @@ msgstr "项目名称"
 msgid "项目描述"
 msgstr "项目描述"
 
+#: src/pages/surface/router.js:59
+msgid "项目页面"
+msgstr ""
+
+#: src/pages/surface/router.js:51
+msgid "项目首页"
+msgstr ""
+
 #: src/pages/surface/components/HeaderComponent.vue:15
-#: src/pages/surface/components/HeaderComponent.vue:41
+#: src/pages/surface/components/HeaderComponent.vue:36
 #: src/pages/surface/router.js:20
 msgid "首页"
 msgstr "首页"
@@ -562,6 +582,3 @@ msgstr "验证状态"
 
 #~ msgid "候选发布版"
 #~ msgstr "候选发布版"
-
-#~ msgid "显示更多"
-#~ msgstr "显示更多"

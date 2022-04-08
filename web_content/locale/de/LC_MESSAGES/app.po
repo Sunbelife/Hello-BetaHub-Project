@@ -17,12 +17,14 @@ msgstr ""
 "X-Language: en\n"
 "X-Source-Language: zh\n"
 
-#: src/components/PostCard/PostCard.vue:40
+#: src/components/Card/SubCard.vue:30 src/components/PostCard/PostCard.vue:44
 #: src/pages/surface/components/Status/StatusCard.vue:43
+#: src/pages/surface/views/project/BetaCat.vue:47
+#: src/pages/surface/views/project/Topic.vue:76
 msgid "%{date} 有更新"
 msgstr "%{date} aufrüstbar"
 
-#: src/pages/surface/router.js:77
+#: src/pages/surface/router.js:88
 msgid "404页面"
 msgstr "404 Fehler"
 
@@ -88,9 +90,9 @@ msgstr "Anschlag"
 msgid "公开"
 msgstr "Anschlag"
 
-#: src/pages/surface/components/HeaderComponent.vue:30
-#: src/pages/surface/components/HeaderComponent.vue:56
-#: src/pages/surface/router.js:40
+#: src/pages/surface/components/HeaderComponent.vue:25
+#: src/pages/surface/components/HeaderComponent.vue:46
+#: src/pages/surface/router.js:77
 msgid "关于"
 msgstr "Über"
 
@@ -132,7 +134,7 @@ msgstr "Übersetzen"
 msgid "动态"
 msgstr "Neuesten Nachrichten"
 
-#: src/components/Card/SubCard.vue:26
+#: src/components/Card/SubCard.vue:29
 msgid "即刻尝鲜"
 msgstr "Versuch's jetzt"
 
@@ -140,7 +142,7 @@ msgstr "Versuch's jetzt"
 msgid "即可向我们捐赠"
 msgstr "Kann uns spenden"
 
-#: src/components/PostCard/PostCard.vue:10
+#: src/components/PostCard/PostCard.vue:14
 #: src/pages/surface/components/Status/StatusCard.vue:11
 msgid "发布于"
 msgstr "Veröffentlicht im"
@@ -162,16 +164,17 @@ msgstr "Welches Kategorien?"
 msgid "哪个版本？"
 msgstr "Welche Version?"
 
-#: src/pages/surface/router.js:54
+#: src/pages/surface/router.js:29
 #: src/pages/surface/views/firmware/DeviceGroup.vue:2
+#: src/pages/surface/views/project/Topic.vue:55
 msgid "固件下载"
 msgstr "Firmware laden"
 
-#: src/pages/surface/router.js:64
+#: src/pages/surface/router.js:39
 msgid "固件列表"
 msgstr "Firmware Liste"
 
-#: src/pages/surface/router.js:69
+#: src/pages/surface/router.js:44
 msgid "固件详情"
 msgstr "Firmware Detail"
 
@@ -233,11 +236,12 @@ msgstr "Gutherziger Man"
 msgid "如果有幸帮到你"
 msgstr "Wenn ich das Glück habe, Ihnen zu helfen"
 
-#: src/pages/surface/router.js:45
+#: src/pages/surface/router.js:82
 msgid "安装描述文件"
 msgstr "Profil installieren"
 
 #: src/pages/surface/router.js:7 src/pages/surface/views/other/Post.vue:27
+#: src/pages/surface/views/project/Topic.vue:54
 msgid "尝鲜派"
 msgstr "BetaHub"
 
@@ -245,8 +249,8 @@ msgstr "BetaHub"
 msgid "开发模式"
 msgstr "Developer-Programm"
 
-#: src/components/Card/SubCard.vue:18 src/components/PostCard/PostCard.vue:16
-#: src/components/StdEditor/StdEditor.vue:74
+#: src/components/PostCard/PostCard.vue:19
+#: src/components/StdEditor/StdEditor.vue:74 src/constant.js:20
 #: src/pages/surface/components/Status/StatusCard.vue:14
 #: src/pages/surface/views/firmware/FirmwaresList.vue:16
 msgid "开发者测试版"
@@ -256,6 +260,10 @@ msgstr "Developer Beta testen"
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:2
 msgid "开始下载吧"
 msgstr "Anfang laden bitte"
+
+#: src/components/Card/VersionTag.vue:3
+msgid "当前更新至"
+msgstr ""
 
 #: src/pages/surface/components/SetLanguage/SetLanguage.vue:10
 msgid "当前语言"
@@ -292,10 +300,6 @@ msgstr "Werden Sie ein besonderer Sponsor"
 msgid "找到我们"
 msgstr "Finde uns"
 
-#: src/pages/surface/views/project/Topic.vue:10
-msgid "投稿"
-msgstr ""
-
 #: src/pages/user/views/post/Post.vue:54
 msgid "投稿类型"
 msgstr ""
@@ -304,9 +308,9 @@ msgstr ""
 msgid "报告问题"
 msgstr "Prüfbericht"
 
-#: src/pages/surface/components/HeaderComponent.vue:25
-#: src/pages/surface/components/HeaderComponent.vue:51
-#: src/pages/surface/router.js:35
+#: src/pages/surface/components/HeaderComponent.vue:20
+#: src/pages/surface/components/HeaderComponent.vue:41
+#: src/pages/surface/router.js:72
 msgid "捐助"
 msgstr "Spenden"
 
@@ -340,8 +344,9 @@ msgstr ""
 "Der Link des Profil wurde in Ihre Zwischenablage kopiert, bitte verwenden "
 "Sie dieses Tutorial"
 
-#: src/components/PostCard/PostCard.vue:19
+#: src/components/PostCard/PostCard.vue:29
 #: src/pages/surface/components/Status/StatusCard.vue:21
+#: src/pages/surface/views/project/Topic.vue:65
 msgid "提供"
 msgstr "liefern"
 
@@ -350,7 +355,7 @@ msgstr "liefern"
 msgid "文件大小:"
 msgstr "Dateigröße:"
 
-#: src/pages/surface/router.js:30 src/pages/user/views/post/Post.vue:28
+#: src/pages/surface/router.js:67 src/pages/user/views/post/Post.vue:28
 msgid "文章"
 msgstr "Post"
 
@@ -374,7 +379,15 @@ msgstr "Japanisch"
 msgid "昵称"
 msgstr "Name"
 
-#: src/pages/surface/components/Status/StatusList.vue:11
+#: src/pages/surface/components/Status/StatusList.vue:48
+msgid "显示 %{n} 条新动态"
+msgstr ""
+
+#: src/pages/surface/components/Status/StatusList.vue:24
+msgid "显示更多"
+msgstr "Zeig mehr"
+
+#: src/pages/surface/components/Status/StatusList.vue:28
 msgid "暂无更多动态"
 msgstr "Keine Neuigkeiten mehr"
 
@@ -389,16 +402,16 @@ msgstr "Changelog"
 msgid "服务器错误"
 msgstr "Serverfehler"
 
-#: src/pages/surface/router.js:82
+#: src/pages/surface/router.js:93
 msgid "未找到页面"
 msgstr "Seite nicht gefunden"
 
-#: src/components/Card/SubCard.vue:27
+#: src/components/Card/SubCard.vue:30
 msgid "查看教程"
 msgstr "Tutorial ansehen"
 
-#: src/components/Card/SubCard.vue:19 src/components/PostCard/PostCard.vue:17
-#: src/components/StdEditor/StdEditor.vue:75
+#: src/components/PostCard/PostCard.vue:20
+#: src/components/StdEditor/StdEditor.vue:75 src/constant.js:21
 #: src/pages/surface/components/Status/StatusCard.vue:15
 #: src/pages/surface/views/firmware/FirmwaresList.vue:13
 msgid "正式版"
@@ -426,6 +439,10 @@ msgstr "Herunterladen"
 #: src/pages/surface/views/Install.vue:55
 msgid "稍等一下..."
 msgstr "Warte mal..."
+
+#: src/pages/surface/views/project/Topic.vue:49
+msgid "立即安装"
+msgstr ""
 
 #: src/lib/translate/info.js:47
 msgid "简体中文"
@@ -459,18 +476,13 @@ msgstr "Chef"
 msgid "英语"
 msgstr "Englisch"
 
-#: src/pages/surface/components/HeaderComponent.vue:20
-#: src/pages/surface/components/HeaderComponent.vue:46
-msgid "苹果固件"
-msgstr ""
-
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:38
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:36
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:9
 msgid "苹果服务器下载"
 msgstr "Apple-Server laden"
 
-#: src/pages/surface/router.js:59
+#: src/pages/surface/router.js:34
 #: src/pages/surface/views/firmware/DevicesList.vue:13
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:14
 #: src/pages/surface/views/firmware/FirmwaresList.vue:39
@@ -554,7 +566,7 @@ msgstr "Anleitung lesen"
 msgid "韩语"
 msgstr "Koreanisch"
 
-#: src/pages/surface/router.js:25 src/pages/user/views/post/Post.vue:23
+#: src/pages/user/views/post/Post.vue:23
 #, fuzzy
 #| msgid "修改项目"
 msgid "项目"
@@ -568,8 +580,16 @@ msgstr "Projektname"
 msgid "项目描述"
 msgstr "Projektbeschreibung"
 
+#: src/pages/surface/router.js:59
+msgid "项目页面"
+msgstr ""
+
+#: src/pages/surface/router.js:51
+msgid "项目首页"
+msgstr ""
+
 #: src/pages/surface/components/HeaderComponent.vue:15
-#: src/pages/surface/components/HeaderComponent.vue:41
+#: src/pages/surface/components/HeaderComponent.vue:36
 #: src/pages/surface/router.js:20
 msgid "首页"
 msgstr "Titelseite"
@@ -580,9 +600,6 @@ msgstr "Verifizierungsstatus"
 
 #~ msgid "候选发布版"
 #~ msgstr "RC-Version"
-
-#~ msgid "显示更多"
-#~ msgstr "Zeig mehr"
 
 #~ msgid "Apple"
 #~ msgstr "APPLE"
