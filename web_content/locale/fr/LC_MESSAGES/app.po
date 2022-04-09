@@ -1,12 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: 2022-04-08 07:36+0000\n"
-"PO-Revision-Date: 2022-03-19 18:08+0000\n"
+"PO-Revision-Date: 2022-04-10 15:30+0000\n"
 "Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
-"Language-Team: French <http://hello.betahub.cn/projects/Betahub/betahub/fr/"
-">\n"
+"Language-Team: French <http://hello.betahub.cn/projects/Betahub/betahub/fr/>"
+"\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -53,7 +53,7 @@ msgstr "Copie du lien échouée"
 
 #: src/pages/user/views/settings/Settings.vue:41
 msgid "令牌创建成功"
-msgstr ""
+msgstr "Jeton créé avec succès"
 
 #: src/pages/surface/layouts/Widget.vue:32
 msgid "以下是我们特别赞助商的产品。"
@@ -85,8 +85,6 @@ msgid "公告"
 msgstr "Annonce"
 
 #: src/constant.js:10
-#, fuzzy
-#| msgid "公告"
 msgid "公开"
 msgstr "Annonce"
 
@@ -129,10 +127,8 @@ msgid "加入翻译"
 msgstr "Traduire"
 
 #: src/pages/user/views/post/Post.vue:29
-#, fuzzy
-#| msgid "最新动态"
 msgid "动态"
-msgstr "Dernières nouvelles"
+msgstr "Dynamique"
 
 #: src/components/Card/SubCard.vue:29
 msgid "即刻尝鲜"
@@ -154,7 +150,7 @@ msgstr "Date de publication"
 
 #: src/constant.js:9
 msgid "只读"
-msgstr ""
+msgstr "lecture seulement"
 
 #: src/pages/surface/views/firmware/DevicesList.vue:3
 msgid "哪个型号？"
@@ -263,7 +259,7 @@ msgstr "Commencer le téléchargement"
 
 #: src/components/Card/VersionTag.vue:3
 msgid "当前更新至"
-msgstr ""
+msgstr "Actuellement mis à jour pour"
 
 #: src/pages/surface/components/SetLanguage/SetLanguage.vue:10
 msgid "当前语言"
@@ -299,7 +295,7 @@ msgstr "Nous trouver"
 
 #: src/pages/user/views/post/Post.vue:54
 msgid "投稿类型"
-msgstr ""
+msgstr "Type de cotisation"
 
 #: src/pages/surface/components/SetLanguage/SetLanguage.vue:29
 msgid "报告问题"
@@ -360,7 +356,7 @@ msgstr "Nouveaux projets de construction"
 
 #: src/components/PostCard/PostCard.vue:7
 msgid "新鲜事"
-msgstr ""
+msgstr "Nouveau"
 
 #: src/components/Footer/FooterComponent.vue:3
 msgid "无派科技（深圳）有限公司"
@@ -380,7 +376,7 @@ msgstr "Nom"
 
 #: src/pages/surface/components/Status/StatusList.vue:48
 msgid "显示 %{n} 条新动态"
-msgstr ""
+msgstr "Affichage de %{n} nouveaux messages"
 
 #: src/pages/surface/components/Status/StatusList.vue:24
 msgid "显示更多"
@@ -422,7 +418,7 @@ msgstr "Français"
 
 #: src/pages/surface/components/CardList/CardList.vue:2
 msgid "热门尝鲜"
-msgstr ""
+msgstr "Adopteurs précoces populaires"
 
 #: src/components/Footer/FooterComponent.vue:10
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:15
@@ -445,7 +441,7 @@ msgstr "Veuillez attendre…"
 
 #: src/pages/surface/views/project/Topic.vue:49
 msgid "立即安装"
-msgstr ""
+msgstr "installer maintenant"
 
 #: src/lib/translate/info.js:47
 msgid "简体中文"
@@ -499,11 +495,11 @@ msgstr "identifiant de l'appareil"
 
 #: src/pages/user/views/project/Project.vue:20
 msgid "访问权限"
-msgstr ""
+msgstr "droit d'accès"
 
 #: src/pages/user/views/project/Project.vue:22
 msgid "访问权限："
-msgstr ""
+msgstr "droit d'accès:"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:25
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:23
@@ -549,7 +545,7 @@ msgstr ""
 
 #: src/components/StdEditor/StdEditor.vue:36
 msgid "软件版本类型"
-msgstr ""
+msgstr "Type de version du logiciel"
 
 #: src/pages/surface/views/firmware/GoBack.vue:4
 msgid "返回上一级"
@@ -568,10 +564,8 @@ msgid "韩语"
 msgstr "Coréen"
 
 #: src/pages/user/views/post/Post.vue:23
-#, fuzzy
-#| msgid "修改项目"
 msgid "项目"
-msgstr "Modifier l'article"
+msgstr "projet"
 
 #: src/pages/user/views/project/Project.vue:8
 msgid "项目名称"
@@ -583,11 +577,11 @@ msgstr "Description du projet"
 
 #: src/pages/surface/router.js:59
 msgid "项目页面"
-msgstr ""
+msgstr "page du projet"
 
 #: src/pages/surface/router.js:51
 msgid "项目首页"
-msgstr ""
+msgstr "Accueil du projet"
 
 #: src/pages/surface/components/HeaderComponent.vue:15
 #: src/pages/surface/components/HeaderComponent.vue:36
