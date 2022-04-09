@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: 2022-04-08 07:36+0000\n"
-"PO-Revision-Date: 2022-04-09 14:55+0000\n"
+"PO-Revision-Date: 2022-04-10 15:30+0000\n"
 "Last-Translator: 孫斌 <1335310642@qq.com>\n"
 "Language-Team: German <http://hello.betahub.cn/projects/Betahub/betahub/de/>"
 "\n"
@@ -128,7 +128,7 @@ msgstr "Übersetzen"
 
 #: src/pages/user/views/post/Post.vue:29
 msgid "动态"
-msgstr "Dynamisch"
+msgstr "Tendenz"
 
 #: src/components/Card/SubCard.vue:29
 msgid "即刻尝鲜"
@@ -154,7 +154,7 @@ msgstr "Schreibgeschützt"
 
 #: src/pages/surface/views/firmware/DevicesList.vue:3
 msgid "哪个型号？"
-msgstr "Welches Kategorien?"
+msgstr "Welches Modell?"
 
 #: src/pages/surface/views/firmware/FirmwaresList.vue:3
 msgid "哪个版本？"
@@ -302,7 +302,7 @@ msgstr "Beitragsart"
 
 #: src/pages/surface/components/SetLanguage/SetLanguage.vue:29
 msgid "报告问题"
-msgstr "Prüfbericht"
+msgstr "ein Problem melden"
 
 #: src/pages/surface/components/HeaderComponent.vue:20
 #: src/pages/surface/components/HeaderComponent.vue:41
@@ -361,7 +361,7 @@ msgstr "Neues Projekt"
 
 #: src/components/PostCard/PostCard.vue:7
 msgid "新鲜事"
-msgstr "Neu"
+msgstr "Neue Informationen"
 
 #: src/components/Footer/FooterComponent.vue:3
 msgid "无派科技（深圳）有限公司"
@@ -381,7 +381,7 @@ msgstr "Name"
 
 #: src/pages/surface/components/Status/StatusList.vue:48
 msgid "显示 %{n} 条新动态"
-msgstr "%{n} neue Beiträge werden angezeigt"
+msgstr "Zeige%{n} neue Beiträge"
 
 #: src/pages/surface/components/Status/StatusList.vue:24
 msgid "显示更多"
@@ -408,7 +408,7 @@ msgstr "Seite nicht gefunden"
 
 #: src/components/Card/SubCard.vue:30
 msgid "查看教程"
-msgstr "Tutorial ansehen"
+msgstr "Beschreibung ansehen"
 
 #: src/components/PostCard/PostCard.vue:20
 #: src/components/StdEditor/StdEditor.vue:75 src/constant.js:22
@@ -423,7 +423,7 @@ msgstr "Französisch"
 
 #: src/pages/surface/components/CardList/CardList.vue:2
 msgid "热门尝鲜"
-msgstr "Beliebte Early Adopter"
+msgstr "aktülle Versuch"
 
 #: src/components/Footer/FooterComponent.vue:10
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:15
@@ -484,7 +484,7 @@ msgstr "Englisch"
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:36
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:9
 msgid "苹果服务器下载"
-msgstr "Apple-Server laden"
+msgstr "von Apple-Server laden"
 
 #: src/pages/surface/router.js:34
 #: src/pages/surface/views/firmware/DevicesList.vue:13
@@ -516,8 +516,8 @@ msgstr ""
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:103
 msgid "该固件正常验证中，可以通过 iTunes 进行「升级」或「恢复」。"
 msgstr ""
-"Die Firmware kann während der normalen Überprüfung über iTunes "
-"「aktualisiert」 oder 「wiederhergestellt」 werden."
+"Die Firmware kann während der normalen Überprüfung über iTunes 「aktualisiert」"
+" oder 「wiederhergestellt」 werden."
 
 #: src/pages/surface/views/Install.vue:68
 msgid "请在 Safari 中打开本页面"
@@ -537,8 +537,8 @@ msgid ""
 "店」店铺，感谢您的支持。"
 msgstr ""
 "Bitte klicken Sie auf Ihrem Mobiltelefon auf diese Schaltfläche oder suchen "
-"Sie auf WeChat nach dem Applet 「老孙的店」 und suchen Sie auf Taobao nach "
-"「老孙的某宝店」. Vielen Dank für Ihre Unterstützung."
+"Sie auf WeChat nach dem Applet 「老孙的店」 und suchen Sie auf Taobao nach 「老孙的某宝店」"
+". Vielen Dank für Ihre Unterstützung."
 
 #: src/pages/surface/views/firmware/FirmwaresList.vue:9
 msgid ""
@@ -547,8 +547,8 @@ msgid ""
 msgstr ""
 "Bitte wählen Sie die Version der Firmware aus, die Sie herunterladen "
 "möchten. Der grüne Verifizierungsstatus ist die Version 「jetzt "
-"aktualisierbar/wiederherstellbar」 und die rote Version ist die Version "
-"「jetzt nicht aktualisierbar/wiederherstellbar」."
+"aktualisierbar/wiederherstellbar」 und die rote Version ist die Version 「"
+"jetzt nicht aktualisierbar/wiederherstellbar」."
 
 #: src/components/StdEditor/StdEditor.vue:36
 msgid "软件版本类型"
