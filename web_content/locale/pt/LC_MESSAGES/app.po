@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Chinese (Simplified) (Hello BetaHub Project)\n"
 "Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: 2022-04-08 07:36+0000\n"
-"PO-Revision-Date: 2022-06-06 02:26+0000\n"
+"PO-Revision-Date: 2022-06-08 23:27+0000\n"
 "Last-Translator: Rafael <raafaafaa@gmail.com>\n"
 "Language-Team: Portuguese <http://hello.betahub.cn/projects/Betahub/betahub/"
 "pt/>\n"
@@ -131,7 +131,7 @@ msgstr "Atualizações"
 
 #: src/components/Card/SubCard.vue:29
 msgid "即刻尝鲜"
-msgstr "Experimente agora"
+msgstr "Experimentar agora"
 
 #: src/pages/surface/views/page/Donate.vue:4
 msgid "即可向我们捐赠"
@@ -224,7 +224,7 @@ msgstr "Baixar via CowTransfer"
 
 #: src/pages/surface/views/page/Donate.vue:19
 msgid "好心人"
-msgstr "Pessoa de bom coração"
+msgstr "Data"
 
 #: src/pages/surface/layouts/Widget.vue:14
 #: src/pages/surface/layouts/Widget.vue:2
@@ -312,7 +312,7 @@ msgstr "Doações"
 #: src/pages/surface/views/Install.vue:17
 #: src/pages/surface/views/Install.vue:14
 msgid "捐助我们"
-msgstr "Faça uma doação"
+msgstr "Fazer uma doação"
 
 #: src/pages/surface/layouts/Widget.vue:15
 #: src/pages/surface/layouts/Widget.vue:3
@@ -472,7 +472,7 @@ msgstr "Sun Store"
 
 #: src/pages/surface/views/page/Donate.vue:18
 msgid "老板"
-msgstr "Data"
+msgstr "Quantia"
 
 #: src/lib/translate/info.js:5
 msgid "英语"
@@ -523,7 +523,7 @@ msgstr "Por favor, abra esta página no Safari"
 
 #: src/pages/surface/views/firmware/DevicesList.vue:4
 msgid "请在下面选择您的设备型号"
-msgstr "Por favor, escolha o modelo abaixo"
+msgstr "Por favor, escolha o modelo do seu dispositivo abaixo"
 
 #: src/pages/surface/views/firmware/DeviceGroup.vue:3
 msgid "请在下面选择您的设备类型"
