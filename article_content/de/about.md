@@ -1,6 +1,6 @@
-##Intro | Über
+## Intro | Über
 
-Hier ist die About-Seite von BetaHub,「BetaHub」ist ein Treffpunkt für Tester, Da die Apple Developer Beta nur wenige Update-Kanäle hatte, war das Update zunächst nicht rechtzeitig, und es gab keine einheitliche Website, um diesen Teil der Informationen zu sammeln, Mit der Unterstützung einiger Unterstützer habe ich diesen BetaHub gegründet, Ich habe ein Apple-Entwicklerkonto gekauft, Und stellen Sie die Beschreibungsdatei auf die Website, damit jeder sie verwenden kann, In wenigen Monaten 3 Millionen Besuche gesammelt, Der Erfahrungsbericht zur iOS-Beta hat auch Millionen von Messwerten gesammelt, Spenden aus der ganzen Welt haben Tausende von Yuan angesammelt, Jetzt gibt es die aktuellen Early Adopters 2.0
+Hier ist die About-Seite von BetaHub,「BetaHub」ist ein Treffpunkt für Early Adopters, Da die Apple Developer Beta nur wenige Update-Kanäle hatte, war das Update zunächst nicht rechtzeitig, und es gab keine einheitliche Website, um diesen Teil der Informationen zu sammeln, Mit der Unterstützung einiger Unterstützer habe ich diesen BetaHub-Early Adopter gegründet, Ich habe ein Apple-Entwicklerkonto gekauft, Und stellen Sie die Beschreibungsdatei auf die Website, damit jeder sie verwenden kann, In wenigen Monaten 3 Millionen Besuche gesammelt, Der Erfahrungsbericht zur iOS-Beta hat auch Millionen von Messwerten gesammelt, Spenden aus der ganzen Welt haben Tausende von Yuan angesammelt, Jetzt gibt es die aktuellen Early Adopters 2.0
 
 In dieser Version, Wir haben das Update-Erlebnis von Apple Beta weiter verbessert, Und mit Hilfe von 0xJacky und Hintay, Wir haben die Benutzeroberfläche aktualisiert, Außerdem wurde die Schnittstelle zum Abrufen der offiziellen Firmware in iPSW.me lokalisiert, Lösen Sie das Problem des langsamen Zugriffs, Und zum ersten Mal (es sollte das erste in China sein) die Firmware des Beta-Systems von der offiziellen Website von Apple Developer zu holen.
 
@@ -12,48 +12,48 @@ Zusamenfassend, Als BetaHub wie alle, Wir werden hart daran arbeiten, allen Earl
 
 ## FAQ | Fragen und Antworten
 
-F: Wo ist die Firmware?
+Q：Wo ist die Quelle der Firmware?
 
-A: Die offizielle Version der Firmware wird von der ipsw.me-API erfasst. Die Beta-Firmware stammt von exklusiver Technologie, und beide Firmwares sind die offizielle Firmware von Apple.
+A：Die offizielle Version der Firmware wird von der ipsw.me-API erfasst. Die Beta-Firmware stammt von exklusiver Technologie, und beide Firmwares sind die offizielle Firmware von Apple.
 
-F: Wo ist das Profil?
+Q：Wo ist die Quelle das Profil?
 
-A: Aus dem Apple Developer Center.
+A：Aus dem Apple Developer Center.
 
-F: Wohin fließt das gespendete Geld?
+Q：Wohin fließt das gespendete Geld?
 
-A: Alle gespendeten Mittel werden für die zukünftige Entwicklung von Early Adopters und Ausgaben für zugehörige Server und Dienste verwendet.
+A：Alle gespendeten Mittel werden für die zukünftige Entwicklung von Early Adopters und Ausgaben für zugehörige Server und Dienste verwendet.
 
-F: Benötigen Sie eine Kooperation/Investition?
+Q：Benötigen Sie eine Kooperation/Investition?
 
-A: Bei Bedarf kontaktieren Sie mich bitte per E-Mail: i@Sunbelife.com.
+A：Bei Bedarf kontaktieren Sie mich bitte per E-Mail: i@Sunbelife.com.
 
-F: Brauchen Sie Hilfe?
+Q：Brauchen Sie Hilfe?
 
-A: Bei Bedarf kontaktieren Sie mich bitte per E-Mail: i@Sunbelife.com.
+A：Bei Bedarf kontaktieren Sie mich bitte per E-Mail: i@Sunbelife.com.
 
 ## Freiwilligenteam
 
 @空一格、@周鸿、@曾偉晉（Taiwan, China）
 
-## Selbsthilfegruppe
+##Selbsthilfegruppe
 
 @杨恩永、@周硙、@空一格
 
 ## BetaHub 2.0 Projektteam
 
-Gründer: @Sunbelife
+Gründer：@Sunbelife
 
-Hauptprogramm: @0xJacky
+Hauptprogramm：@0xJacky
 
-Mitwirkender: @Hintay
+Mitwirkender：@Hintay
 
-PHP Open-Source-Framework: @Codeigniter
+PHP Open-Source-Framework：Codeigniter
 
 ## BetaHub 4.0 Projektteam
 
-ruppenführer & Grooooß-Produktmanager: @Sunbelife
+Gruppenführer & Grooooß-Produktmanager：@Sunbelife
 
-Hauptprogramm: @0xJacky
+Hauptprogramm：@0xJacky
 
-Go Open-Source-Framework: Gin
+Go Open-Source-Framework：Gin
