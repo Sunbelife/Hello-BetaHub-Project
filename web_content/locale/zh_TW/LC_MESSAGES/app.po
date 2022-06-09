@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: 2022-04-08 07:36+0000\n"
-"PO-Revision-Date: 2022-04-10 15:30+0000\n"
-"Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
+"PO-Revision-Date: 2022-06-10 18:54+0000\n"
+"Last-Translator: 偉 <as901120@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <http://hello.betahub.cn/projects/"
 "Betahub/betahub/zh_TW/>\n"
 "Language: zh_TW\n"
@@ -20,7 +20,7 @@ msgstr ""
 #: src/pages/surface/views/project/BetaCat.vue:47
 #: src/pages/surface/views/project/Topic.vue:76
 msgid "%{date} 有更新"
-msgstr "%{date} 有更新"
+msgstr "%{date} 更新"
 
 #: src/pages/surface/router.js:93
 msgid "404页面"
@@ -28,7 +28,7 @@ msgstr "404 not found"
 
 #: src/pages/surface/router.js:29
 msgid "BetaCat"
-msgstr ""
+msgstr "BetaCat"
 
 #: src/pages/surface/layouts/Widget.vue:9
 #: src/pages/surface/views/Install.vue:67
@@ -37,12 +37,12 @@ msgstr "嘗鮮派"
 
 #: src/pages/surface/router.js:89
 msgid "WWDC 2022"
-msgstr ""
+msgstr "WWDC22"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:9
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:7
 msgid "上传时间:"
-msgstr "上傳時間:"
+msgstr "上傳時間："
 
 #: src/pages/surface/views/firmware/DevicesList.vue:27
 #: src/pages/surface/views/firmware/FirmwaresList.vue:25
@@ -51,7 +51,7 @@ msgstr "下載"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:74
 msgid "下载链接已拷贝到您的剪切板啦~"
-msgstr "下載連結已複製到您的剪貼板啦~"
+msgstr "下載連結已複製到您的剪貼簿啦～"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:76
 msgid "下载链接拷贝失败"
@@ -67,11 +67,11 @@ msgstr "以下是我們特別贊助商的產品。"
 
 #: src/pages/user/views/project/Project.vue:73
 msgid "保存失败"
-msgstr "保存失敗"
+msgstr "儲存失敗"
 
 #: src/pages/user/views/project/Project.vue:69
 msgid "保存成功"
-msgstr "保存成功"
+msgstr "儲存成功"
 
 #: src/pages/user/views/project/Project.vue:112
 msgid "修改项目"
@@ -84,7 +84,7 @@ msgstr "全靠捐助養自己"
 
 #: src/pages/surface/layouts/Widget.vue:10
 msgid "公众号 ID 已拷贝到您的剪切板啦~"
-msgstr "公眾號 ID 已複製到您的剪貼板啦~"
+msgstr "公眾號 ID 已複製到您的剪貼簿啦～"
 
 #: src/pages/surface/layouts/Widget.vue:52
 msgid "公告"
@@ -122,7 +122,7 @@ msgstr "創建時間："
 
 #: src/pages/surface/layouts/Widget.vue:46
 msgid "加入 TG 群组"
-msgstr "加入 TG 群組"
+msgstr "加入 Telegram 群組"
 
 #: src/pages/surface/layouts/Widget.vue:50
 msgid "加入尝鲜派"
@@ -138,7 +138,7 @@ msgstr "動態"
 
 #: src/components/Card/SubCard.vue:29
 msgid "即刻尝鲜"
-msgstr "即刻嘗鮮"
+msgstr "立即嘗鮮"
 
 #: src/pages/surface/views/page/Donate.vue:4
 msgid "即可向我们捐赠"
@@ -173,19 +173,19 @@ msgstr "韌體下載"
 
 #: src/pages/surface/router.js:39
 msgid "固件列表"
-msgstr "固件列表"
+msgstr "韌體列表"
 
 #: src/pages/surface/router.js:44
 msgid "固件详情"
-msgstr "固件詳情"
+msgstr "韌體詳情"
 
 #: src/pages/surface/layouts/Widget.vue:42
 msgid "在微信上关注 @iBeta尝鲜派"
-msgstr "在微信上關注 @iBeta嘗鮮派"
+msgstr "在 WeChat 上關注 @ iBeta尝鲜派"
 
 #: src/pages/surface/layouts/Widget.vue:60
 msgid "在微信上购买"
-msgstr "在微信上購買"
+msgstr "在 WeChat 上購買"
 
 #: src/pages/surface/layouts/Widget.vue:38
 msgid "在微博上关注 @iBeta尝鲜派"
@@ -272,15 +272,15 @@ msgstr "當前語言"
 
 #: src/pages/surface/views/page/Donate.vue:3
 msgid "微信扫描下方二维码"
-msgstr "微信掃描下方QR Code"
+msgstr "WeChat 掃描下方 QR Code"
 
 #: src/lib/translate/info.js:26
 msgid "德语"
-msgstr "德語"
+msgstr "德文"
 
 #: src/pages/surface/views/Install.vue:41
 msgid "您希望直接下载升级工具而跳过本教程吗"
-msgstr "您希望直接下載升級工具而跳過此教學嗎"
+msgstr "您希望直接下載更新工具而跳過此教學嗎"
 
 #: src/pages/surface/views/Install.vue:42
 msgid "您希望直接下载描述文件而跳过本教程吗"
@@ -289,7 +289,7 @@ msgstr "您希望直接下載設定描述檔而跳過此教學嗎"
 #: src/pages/surface/layouts/Widget.vue:29
 #: src/pages/surface/views/live/SponsorCard.vue:12
 msgid "感谢您~"
-msgstr "感謝您~"
+msgstr "感謝您～"
 
 #: src/pages/surface/layouts/Widget.vue:68
 msgid "成为特别赞助商"
@@ -339,7 +339,7 @@ msgstr "描述："
 #: src/pages/surface/views/Install.vue:32
 #: src/pages/surface/views/Install.vue:56
 msgid "描述文件的链接已复制到您的剪贴板，请参照这篇教程来使用"
-msgstr "設定描述檔的連結已複製到您的剪貼板，請參照這篇教學來使用"
+msgstr "設定描述檔的連結已複製到您的剪貼簿，請參考這篇教學來使用"
 
 #: src/components/PostCard/PostCard.vue:28
 #: src/pages/surface/components/Status/StatusCard.vue:21
@@ -362,7 +362,7 @@ msgstr "新建項目"
 
 #: src/components/PostCard/PostCard.vue:7
 msgid "新鲜事"
-msgstr "新資訊"
+msgstr "新鮮事"
 
 #: src/components/Footer/FooterComponent.vue:3
 msgid "无派科技（深圳）有限公司"
@@ -374,7 +374,7 @@ msgstr "日期"
 
 #: src/lib/translate/info.js:12
 msgid "日语"
-msgstr "日語"
+msgstr "日文"
 
 #: src/pages/surface/views/page/Donate.vue:10
 msgid "昵称"
@@ -392,7 +392,7 @@ msgstr "顯示更多"
 #: src/pages/surface/components/Status/StatusList.vue:28
 #: src/pages/surface/views/live/LiveStatus/LiveStatusList.vue:27
 msgid "暂无更多动态"
-msgstr "暫無更多動態"
+msgstr "目前沒有更多動態"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:73
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:71
@@ -404,7 +404,7 @@ msgstr "更新日誌"
 #: src/pages/user/views/project/Project.vue:63
 #: src/pages/user/views/settings/Settings.vue:43
 msgid "服务器错误"
-msgstr "服務器錯誤"
+msgstr "伺服器錯誤"
 
 #: src/pages/surface/router.js:98
 msgid "未找到页面"
@@ -412,7 +412,7 @@ msgstr "404 not found"
 
 #: src/components/Card/SubCard.vue:30
 msgid "查看教程"
-msgstr "查看教程"
+msgstr "查看教學"
 
 #: src/components/PostCard/PostCard.vue:20
 #: src/components/StdEditor/StdEditor.vue:75 src/constant.js:22
@@ -423,7 +423,7 @@ msgstr "正式版"
 
 #: src/lib/translate/info.js:33
 msgid "法语"
-msgstr "法語"
+msgstr "法文"
 
 #: src/pages/surface/components/CardList/CardList.vue:2
 msgid "热门尝鲜"
@@ -446,7 +446,7 @@ msgstr "直接下載"
 #: src/pages/surface/views/Install.vue:39
 #: src/pages/surface/views/Install.vue:55
 msgid "稍等一下..."
-msgstr "稍等一下..."
+msgstr "稍等一下⋯"
 
 #: src/pages/surface/views/project/Topic.vue:49
 msgid "立即安装"
@@ -454,7 +454,7 @@ msgstr "立即安裝"
 
 #: src/components/Card/SubCard.vue:63
 msgid "等待更新"
-msgstr ""
+msgstr "等待更新"
 
 #: src/lib/translate/info.js:47
 msgid "简体中文"
@@ -478,7 +478,7 @@ msgstr "翻譯來自志願者"
 
 #: src/pages/surface/layouts/Widget.vue:56
 msgid "老孙的店"
-msgstr "老孫的店"
+msgstr "老孙的店"
 
 #: src/pages/surface/views/page/Donate.vue:18
 msgid "老板"
@@ -486,7 +486,7 @@ msgstr "老闆"
 
 #: src/lib/translate/info.js:5
 msgid "英语"
-msgstr "英語"
+msgstr "英文"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:38
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:36
@@ -496,7 +496,7 @@ msgstr "Apple 伺服器下載"
 
 #: src/lib/translate/info.js:54
 msgid "葡萄牙语"
-msgstr ""
+msgstr "葡萄牙文"
 
 #: src/pages/surface/router.js:34
 #: src/pages/surface/views/firmware/DevicesList.vue:13
@@ -544,9 +544,7 @@ msgstr "請在下面選擇您的設備類型"
 msgid ""
 "请在手机中点击此按钮，或在微信搜索「老孙的店」小程序，淘宝搜索「老孙的某宝"
 "店」店铺，感谢您的支持。"
-msgstr ""
-"請在手機中點擊此按鈕，或在微信搜索「老孫的店」小程式，淘寶搜索「老孫的某寶"
-"店」店鋪，感謝您的支持。"
+msgstr "請在手機中點擊此按鈕，或在微信搜索「老孙的店」小程式，淘寶搜索「老孙的某寶店」店鋪，感謝您的支持。"
 
 #: src/pages/surface/views/firmware/FirmwaresList.vue:9
 msgid ""
@@ -558,7 +556,7 @@ msgstr ""
 
 #: src/components/StdEditor/StdEditor.vue:36
 msgid "软件版本类型"
-msgstr "軟件版本類型"
+msgstr "軟體版本類型"
 
 #: src/pages/surface/views/firmware/GoBack.vue:4
 msgid "返回上一级"
@@ -574,7 +572,7 @@ msgstr "閱讀教學"
 
 #: src/lib/translate/info.js:19
 msgid "韩语"
-msgstr "韓語"
+msgstr "韓文"
 
 #: src/pages/user/views/post/Post.vue:23
 msgid "项目"
