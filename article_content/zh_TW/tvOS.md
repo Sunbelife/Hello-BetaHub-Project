@@ -14,24 +14,24 @@
 
 ![][Add Profile]
 
-接著在手機的提示中直接貼上（如剪貼板消失，請點擊底部的再次複制按鈕）
+接著在手機的提示中直接貼上（如剪貼步消失，請點擊底部的再次複制按鈕）
 
 然後點擊「完成」
 
 ![][Type URL]
 
-在接下來的界面中點擊「安裝」
+在接下来的界面中点击「安装」
 
 ![][Install Profile]
 
-按提示重啟後即可在「設定 - 系統 - 軟體更新」中收到更新
-按提示下載安裝即可
+按提示重启后即可在「设置 - 系统 - 软件更新」中收到更新
+按提示下载安装即可
 
 ![][Update]
 
-感謝使用嘗鮮派
-如果我們的工作幫助到您
-請向我們捐助或贊助我們
+感谢使用尝鲜派
+如果我们的工作帮助到您
+请向我们捐助或赞助我们
 
 [Privacy]:  https://tva1.sinaimg.cn/large/008i3skNgy1gwqqdqt8t8j311q0hqdge.jpg
 [Share]:  https://tva1.sinaimg.cn/large/008i3skNgy1gwqrjc3zbpj311q0hqdgc.jpg
