@@ -1,12 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-08 07:36+0000\n"
 "PO-Revision-Date: 2022-04-10 15:30+0000\n"
 "Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
-"Language-Team: French <http://hello.betahub.cn/projects/Betahub/betahub/fr/>"
-"\n"
+"Language-Team: French <http://hello.betahub.cn/projects/Betahub/betahub/fr/"
+">\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,21 +17,29 @@ msgstr ""
 "X-Language: en\n"
 "X-Source-Language: zh\n"
 
-#: src/components/Card/SubCard.vue:30 src/components/PostCard/PostCard.vue:49
+#: src/components/Card/SubCard.vue:38 src/components/PostCard/PostCard.vue:49
 #: src/pages/surface/components/Status/StatusCard.vue:43
 #: src/pages/surface/views/project/BetaCat.vue:47
 #: src/pages/surface/views/project/Topic.vue:76
 msgid "%{date} 有更新"
 msgstr "Mises à jour disponibles %{date}"
 
-#: src/pages/surface/router.js:88
+#: src/pages/surface/router.js:93
 msgid "404页面"
 msgstr "Page 404"
 
-#: src/pages/surface/layouts/Widget.vue:8
+#: src/pages/surface/router.js:29
+msgid "BetaCat"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:9
 #: src/pages/surface/views/Install.vue:67
 msgid "iBeta 尝鲜派"
 msgstr "BetaHub"
+
+#: src/pages/surface/router.js:89
+msgid "WWDC 2022"
+msgstr ""
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:9
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:7
@@ -55,7 +63,7 @@ msgstr "Copie du lien échouée"
 msgid "令牌创建成功"
 msgstr "Jeton créé avec succès"
 
-#: src/pages/surface/layouts/Widget.vue:32
+#: src/pages/surface/layouts/Widget.vue:34
 msgid "以下是我们特别赞助商的产品。"
 msgstr "Voici les boutiques de nos sponsors."
 
@@ -71,16 +79,16 @@ msgstr "Sauvegardé avec succès"
 msgid "修改项目"
 msgstr "Modifier l'article"
 
-#: src/pages/surface/layouts/Widget.vue:13
+#: src/pages/surface/layouts/Widget.vue:14
 #: src/pages/surface/layouts/Widget.vue:1
 msgid "全靠捐助养自己"
 msgstr "Les dons sont vitaux"
 
-#: src/pages/surface/layouts/Widget.vue:9
+#: src/pages/surface/layouts/Widget.vue:10
 msgid "公众号 ID 已拷贝到您的剪切板啦~"
 msgstr "Le nom de notre chaîne WeChat a été copié"
 
-#: src/pages/surface/layouts/Widget.vue:51
+#: src/pages/surface/layouts/Widget.vue:52
 msgid "公告"
 msgstr "Annonce"
 
@@ -114,11 +122,11 @@ msgstr "Dernières nouvelles"
 msgid "创建时间："
 msgstr "Créé le :"
 
-#: src/pages/surface/layouts/Widget.vue:45
+#: src/pages/surface/layouts/Widget.vue:46
 msgid "加入 TG 群组"
 msgstr "Rejoindre notre groupe TG"
 
-#: src/pages/surface/layouts/Widget.vue:49
+#: src/pages/surface/layouts/Widget.vue:50
 msgid "加入尝鲜派"
 msgstr "Nous rejoindre"
 
@@ -160,9 +168,8 @@ msgstr "Quel modèle ?"
 msgid "哪个版本？"
 msgstr "Quelle version ?"
 
-#: src/pages/surface/router.js:29
 #: src/pages/surface/views/firmware/DeviceGroup.vue:2
-#: src/pages/surface/views/project/Topic.vue:55
+#: src/pages/surface/views/project/Topic.vue:53
 msgid "固件下载"
 msgstr "Téléchargement de firmware"
 
@@ -174,19 +181,19 @@ msgstr "Liste des micrologiciels"
 msgid "固件详情"
 msgstr "Détails du micrologiciel"
 
-#: src/pages/surface/layouts/Widget.vue:41
+#: src/pages/surface/layouts/Widget.vue:42
 msgid "在微信上关注 @iBeta尝鲜派"
 msgstr "Nous suivre sur WeChat"
 
-#: src/pages/surface/layouts/Widget.vue:59
+#: src/pages/surface/layouts/Widget.vue:60
 msgid "在微信上购买"
 msgstr "Acheter sur WeChat"
 
-#: src/pages/surface/layouts/Widget.vue:37
+#: src/pages/surface/layouts/Widget.vue:38
 msgid "在微博上关注 @iBeta尝鲜派"
 msgstr "Nous suivre sur Weibo"
 
-#: src/pages/surface/layouts/Widget.vue:63
+#: src/pages/surface/layouts/Widget.vue:64
 msgid "在淘宝上购买"
 msgstr "Acheter sur Taobao"
 
@@ -199,7 +206,7 @@ msgstr "Acheter sur Taobao"
 msgid "复制下载链接"
 msgstr "Copier le lien du téléchargement"
 
-#: src/pages/surface/layouts/Widget.vue:14
+#: src/pages/surface/layouts/Widget.vue:15
 msgid "复制失败"
 msgstr "La copie a échoué."
 
@@ -227,7 +234,7 @@ msgstr "Télécharger depuis Cowtransfer"
 msgid "好心人"
 msgstr "Bienfaiteur"
 
-#: src/pages/surface/layouts/Widget.vue:14
+#: src/pages/surface/layouts/Widget.vue:15
 #: src/pages/surface/layouts/Widget.vue:2
 msgid "如果有幸帮到你"
 msgstr " "
@@ -281,15 +288,16 @@ msgstr "Vous souhaitez télécharger en passant le tutoriel ?"
 msgid "您希望直接下载描述文件而跳过本教程吗"
 msgstr "Vous souhaitez télécharger en passant le tutoriel ?"
 
-#: src/pages/surface/layouts/Widget.vue:28
+#: src/pages/surface/layouts/Widget.vue:29
+#: src/pages/surface/views/live/SponsorCard.vue:12
 msgid "感谢您~"
 msgstr "Merci beaucoup !"
 
-#: src/pages/surface/layouts/Widget.vue:67
+#: src/pages/surface/layouts/Widget.vue:68
 msgid "成为特别赞助商"
 msgstr "Devenir sponsor"
 
-#: src/pages/surface/layouts/Widget.vue:156
+#: src/pages/surface/layouts/Widget.vue:157
 msgid "找到我们"
 msgstr "Nous trouver"
 
@@ -307,13 +315,13 @@ msgstr "Reportage"
 msgid "捐助"
 msgstr "Don"
 
-#: src/pages/surface/layouts/Widget.vue:23
+#: src/pages/surface/layouts/Widget.vue:24
 #: src/pages/surface/views/Install.vue:17
 #: src/pages/surface/views/Install.vue:14
 msgid "捐助我们"
 msgstr "Faire un don"
 
-#: src/pages/surface/layouts/Widget.vue:15
+#: src/pages/surface/layouts/Widget.vue:16
 #: src/pages/surface/layouts/Widget.vue:3
 msgid "捐助我们别吝惜"
 msgstr " "
@@ -337,7 +345,7 @@ msgstr "Le lien du profil a été copié, vous pouvez consulter ce tutoriel"
 
 #: src/components/PostCard/PostCard.vue:28
 #: src/pages/surface/components/Status/StatusCard.vue:21
-#: src/pages/surface/views/project/Topic.vue:65
+#: src/pages/surface/views/project/Topic.vue:63
 msgid "提供"
 msgstr "Fournir"
 
@@ -375,6 +383,7 @@ msgid "昵称"
 msgstr "Nom"
 
 #: src/pages/surface/components/Status/StatusList.vue:48
+#: src/pages/surface/views/live/LiveStatus/LiveStatusList.vue:37
 msgid "显示 %{n} 条新动态"
 msgstr "Affichage de %{n} nouveaux messages"
 
@@ -383,6 +392,7 @@ msgid "显示更多"
 msgstr "Afficher plus"
 
 #: src/pages/surface/components/Status/StatusList.vue:28
+#: src/pages/surface/views/live/LiveStatus/LiveStatusList.vue:27
 msgid "暂无更多动态"
 msgstr "Pas d'autres développements"
 
@@ -391,13 +401,14 @@ msgstr "Pas d'autres développements"
 msgid "更新日志"
 msgstr "Notes"
 
+#: src/pages/user/views/live/LivePostList.vue:51
 #: src/pages/user/views/post/List.vue:30
 #: src/pages/user/views/project/Project.vue:63
 #: src/pages/user/views/settings/Settings.vue:43
 msgid "服务器错误"
 msgstr "Erreur de serveur"
 
-#: src/pages/surface/router.js:93
+#: src/pages/surface/router.js:98
 msgid "未找到页面"
 msgstr "Page non trouvée"
 
@@ -426,7 +437,7 @@ msgstr "Adopteurs précoces populaires"
 msgid "版本"
 msgstr "Version"
 
-#: src/pages/surface/layouts/Widget.vue:127
+#: src/pages/surface/layouts/Widget.vue:128
 msgid "特别赞助"
 msgstr "Sponsors"
 
@@ -443,6 +454,10 @@ msgstr "Veuillez attendre…"
 msgid "立即安装"
 msgstr "installer maintenant"
 
+#: src/components/Card/SubCard.vue:63
+msgid "等待更新"
+msgstr ""
+
 #: src/lib/translate/info.js:47
 msgid "简体中文"
 msgstr "Chinois simplifié"
@@ -455,7 +470,7 @@ msgstr "Chinois traditionnel"
 msgid "编辑"
 msgstr "Rédacteur en chef"
 
-#: src/pages/surface/layouts/Widget.vue:11
+#: src/pages/surface/layouts/Widget.vue:12
 msgid "网站现在不盈利"
 msgstr "Nous offrez un café"
 
@@ -463,7 +478,7 @@ msgstr "Nous offrez un café"
 msgid "翻译来自志愿者"
 msgstr "Traduction par des bénévoles"
 
-#: src/pages/surface/layouts/Widget.vue:55
+#: src/pages/surface/layouts/Widget.vue:56
 msgid "老孙的店"
 msgstr "Sun Store"
 
@@ -480,6 +495,10 @@ msgstr "Anglais"
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:9
 msgid "苹果服务器下载"
 msgstr "Télécharger par serveurs d’Apple"
+
+#: src/lib/translate/info.js:54
+msgid "葡萄牙语"
+msgstr ""
 
 #: src/pages/surface/router.js:34
 #: src/pages/surface/views/firmware/DevicesList.vue:13
@@ -525,7 +544,8 @@ msgstr "Veuillez choisir la modèle"
 msgid "请在下面选择您的设备类型"
 msgstr "Veuillez choisir le type de votre appareil Apple"
 
-#: src/pages/surface/layouts/Widget.vue:29
+#: src/pages/surface/layouts/Widget.vue:30
+#: src/pages/surface/views/live/SponsorCard.vue:13
 msgid ""
 "请在手机中点击此按钮，或在微信搜索「老孙的店」小程序，淘宝搜索「老孙的某宝"
 "店」店铺，感谢您的支持。"
@@ -551,7 +571,7 @@ msgstr "Type de version du logiciel"
 msgid "返回上一级"
 msgstr "Revenir à la page précédente"
 
-#: src/pages/surface/layouts/Widget.vue:34
+#: src/pages/surface/layouts/Widget.vue:36
 msgid "销售额的一部分会作为网站的经费："
 msgstr "Une partie du chiffre d’affaires seront notre source financière :"
 
