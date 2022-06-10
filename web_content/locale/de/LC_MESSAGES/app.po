@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: 2022-04-08 07:36+0000\n"
 "PO-Revision-Date: 2022-06-10 18:54+0000\n"
-"Last-Translator: Rafael <raafaafaa@gmail.com>\n"
+"Last-Translator: 孫斌 <1335310642@qq.com>\n"
 "Language-Team: German <http://hello.betahub.cn/projects/Betahub/betahub/de/>"
 "\n"
 "Language: de\n"
@@ -30,7 +30,7 @@ msgstr "404 Fehler"
 
 #: src/pages/surface/router.js:29
 msgid "BetaCat"
-msgstr ""
+msgstr "BetaCat"
 
 #: src/pages/surface/layouts/Widget.vue:9
 #: src/pages/surface/views/Install.vue:67
@@ -39,7 +39,7 @@ msgstr "BetaHub"
 
 #: src/pages/surface/router.js:89
 msgid "WWDC 2022"
-msgstr ""
+msgstr "WWDC 2022"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:9
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:7
@@ -459,7 +459,7 @@ msgstr "jetzt installieren"
 
 #: src/components/Card/SubCard.vue:63
 msgid "等待更新"
-msgstr ""
+msgstr "warte auf aktualisierung"
 
 #: src/lib/translate/info.js:47
 msgid "简体中文"
@@ -501,7 +501,7 @@ msgstr "von Apple-Server laden"
 
 #: src/lib/translate/info.js:54
 msgid "葡萄牙语"
-msgstr ""
+msgstr "Portugiesisch"
 
 #: src/pages/surface/router.js:34
 #: src/pages/surface/views/firmware/DevicesList.vue:13
