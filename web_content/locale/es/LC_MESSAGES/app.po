@@ -1,0 +1,601 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chinese (Simplified) (Hello BetaHub Project)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-08 07:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.10.1\n"
+
+#: src/components/Card/SubCard.vue:38 src/components/PostCard/PostCard.vue:49
+#: src/pages/surface/components/Status/StatusCard.vue:43
+#: src/pages/surface/views/project/BetaCat.vue:47
+#: src/pages/surface/views/project/Topic.vue:76
+msgid "%{date} 有更新"
+msgstr ""
+
+#: src/pages/surface/router.js:93
+msgid "404页面"
+msgstr ""
+
+#: src/pages/surface/router.js:29
+msgid "BetaCat"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:9
+#: src/pages/surface/views/Install.vue:67
+msgid "iBeta 尝鲜派"
+msgstr ""
+
+#: src/pages/surface/router.js:89
+msgid "WWDC 2022"
+msgstr ""
+
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:9
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:7
+msgid "上传时间:"
+msgstr ""
+
+#: src/pages/surface/views/firmware/DevicesList.vue:27
+#: src/pages/surface/views/firmware/FirmwaresList.vue:25
+msgid "下载"
+msgstr ""
+
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:74
+msgid "下载链接已拷贝到您的剪切板啦~"
+msgstr ""
+
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:76
+msgid "下载链接拷贝失败"
+msgstr ""
+
+#: src/pages/user/views/settings/Settings.vue:41
+msgid "令牌创建成功"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:34
+msgid "以下是我们特别赞助商的产品。"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:73
+msgid "保存失败"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:69
+msgid "保存成功"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:112
+msgid "修改项目"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:14
+#: src/pages/surface/layouts/Widget.vue:1
+msgid "全靠捐助养自己"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:10
+msgid "公众号 ID 已拷贝到您的剪切板啦~"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:52
+msgid "公告"
+msgstr ""
+
+#: src/constant.js:10
+msgid "公开"
+msgstr ""
+
+#: src/pages/surface/components/HeaderComponent.vue:25
+#: src/pages/surface/components/HeaderComponent.vue:46
+#: src/pages/surface/router.js:77
+msgid "关于"
+msgstr ""
+
+#: src/pages/surface/components/SetLanguage/SetLanguage.vue:16
+msgid "其他语言"
+msgstr ""
+
+#: src/pages/surface/views/Install.vue:8 src/pages/surface/views/Install.vue:5
+msgid "再次下载"
+msgstr ""
+
+#: src/pages/surface/views/Install.vue:12 src/pages/surface/views/Install.vue:9
+msgid "再次复制"
+msgstr ""
+
+#: src/pages/surface/components/Status/StatusList.vue:2
+msgid "最新动态"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:18
+msgid "创建时间："
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:46
+msgid "加入 TG 群组"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:50
+msgid "加入尝鲜派"
+msgstr ""
+
+#: src/pages/surface/components/SetLanguage/SetLanguage.vue:26
+msgid "加入翻译"
+msgstr ""
+
+#: src/pages/user/views/post/Post.vue:29
+msgid "动态"
+msgstr ""
+
+#: src/components/Card/SubCard.vue:29
+msgid "即刻尝鲜"
+msgstr ""
+
+#: src/pages/surface/views/page/Donate.vue:4
+msgid "即可向我们捐赠"
+msgstr ""
+
+#: src/components/PostCard/PostCard.vue:13
+#: src/pages/surface/components/Status/StatusCard.vue:11
+msgid "发布于"
+msgstr ""
+
+#: src/pages/surface/views/firmware/DevicesList.vue:20
+#: src/pages/surface/views/firmware/FirmwaresList.vue:41
+msgid "发布时间"
+msgstr ""
+
+#: src/constant.js:9
+msgid "只读"
+msgstr ""
+
+#: src/pages/surface/views/firmware/DevicesList.vue:3
+msgid "哪个型号？"
+msgstr ""
+
+#: src/pages/surface/views/firmware/FirmwaresList.vue:3
+msgid "哪个版本？"
+msgstr ""
+
+#: src/pages/surface/views/firmware/DeviceGroup.vue:2
+#: src/pages/surface/views/project/Topic.vue:53
+msgid "固件下载"
+msgstr ""
+
+#: src/pages/surface/router.js:39
+msgid "固件列表"
+msgstr ""
+
+#: src/pages/surface/router.js:44
+msgid "固件详情"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:42
+msgid "在微信上关注 @iBeta尝鲜派"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:60
+msgid "在微信上购买"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:38
+msgid "在微博上关注 @iBeta尝鲜派"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:64
+msgid "在淘宝上购买"
+msgstr ""
+
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:31
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:51
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:29
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:49
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:2
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:1
+msgid "复制下载链接"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:15
+msgid "复制失败"
+msgstr ""
+
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:43
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:62
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:41
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:60
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:14
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:1
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:12
+msgid "复制链接"
+msgstr ""
+
+#: src/pages/surface/views/page/Donate.vue:17
+msgid "大老板"
+msgstr ""
+
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:57
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:55
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:7
+msgid "奶牛快传下载"
+msgstr ""
+
+#: src/pages/surface/views/page/Donate.vue:19
+msgid "好心人"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:15
+#: src/pages/surface/layouts/Widget.vue:2
+msgid "如果有幸帮到你"
+msgstr ""
+
+#: src/pages/surface/router.js:82
+msgid "安装描述文件"
+msgstr ""
+
+#: src/pages/surface/router.js:7 src/pages/surface/views/other/Post.vue:27
+#: src/pages/surface/views/project/Topic.vue:54
+msgid "尝鲜派"
+msgstr ""
+
+#: src/components/Footer/FooterComponent.vue:13
+msgid "开发模式"
+msgstr ""
+
+#: src/components/PostCard/PostCard.vue:19
+#: src/components/StdEditor/StdEditor.vue:74 src/constant.js:21
+#: src/pages/surface/components/Status/StatusCard.vue:14
+#: src/pages/surface/views/firmware/FirmwaresList.vue:16
+msgid "开发者测试版"
+msgstr ""
+
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:4
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:2
+msgid "开始下载吧"
+msgstr ""
+
+#: src/components/Card/VersionTag.vue:3
+msgid "当前更新至"
+msgstr ""
+
+#: src/pages/surface/components/SetLanguage/SetLanguage.vue:10
+msgid "当前语言"
+msgstr ""
+
+#: src/pages/surface/views/page/Donate.vue:3
+msgid "微信扫描下方二维码"
+msgstr ""
+
+#: src/lib/translate/info.js:26
+msgid "德语"
+msgstr ""
+
+#: src/pages/surface/views/Install.vue:41
+msgid "您希望直接下载升级工具而跳过本教程吗"
+msgstr ""
+
+#: src/pages/surface/views/Install.vue:42
+msgid "您希望直接下载描述文件而跳过本教程吗"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:29
+#: src/pages/surface/views/live/SponsorCard.vue:12
+msgid "感谢您~"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:68
+msgid "成为特别赞助商"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:157
+msgid "找到我们"
+msgstr ""
+
+#: src/pages/user/views/post/Post.vue:54
+msgid "投稿类型"
+msgstr ""
+
+#: src/pages/surface/components/SetLanguage/SetLanguage.vue:29
+msgid "报告问题"
+msgstr ""
+
+#: src/pages/surface/components/HeaderComponent.vue:20
+#: src/pages/surface/components/HeaderComponent.vue:41
+#: src/pages/surface/router.js:72
+msgid "捐助"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:24
+#: src/pages/surface/views/Install.vue:17
+#: src/pages/surface/views/Install.vue:14
+msgid "捐助我们"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:16
+#: src/pages/surface/layouts/Widget.vue:3
+msgid "捐助我们别吝惜"
+msgstr ""
+
+#: src/pages/surface/views/page/Donate.vue:2
+msgid "捐助榜"
+msgstr ""
+
+#: src/pages/surface/views/page/Donate.vue:15
+msgid "捐助金额"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:14
+msgid "描述："
+msgstr ""
+
+#: src/pages/surface/views/Install.vue:32
+#: src/pages/surface/views/Install.vue:56
+msgid "描述文件的链接已复制到您的剪贴板，请参照这篇教程来使用"
+msgstr ""
+
+#: src/components/PostCard/PostCard.vue:28
+#: src/pages/surface/components/Status/StatusCard.vue:21
+#: src/pages/surface/views/project/Topic.vue:63
+msgid "提供"
+msgstr ""
+
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:13
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:11
+msgid "文件大小:"
+msgstr ""
+
+#: src/pages/surface/router.js:67 src/pages/user/views/post/Post.vue:28
+msgid "文章"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:112
+msgid "新建项目"
+msgstr ""
+
+#: src/components/PostCard/PostCard.vue:7
+msgid "新鲜事"
+msgstr ""
+
+#: src/components/Footer/FooterComponent.vue:3
+msgid "无派科技（深圳）有限公司"
+msgstr ""
+
+#: src/pages/surface/views/page/Donate.vue:23
+msgid "日期"
+msgstr ""
+
+#: src/lib/translate/info.js:12
+msgid "日语"
+msgstr ""
+
+#: src/pages/surface/views/page/Donate.vue:10
+msgid "昵称"
+msgstr ""
+
+#: src/pages/surface/components/Status/StatusList.vue:48
+#: src/pages/surface/views/live/LiveStatus/LiveStatusList.vue:37
+msgid "显示 %{n} 条新动态"
+msgstr ""
+
+#: src/pages/surface/components/Status/StatusList.vue:24
+msgid "显示更多"
+msgstr ""
+
+#: src/pages/surface/components/Status/StatusList.vue:28
+#: src/pages/surface/views/live/LiveStatus/LiveStatusList.vue:27
+msgid "暂无更多动态"
+msgstr ""
+
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:73
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:71
+msgid "更新日志"
+msgstr ""
+
+#: src/pages/user/views/live/LivePostList.vue:51
+#: src/pages/user/views/post/List.vue:30
+#: src/pages/user/views/project/Project.vue:63
+#: src/pages/user/views/settings/Settings.vue:43
+msgid "服务器错误"
+msgstr ""
+
+#: src/pages/surface/router.js:98
+msgid "未找到页面"
+msgstr ""
+
+#: src/components/Card/SubCard.vue:30
+msgid "查看教程"
+msgstr ""
+
+#: src/components/PostCard/PostCard.vue:20
+#: src/components/StdEditor/StdEditor.vue:75 src/constant.js:22
+#: src/pages/surface/components/Status/StatusCard.vue:15
+#: src/pages/surface/views/firmware/FirmwaresList.vue:13
+msgid "正式版"
+msgstr ""
+
+#: src/lib/translate/info.js:33
+msgid "法语"
+msgstr ""
+
+#: src/pages/surface/components/CardList/CardList.vue:2
+msgid "热门尝鲜"
+msgstr ""
+
+#: src/components/Footer/FooterComponent.vue:10
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:15
+#: src/pages/surface/views/firmware/FirmwaresList.vue:12
+msgid "版本"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:128
+msgid "特别赞助"
+msgstr ""
+
+#: src/pages/surface/views/Install.vue:43
+msgid "直接下载"
+msgstr ""
+
+#: src/pages/surface/views/Install.vue:39
+#: src/pages/surface/views/Install.vue:55
+msgid "稍等一下..."
+msgstr ""
+
+#: src/pages/surface/views/project/Topic.vue:49
+msgid "立即安装"
+msgstr ""
+
+#: src/components/Card/SubCard.vue:63
+msgid "等待更新"
+msgstr ""
+
+#: src/lib/translate/info.js:47
+msgid "简体中文"
+msgstr ""
+
+#: src/lib/translate/info.js:40
+msgid "繁体中文"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:6
+msgid "编辑"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:12
+msgid "网站现在不盈利"
+msgstr ""
+
+#: src/pages/surface/components/SetLanguage/SetLanguageItem.vue:11
+msgid "翻译来自志愿者"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:56
+msgid "老孙的店"
+msgstr ""
+
+#: src/pages/surface/views/page/Donate.vue:18
+msgid "老板"
+msgstr ""
+
+#: src/lib/translate/info.js:5
+msgid "英语"
+msgstr ""
+
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:38
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:36
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:9
+msgid "苹果服务器下载"
+msgstr ""
+
+#: src/lib/translate/info.js:54
+msgid "葡萄牙语"
+msgstr ""
+
+#: src/pages/surface/router.js:34
+#: src/pages/surface/views/firmware/DevicesList.vue:13
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:14
+#: src/pages/surface/views/firmware/FirmwaresList.vue:39
+msgid "设备型号"
+msgstr ""
+
+#: src/pages/surface/views/firmware/DevicesList.vue:16
+#: src/pages/surface/views/firmware/FirmwaresList.vue:40
+msgid "设备标识符"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:20
+msgid "访问权限"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:22
+msgid "访问权限："
+msgstr ""
+
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:25
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:23
+msgid "该固件已经停止验证，无法通过 iTunes 恢复。"
+msgstr ""
+
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:103
+msgid "该固件正常验证中，可以通过 iTunes 进行「升级」或「恢复」。"
+msgstr ""
+
+#: src/pages/surface/views/Install.vue:68
+msgid "请在 Safari 中打开本页面"
+msgstr ""
+
+#: src/pages/surface/views/firmware/DevicesList.vue:4
+msgid "请在下面选择您的设备型号"
+msgstr ""
+
+#: src/pages/surface/views/firmware/DeviceGroup.vue:3
+msgid "请在下面选择您的设备类型"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:30
+#: src/pages/surface/views/live/SponsorCard.vue:13
+msgid ""
+"请在手机中点击此按钮，或在微信搜索「老孙的店」小程序，淘宝搜索「老孙的某宝"
+"店」店铺，感谢您的支持。"
+msgstr ""
+
+#: src/pages/surface/views/firmware/FirmwaresList.vue:9
+msgid ""
+"请选择您需要下载的固件版本，验证状态绿色标识为「目前可升级/恢复」版本，红色标"
+"识为「目前不可升级/恢复」版本。"
+msgstr ""
+
+#: src/components/StdEditor/StdEditor.vue:36
+msgid "软件版本类型"
+msgstr ""
+
+#: src/pages/surface/views/firmware/GoBack.vue:4
+msgid "返回上一级"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:36
+msgid "销售额的一部分会作为网站的经费："
+msgstr ""
+
+#: src/pages/surface/views/Install.vue:44
+msgid "阅读教程"
+msgstr ""
+
+#: src/lib/translate/info.js:19
+msgid "韩语"
+msgstr ""
+
+#: src/pages/user/views/post/Post.vue:23
+msgid "项目"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:8
+msgid "项目名称"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:14
+msgid "项目描述"
+msgstr ""
+
+#: src/pages/surface/router.js:59
+msgid "项目页面"
+msgstr ""
+
+#: src/pages/surface/router.js:51
+msgid "项目首页"
+msgstr ""
+
+#: src/pages/surface/components/HeaderComponent.vue:15
+#: src/pages/surface/components/HeaderComponent.vue:36
+#: src/pages/surface/router.js:20
+msgid "首页"
+msgstr ""
+
+#: src/pages/surface/views/firmware/FirmwaresList.vue:20
+msgid "验证状态"
+msgstr ""
