@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Chinese (Simplified) (Hello BetaHub Project)\n"
 "Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: 2022-04-08 07:36+0000\n"
-"PO-Revision-Date: 2022-06-10 18:54+0000\n"
+"PO-Revision-Date: 2022-06-21 07:57+0000\n"
 "Last-Translator: Rafael <raafaafaa@gmail.com>\n"
 "Language-Team: Portuguese <http://hello.betahub.cn/projects/Betahub/betahub/"
 "pt/>\n"
@@ -221,7 +221,7 @@ msgstr "Copiar link"
 
 #: src/pages/surface/views/page/Donate.vue:17
 msgid "大老板"
-msgstr "Doador"
+msgstr "Big Boss"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:57
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:55
@@ -231,7 +231,7 @@ msgstr "Baixar via CowTransfer"
 
 #: src/pages/surface/views/page/Donate.vue:19
 msgid "好心人"
-msgstr "Data"
+msgstr "Good man"
 
 #: src/pages/surface/layouts/Widget.vue:15
 #: src/pages/surface/layouts/Widget.vue:2
@@ -487,7 +487,7 @@ msgstr "Sun Store"
 
 #: src/pages/surface/views/page/Donate.vue:18
 msgid "老板"
-msgstr "Quantia"
+msgstr "Boss"
 
 #: src/lib/translate/info.js:5
 msgid "英语"
