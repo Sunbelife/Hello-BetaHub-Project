@@ -1,23 +1,23 @@
-所需的描述文件已经开始下载
-请确保您在 Safari 浏览器中打开，并已删除已下载的更新包
-您会看到如下提示：
+El perfil requerido ya ha empezado a descargarse
+Asegúrate de abrirlo en el Safari y de haber eliminado el paquete de actualización descargado
+Verás las siguientes indicaciones:
 
 ![][Install Profile Alert]
 
-请点击「允许」
-接着按照提示在设置中安装描述文件并重启设备
+Haz clic en "Permitir".
+A continuación, siga las indicaciones para instalar el perfil en la configuración y reinicie el dispositivo
 
 ![][After Install Profile]
 
-重启后即可屏蔽将来的 OTA 更新
+Reiniciar para bloquear futuras actualizaciones OtA
 
 ![][System No Update]
 
-PS：如果遇到无法安装，请将日期调整为 2021 年 4 月 1 日之前。
+P. D.: Si no puede instalarse, por favor, ajuste la fecha a antes del 1 de abril de 2021.
 
-感谢使用尝鲜派
-如果我们的工作帮助到您
-请向我们捐助或赞助我们
+Gracias por usar Betahub
+Si nuestro trabajo le ayuda
+Por favor, done o patrocinanos
 
 [Install Profile Alert]: https://tva1.sinaimg.cn/large/008i3skNgy1gwrggvxz5jj30gz0af0sn.jpg
 [After Install Profile]: https://tva1.sinaimg.cn/large/008i3skNgy1gwrgh8ayj1j311q0hqdgm.jpg
