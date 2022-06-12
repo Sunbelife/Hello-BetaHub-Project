@@ -1,59 +1,59 @@
-## Intro | 简介
+## Intro | Sobre
 
-这里是尝鲜派的关于页面，「尝鲜派」是一个尝鲜者的聚集地，最初因为 Apple Developer Beta 的更新渠道少、更新不及时、也没有统一的网站收集这部分信息，于是在一些支持者的支持下，我建立了这个 iBeta 尝鲜派，自购了一个 Apple Developer 开发者账号，并将描述文件挂在网站上供大家使用，几个月之内便聚集了 300 万次访问，iOS Beta 的体验报告也累计了百万的阅读量，来自世界各地的捐赠累计有了数千元，如今便有了现在的尝鲜派 2.0
+Aquí está la página Sobre de BetaHub (尝鲜派), 「BetaHub」es un lugar de reunión para los probadores. Originalmente, debido a que había pocos canales para actualizar Apple Developer Beta, las actualizaciones no eran oportunas, y no había un sitio web unificado para recoger esta parte de la información, así que con el apoyo de algunos partidarios, creé este sitio web iBeta, compré una cuenta de Apple Developery y disponía perfiles de descripción en el sitio web para que todos los usaran. En pocos meses, el sitio iBeta había recibido 3 millones de visitas, millones de informes sobre iOS Beta y miles de yuanes en donaciones de todo el mundo, lo que dio lugar a la actual iBeta 2.0.
 
-在这个版本里，我们进一步把 Apple Beta 的更新体验提升，而且有了 0xJacky 和 Hintay 的帮助，我们把 UI 更新了、也把 iPSW.me 中获取官方固件的接口实现了本地化，解决了访问缓慢的问题，并第一次实现了（应该是国内第一家）从 Apple Developer 官网抓取了测试版系统的固件。
+En esta versión, hemos mejorado aún más la experiencia de actualización de Apple Beta, y con la ayuda de 0xJacky y Hintay, hemos actualizado la interfaz de para obtener el firmware oficial en iPSW.me para resolver el problema de acceso lento, y por primera vez (que debería ser el primero en China), hemos sido capaces de capturar el firmware del sistema beta desde el sitio web oficial de Apple Developer.
 
-紧接着的 3.0 版本是一个命运多舛的版本，由于工期短、任务多、想法不坚定，导致虽然写了许多，但最终还是「胎死腹中」了，于是接下来的两年内，我们没有任何更新。
+La versión siguiente 3.0 es una versión infalsada. Debido al corto periodo de construcción, muchas tareas e ideas inestables, aunque se había escrito mucho, pero al final quedó "muerto nada más nacer", por lo que no tuvimos ninguna actualización en los próximos dos años.
 
-而在时隔两年后的 4.0 中，我们成长了许多，也进步了许多，我们重构了前后端的架构，重写了 90% 的代码，吸取了此前的教训，先站在原地，再重新出发，目的只有一个：希望能让尝鲜派更进一步。
+En la 4.0, dos años después, hemos crecido y progresado mucho, reconstruimos la arquitectura front-end y back-end, reescribiendo el 90% del código, aprendiendo de los errores anteriores, parándonos a refexionar y luego volviendo a empezar con un objetivo en mente: llevar a los creadores de gustos un paso más allá.
 
-总之，作为一个和大家一样的尝鲜派，我们会努力为所有尝鲜者提供更优质、更完善的尝鲜环境和服务，也感谢大家一直以来的支持和鼓励。
+En una palabra, como catadores que somos, nos esforzaremos por ofrecer un entorno y un servicio de cata mejor y más completo para todos, y les agradecemos los continuo apoyo y estímulo.
 
-## FAQ | 问答
+## FAQ | Preguntas y Repuestas
 
-Q：固件的来源是哪里？
+Q: ¿Dónde está la fuente del firmware?
 
-A：正式版固件抓取自 ipsw.me API，测试版固件抓取来自独家技术、二者固件均为 Apple 官方固件。
+A: El firmware oficial se captura desde la API de ipsw.me y el firmware beta es descargado a partir de nuestra tecnología exclusiva. Ambos firmwares son los oficiales de Apple.
 
-Q：描述文件来源是哪里？
+Q: ¿De dónde proceden los perfiles?
 
-A：来自 Apple Developer 开发者中心。
+A: Desde el Apple Developer Center.
 
-Q：捐助的资金将用向何处？
+Q: ¿A qué se destinarán los fondos donados?
 
-A：所有捐助的资金将用于尝鲜派未来的发展，相关服务器和服务所需的支出。
+A: Todos los fondos donados se utilizarán para probar el desarrollo futuro de Betahub y los gastos de los servidores y servicios relacionados.
 
-Q：需要合作/投资吗？
+Q: ¿Necesitas asociación/inversión?
 
-A：需要，请以邮件联系我：i@Sunbelife.com.
+A: Sí, por favor póngase en contacto conmigo por correo electrónico: i@Sunbelife.com.
 
-Q：需要帮手吗？
+Q: ¿Necesitas ayudantes?
 
-A：需要，请以邮件联系我：i@Sunbelife.com.
+A: Sí, por favor póngase en contacto conmigo por correo electrónico: i@Sunbelife.com.
 
-## 志愿者团队
+## Equipo de voluntarios
 
 @空一格、@周鸿、@曾偉晉
 
-## 后援团
+## Equipo de apoyo
 
 @杨恩永、@周硙、@空一格
 
-## 尝鲜派 2.0 项目组
+## Equipo de BetaHub 2.0
 
-创始人：@Sunbelife
+Fundador: @Sunbelife
 
-主程序：@0xJacky
+Programador principal: @0xJacky
 
-贡献者：@Hintay
+Colaborador: @Hintay
 
-PHP 开源框架：Codeigniter
+Framework de código abierto PHP: Codeigniter
 
-## 尝鲜派 4.0 项目组
+## Equipo de BetaHub 4.0
 
-组长 & 宇宙级产品经理：@Sunbelife
+Líder de equipo y director de productos cósmicos: @Sunbelife
 
-主程序：@0xJacky
+Programador principal: @0xJacky
 
-Go 开源框架：Gin
+Framework de código abierto Go: Gin
