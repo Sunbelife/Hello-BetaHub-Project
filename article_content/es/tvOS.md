@@ -1,36 +1,36 @@
-现在您需要打开 Apple TV，进入「设置 - 通用 - 隐私」
+Ahora tienes que encender el Apple TV e ir a "Ajustes-Privacidad".
 
 ![][Privacy]
 
-并将光标停留在「共享 Apple TV 分析」处
+Y pasa el cursor sobre "Compartir Análisis del Apple TV"
 
 ![][Share]
 
-点击遥控器的「⏯ 播放」按钮
+Pulsa el botón "⏯ Play" del control
 
 ![][Remote]
 
-点击「添加描述文件」
+Haga clic en "Añadir perfil".
 
 ![][Add Profile]
 
-接着在手机的提示中直接粘贴（如剪贴板消失，请再次点击顶部的复制链接按钮）
-然后点击「完成」
+A continuación, péguelo directamente en los mensajes del teléfono (si el portapapeles desaparece, vuelva a hacer clic en el botón de copiar enlace en la parte superior)
+Luego haga clic en "Completar"
 
 ![][Type URL]
 
-在接下来的界面中点击「安装」
+Haga clic en "Instalar" en la siguiente interfaz
 
 ![][Install Profile]
 
-按提示重启后即可在「设置 - 系统 - 软件更新」中收到更新
-按提示下载安装即可
+Después de reiniciar, puede recibir la actualización en "Ajustes-Sistema-Actualización de software"
+Simplemente siga las indicaciones para descargar e instalar
 
 ![][Update]
 
-感谢使用尝鲜派
-如果我们的工作帮助到您
-请向我们捐助或赞助我们
+Gracias por usar Betahub
+Si nuestro trabajo le ayuda
+Por favor, done o patrocinanos
 
 [Privacy]:  https://tva1.sinaimg.cn/large/008i3skNgy1gwqqdqt8t8j311q0hqdge.jpg
 [Share]:  https://tva1.sinaimg.cn/large/008i3skNgy1gwqrjc3zbpj311q0hqdgc.jpg
