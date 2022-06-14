@@ -1,21 +1,21 @@
-所需的描述文件已经开始下载
-请确保您在 Safari 浏览器中打开，并已将配对的手机升级至手表配对所需的版本。
-您会看到如下提示：
+el perfil querido ya ha comenzado a descargarse.
+Asegúrese de que lo abre en Safari y de haber actualizado tu teléfono de emparejamiento a la versión correcta.
+Verás las siguiente indicaciones:
 
 ![][Install Profile Alert]
 
-请点击「允许」
-接着按照提示在设置中安装描述文件，安装时请确保手表已解锁
+Haga clic en "Permitir".
+A continuación, siga las instrucciones para instalar el archivo de descripción en la configuración, asegúrese de que el reloj está desbloqueado durante la instalación
 
 ![][After Install Profile]
 
-接着即可在「Watch - 通用 - 软件更新」中收到测试版更新
+Entonces puede recibir la actualización de la versión beta en "Ajustes-General-Actualización de software"
 
 ![][System Update]
 
-感谢使用尝鲜派
-如果我们的工作帮助到您
-请向我们捐助或赞助我们
+Gracias por usar Betahub
+Si nuestro trabajo le ayuda
+Por favor, done o patrocinanos
 
 [Install Profile Alert]: https://tva1.sinaimg.cn/large/008i3skNgy1gwqlc5hlmuj30gz0afgli.jpg
 [After Install Profile]: https://tva1.sinaimg.cn/large/008i3skNgy1gwqoqzmdmwj311q0hqdgl.jpg
