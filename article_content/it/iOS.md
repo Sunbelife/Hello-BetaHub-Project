@@ -1,23 +1,23 @@
-所需的描述文件已经开始下载
-请确保您在 Safari 浏览器中打开
-您会看到如下提示：
+Il file di descrizione richiesto è stato scaricato
+Assicurati di aprirlo nel browser Safari
+Verrà visualizzato il seguente prompt:
 
 ![][Install Profile Alert]
 
-请点击「允许」
-接着按照提示在设置中安装描述文件并重启设备
+Fare clic su "Consenti"
+Quindi seguire le istruzioni per installare il file di descrizione nelle impostazioni e riavviare il dispositivo
 
 ![][After Install Profile]
 
-接着即可在「设置 - 通用 - 软件更新」中收到测试版更新
+Quindi è possibile ricevere l'aggiornamento beta in "Impostazioni - Generale - Aggiornamento software"
 
 ![][System Update]
 
-PS：尝鲜有风险，数据无价，请切记备份
+PS: ci sono rischi nel provare la beta, e i dati sono inestimabili
 
-感谢使用尝鲜派
-如果我们的工作帮助到您
-请向我们捐助或赞助我们
+Grazie per aver usato BetaHub
+Se il nostro lavoro ti aiuta
+Per favore donaci o sponsorizzarci
 
 [Install Profile Alert]: https://tva1.sinaimg.cn/large/008i3skNgy1gwqlc5hlmuj30gz0afgli.jpg
 [After Install Profile]: https://tva1.sinaimg.cn/large/008i3skNgy1gwqo0wdnppj311q0hqdgm.jpg
