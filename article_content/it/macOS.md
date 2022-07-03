@@ -1,19 +1,19 @@
-所需的升级工具已经开始下载
-待下载完毕后，您可以双击 .dmg 后缀的安装包。
-并安装其中的 .pkg 安装包：
+Gli strumenti di aggiornamento richiesti sono stati scaricati
+Dopo il download, è possibile fare doppio clic Pacchetto di installazione suffisso DMG.
+E installarne uno Pacchetto di installazione PKG:
 
 ![][After Install PKG]
 
-跟随提示输入密码安装完毕后
-即可在「系统偏好设置 - 软件更新」内检测到更新：
+Seguire le istruzioni per inserire la password dopo l'installazione
+Gli aggiornamenti possono essere rilevati in "Preferenze di sistema - aggiornamenti software":
 
 ![][System Update]
 
-PS：尝鲜有风险，资料无价，请切记备份。
+PS: ci sono dei rischi nel provare la beta, e i dati sono inestimabili.
 
-感谢使用尝鲜派
-如果我们的工作帮助到您
-请向我们捐助或赞助我们
+Grazie per aver usato BetaHub
+Se il nostro lavoro ti aiuta
+Per favore donaci o sponsorizzarci
 
 [After Install PKG]: https://tva1.sinaimg.cn/large/008i3skNgy1gwqs7s1gegj311q0hqaai.jpg
 [System Update]: https://tva1.sinaimg.cn/large/008i3skNgy1gwqphmcxg6j311a0hqjrp.jpg
