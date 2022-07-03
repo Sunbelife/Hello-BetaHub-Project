@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Chinese (Simplified) (Hello BetaHub Project)\n"
 "Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: 2022-04-08 07:36+0000\n"
-"PO-Revision-Date: 2022-06-10 18:54+0000\n"
+"PO-Revision-Date: 2022-07-06 12:37+0000\n"
 "Last-Translator: Vincent <2519143936@qq.com>\n"
 "Language-Team: Italian <http://hello.betahub.cn/projects/Betahub/betahub/it/>"
 "\n"
@@ -35,7 +35,6 @@ msgid "iBeta 尝鲜派"
 msgstr "BetaHub"
 
 #: src/pages/surface/router.js:89
-#, fuzzy
 msgid "WWDC 2022"
 msgstr "WWDC 2022"
 
@@ -220,13 +219,13 @@ msgstr "Copia indirizzo"
 
 #: src/pages/surface/views/page/Donate.vue:17
 msgid "大老板"
-msgstr ""
+msgstr "grande capo"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:57
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:55
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:7
 msgid "奶牛快传下载"
-msgstr ""
+msgstr "Scarica Cow Express"
 
 #: src/pages/surface/views/page/Donate.vue:19
 msgid "好心人"
@@ -433,7 +432,7 @@ msgstr "Francese"
 
 #: src/pages/surface/components/CardList/CardList.vue:2
 msgid "热门尝鲜"
-msgstr ""
+msgstr "Degustazione popolare"
 
 #: src/components/Footer/FooterComponent.vue:10
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:15
@@ -555,6 +554,9 @@ msgid ""
 "请在手机中点击此按钮，或在微信搜索「老孙的店」小程序，淘宝搜索「老孙的某宝"
 "店」店铺，感谢您的支持。"
 msgstr ""
+"Fai clic su questo pulsante sul tuo telefono cellulare, o cerca l'applet "
+"\"Sun's Store\" su wechat, e cerca il negozio \"Sun's Store\" su Taobao. "
+"Grazie per il tuo supporto."
 
 #: src/pages/surface/views/firmware/FirmwaresList.vue:9
 msgid ""
@@ -582,34 +584,34 @@ msgstr "Leggi il tutorial"
 
 #: src/lib/translate/info.js:19
 msgid "韩语"
-msgstr ""
+msgstr "Coreano"
 
 #: src/pages/user/views/post/Post.vue:23
 msgid "项目"
-msgstr ""
+msgstr "progetto"
 
 #: src/pages/user/views/project/Project.vue:8
 msgid "项目名称"
-msgstr ""
+msgstr "nome della voce"
 
 #: src/pages/user/views/project/Project.vue:14
 msgid "项目描述"
-msgstr ""
+msgstr "Descrizione del progetto"
 
 #: src/pages/surface/router.js:59
 msgid "项目页面"
-msgstr ""
+msgstr "Pagina del progetto"
 
 #: src/pages/surface/router.js:51
 msgid "项目首页"
-msgstr ""
+msgstr "Pagina iniziale del progetto"
 
 #: src/pages/surface/components/HeaderComponent.vue:15
 #: src/pages/surface/components/HeaderComponent.vue:36
 #: src/pages/surface/router.js:20
 msgid "首页"
-msgstr ""
+msgstr "home page"
 
 #: src/pages/surface/views/firmware/FirmwaresList.vue:20
 msgid "验证状态"
-msgstr ""
+msgstr "Stato di verifica"
