@@ -9,7 +9,7 @@
 
 ![][System Update]
 
-PS：尝鲜有风险，资料无价，请切记备份。
+PS: Early Adopters sind riskant und die Daten sind unbezahlbar, denken Sie bitte daran, sie zu sichern.
 
 感谢使用尝鲜派
 如果我们的工作帮助到您

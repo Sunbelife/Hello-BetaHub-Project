@@ -9,7 +9,7 @@
 
 ![][System Update]
 
-PS：尝鲜有风险，资料无价，请切记备份。
+PS: Early adopters are risky, and the data is priceless, please remember to back it up.
 
 感谢使用尝鲜派
 如果我们的工作帮助到您

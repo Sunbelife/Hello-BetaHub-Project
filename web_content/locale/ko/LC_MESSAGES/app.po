@@ -1,12 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-14 03:11+0000\n"
-"Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
-"Language-Team: Korean <http://hello.betahub.cn/projects/Betahub/betahub/ko/>"
-"\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-08 07:36+0000\n"
+"PO-Revision-Date: 2022-04-10 15:30+0000\n"
+"Last-Translator: 是猫 <zhangziyi.knu@gmail.com>\n"
+"Language-Team: Korean <http://hello.betahub.cn/projects/Betahub/betahub/ko/"
+">\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,22 +17,37 @@ msgstr ""
 "X-Language: en\n"
 "X-Source-Language: zh\n"
 
-#: src/pages/surface/router.js:74
+#: src/components/Card/SubCard.vue:38 src/components/PostCard/PostCard.vue:49
+#: src/pages/surface/components/Status/StatusCard.vue:43
+#: src/pages/surface/views/project/BetaCat.vue:47
+#: src/pages/surface/views/project/Topic.vue:76
+msgid "%{date} 有更新"
+msgstr "%{date} 업그레이드"
+
+#: src/pages/surface/router.js:93
 msgid "404页面"
 msgstr "404 페이지"
 
-#: src/pages/surface/layouts/Widget.vue:8
+#: src/pages/surface/router.js:29
+msgid "BetaCat"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:9
 #: src/pages/surface/views/Install.vue:67
 msgid "iBeta 尝鲜派"
 msgstr "BetaHub"
+
+#: src/pages/surface/router.js:89
+msgid "WWDC 2022"
+msgstr ""
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:9
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:7
 msgid "上传时间:"
 msgstr "업로드 시간:"
 
-#: src/pages/surface/views/firmware/DevicesList.vue:29
-#: src/pages/surface/views/firmware/FirmwaresList.vue:23
+#: src/pages/surface/views/firmware/DevicesList.vue:27
+#: src/pages/surface/views/firmware/FirmwaresList.vue:25
 msgid "下载"
 msgstr "다운로드"
 
@@ -44,30 +59,46 @@ msgstr "클립보드에 링크가 복사되었습니다~"
 msgid "下载链接拷贝失败"
 msgstr "다운로드 링크를 복사하지 못했습니다"
 
-#: src/pages/surface/layouts/Widget.vue:27
+#: src/pages/user/views/settings/Settings.vue:41
+msgid "令牌创建成功"
+msgstr "토큰 생성 성공"
+
+#: src/pages/surface/layouts/Widget.vue:34
 msgid "以下是我们特别赞助商的产品。"
 msgstr "다음은 특별 스폰서의 제품입니다."
 
-#: src/components/Card/SubCard.vue:19
-msgid "候选发布版"
-msgstr "후보 버전"
+#: src/pages/user/views/project/Project.vue:73
+msgid "保存失败"
+msgstr "저장을 실패했습니다"
 
-#: src/pages/surface/layouts/Widget.vue:10
+#: src/pages/user/views/project/Project.vue:69
+msgid "保存成功"
+msgstr "저장됐어습니다"
+
+#: src/pages/user/views/project/Project.vue:112
+msgid "修改项目"
+msgstr "수정항목"
+
+#: src/pages/surface/layouts/Widget.vue:14
 #: src/pages/surface/layouts/Widget.vue:1
 msgid "全靠捐助养自己"
-msgstr ""
+msgstr " "
 
-#: src/pages/surface/layouts/Widget.vue:9
+#: src/pages/surface/layouts/Widget.vue:10
 msgid "公众号 ID 已拷贝到您的剪切板啦~"
 msgstr "위챗 ID가 클립보드로 복사되었습니다"
 
-#: src/pages/surface/layouts/Widget.vue:49
+#: src/pages/surface/layouts/Widget.vue:52
 msgid "公告"
 msgstr "게시판"
 
+#: src/constant.js:10
+msgid "公开"
+msgstr "공개하기"
+
 #: src/pages/surface/components/HeaderComponent.vue:25
 #: src/pages/surface/components/HeaderComponent.vue:46
-#: src/pages/surface/router.js:63
+#: src/pages/surface/router.js:77
 msgid "关于"
 msgstr "소개"
 
@@ -83,19 +114,31 @@ msgstr "다시 다운로드"
 msgid "再次复制"
 msgstr "다시 복사하기"
 
-#: src/pages/surface/layouts/Widget.vue:45
+#: src/pages/surface/components/Status/StatusList.vue:2
+msgid "最新动态"
+msgstr "최신 동향"
+
+#: src/pages/user/views/project/Project.vue:18
+msgid "创建时间："
+msgstr "생성 시간:"
+
+#: src/pages/surface/layouts/Widget.vue:46
 msgid "加入 TG 群组"
 msgstr "Telegram 이 가입하기"
 
-#: src/pages/surface/layouts/Widget.vue:49
+#: src/pages/surface/layouts/Widget.vue:50
 msgid "加入尝鲜派"
 msgstr "BetaHub 이 가입하기"
 
 #: src/pages/surface/components/SetLanguage/SetLanguage.vue:26
 msgid "加入翻译"
-msgstr "번역을 가입하기"
+msgstr "번역하다"
 
-#: src/components/Card/SubCard.vue:27
+#: src/pages/user/views/post/Post.vue:29
+msgid "动态"
+msgstr "최신 동향"
+
+#: src/components/Card/SubCard.vue:29
 msgid "即刻尝鲜"
 msgstr "다운로드"
 
@@ -103,9 +146,19 @@ msgstr "다운로드"
 msgid "即可向我们捐赠"
 msgstr "바로 우리에게 기부할 수 있습니다"
 
-#: src/pages/surface/views/firmware/DevicesList.vue:22
+#: src/components/PostCard/PostCard.vue:13
+#: src/pages/surface/components/Status/StatusCard.vue:11
+msgid "发布于"
+msgstr "발표하였다"
+
+#: src/pages/surface/views/firmware/DevicesList.vue:20
+#: src/pages/surface/views/firmware/FirmwaresList.vue:41
 msgid "发布时间"
 msgstr "출시일"
+
+#: src/constant.js:9
+msgid "只读"
+msgstr "읽기 전용"
 
 #: src/pages/surface/views/firmware/DevicesList.vue:3
 msgid "哪个型号？"
@@ -116,30 +169,31 @@ msgid "哪个版本？"
 msgstr "어떤 버전입니까?"
 
 #: src/pages/surface/views/firmware/DeviceGroup.vue:2
+#: src/pages/surface/views/project/Topic.vue:53
 msgid "固件下载"
 msgstr "펌웨어를 다운로드하기"
 
-#: src/pages/surface/router.js:36
+#: src/pages/surface/router.js:39
 msgid "固件列表"
-msgstr ""
+msgstr "펌웨어 리스트"
 
-#: src/pages/surface/router.js:41
+#: src/pages/surface/router.js:44
 msgid "固件详情"
-msgstr ""
+msgstr "펌웨어 세부 정보"
 
-#: src/pages/surface/layouts/Widget.vue:41
+#: src/pages/surface/layouts/Widget.vue:42
 msgid "在微信上关注 @iBeta尝鲜派"
 msgstr "Wechat 에서 팔로우하기"
 
-#: src/pages/surface/layouts/Widget.vue:59
+#: src/pages/surface/layouts/Widget.vue:60
 msgid "在微信上购买"
 msgstr "위챗에서 구매하기"
 
-#: src/pages/surface/layouts/Widget.vue:37
+#: src/pages/surface/layouts/Widget.vue:38
 msgid "在微博上关注 @iBeta尝鲜派"
 msgstr "Weibo 에서 팔로우하기"
 
-#: src/pages/surface/layouts/Widget.vue:63
+#: src/pages/surface/layouts/Widget.vue:64
 msgid "在淘宝上购买"
 msgstr "타오바오에서 구매하기"
 
@@ -152,7 +206,7 @@ msgstr "타오바오에서 구매하기"
 msgid "复制下载链接"
 msgstr "다운로드 링크 복사하기"
 
-#: src/pages/surface/layouts/Widget.vue:14
+#: src/pages/surface/layouts/Widget.vue:15
 msgid "复制失败"
 msgstr "복사 실패"
 
@@ -180,26 +234,28 @@ msgstr "Cow Transfer 로 다운로드하기"
 msgid "好心人"
 msgstr "착한 사람"
 
-#: src/pages/surface/layouts/Widget.vue:11
+#: src/pages/surface/layouts/Widget.vue:15
 #: src/pages/surface/layouts/Widget.vue:2
 msgid "如果有幸帮到你"
-msgstr ""
+msgstr " "
 
-#: src/pages/surface/router.js:68
+#: src/pages/surface/router.js:82
 msgid "安装描述文件"
 msgstr "프로필을 설치하기"
 
-#: src/pages/surface/router.js:6
+#: src/pages/surface/router.js:7 src/pages/surface/views/other/Post.vue:27
+#: src/pages/surface/views/project/Topic.vue:54
 msgid "尝鲜派"
 msgstr "BetaHub"
 
-#: src/pages/manage/views/other/About.vue:8
-#: src/pages/surface/components/FooterComponent.vue:7
+#: src/components/Footer/FooterComponent.vue:13
 msgid "开发模式"
 msgstr "개발 모델"
 
-#: src/components/Card/SubCard.vue:18
-#: src/pages/surface/views/firmware/FirmwaresList.vue:8
+#: src/components/PostCard/PostCard.vue:19
+#: src/components/StdEditor/StdEditor.vue:74 src/constant.js:21
+#: src/pages/surface/components/Status/StatusCard.vue:14
+#: src/pages/surface/views/firmware/FirmwaresList.vue:16
 msgid "开发者测试版"
 msgstr "베타 버전"
 
@@ -207,6 +263,10 @@ msgstr "베타 버전"
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:2
 msgid "开始下载吧"
 msgstr "다운로드 시작하기"
+
+#: src/components/Card/VersionTag.vue:3
+msgid "当前更新至"
+msgstr "현재 업데이트"
 
 #: src/pages/surface/components/SetLanguage/SetLanguage.vue:10
 msgid "当前语言"
@@ -228,17 +288,22 @@ msgstr "업그레이드 도구를 다운로드하고 튜토리얼을 건너뛰�
 msgid "您希望直接下载描述文件而跳过本教程吗"
 msgstr "프로필을 다운로드하고 튜토리얼을 건너뛰시겠습니까?"
 
-#: src/pages/surface/layouts/Widget.vue:28
+#: src/pages/surface/layouts/Widget.vue:29
+#: src/pages/surface/views/live/SponsorCard.vue:12
 msgid "感谢您~"
 msgstr "감사합니다~"
 
-#: src/pages/surface/layouts/Widget.vue:67
+#: src/pages/surface/layouts/Widget.vue:68
 msgid "成为特别赞助商"
 msgstr "저희의 특별 스폰서가 되십시요"
 
-#: src/pages/surface/layouts/Widget.vue:139
+#: src/pages/surface/layouts/Widget.vue:157
 msgid "找到我们"
 msgstr "찾아오기"
+
+#: src/pages/user/views/post/Post.vue:54
+msgid "投稿类型"
+msgstr "기여유형"
 
 #: src/pages/surface/components/SetLanguage/SetLanguage.vue:29
 msgid "报告问题"
@@ -246,20 +311,20 @@ msgstr "문제를 제출하기"
 
 #: src/pages/surface/components/HeaderComponent.vue:20
 #: src/pages/surface/components/HeaderComponent.vue:41
-#: src/pages/surface/router.js:58
+#: src/pages/surface/router.js:72
 msgid "捐助"
 msgstr "기부하기"
 
-#: src/pages/surface/layouts/Widget.vue:20
+#: src/pages/surface/layouts/Widget.vue:24
 #: src/pages/surface/views/Install.vue:17
 #: src/pages/surface/views/Install.vue:14
 msgid "捐助我们"
 msgstr "기부하기"
 
-#: src/pages/surface/layouts/Widget.vue:12
+#: src/pages/surface/layouts/Widget.vue:16
 #: src/pages/surface/layouts/Widget.vue:3
 msgid "捐助我们别吝惜"
-msgstr ""
+msgstr " "
 
 #: src/pages/surface/views/page/Donate.vue:2
 msgid "捐助榜"
@@ -269,17 +334,39 @@ msgstr "기부 순위"
 msgid "捐助金额"
 msgstr "기부금액"
 
+#: src/pages/user/views/project/Project.vue:14
+msgid "描述："
+msgstr "설명:"
+
 #: src/pages/surface/views/Install.vue:32
 #: src/pages/surface/views/Install.vue:56
 msgid "描述文件的链接已复制到您的剪贴板，请参照这篇教程来使用"
 msgstr "프로필 링크가 클립보드에 복사되었고 이 튜토리얼을 참조하십시오"
+
+#: src/components/PostCard/PostCard.vue:28
+#: src/pages/surface/components/Status/StatusCard.vue:21
+#: src/pages/surface/views/project/Topic.vue:63
+msgid "提供"
+msgstr "제공하기"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:13
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:11
 msgid "文件大小:"
 msgstr "파일 크기:"
 
-#: src/pages/surface/components/FooterComponent.vue:2
+#: src/pages/surface/router.js:67 src/pages/user/views/post/Post.vue:28
+msgid "文章"
+msgstr "Post"
+
+#: src/pages/user/views/project/Project.vue:112
+msgid "新建项目"
+msgstr "새 항목"
+
+#: src/components/PostCard/PostCard.vue:7
+msgid "新鲜事"
+msgstr "뉴스"
+
+#: src/components/Footer/FooterComponent.vue:3
 msgid "无派科技（深圳）有限公司"
 msgstr "nootag Tech"
 
@@ -295,21 +382,44 @@ msgstr "일본어"
 msgid "昵称"
 msgstr "닉네임"
 
+#: src/pages/surface/components/Status/StatusList.vue:48
+#: src/pages/surface/views/live/LiveStatus/LiveStatusList.vue:37
+msgid "显示 %{n} 条新动态"
+msgstr "%{n}개의 새 게시물 표시 중"
+
+#: src/pages/surface/components/Status/StatusList.vue:24
+msgid "显示更多"
+msgstr "더 보기"
+
+#: src/pages/surface/components/Status/StatusList.vue:28
+#: src/pages/surface/views/live/LiveStatus/LiveStatusList.vue:27
+msgid "暂无更多动态"
+msgstr "더 이상 내용이 없습니다"
+
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:73
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:71
 msgid "更新日志"
 msgstr "로그를 업데이트합니다"
 
-#: src/pages/surface/router.js:79
+#: src/pages/user/views/live/LivePostList.vue:51
+#: src/pages/user/views/post/List.vue:30
+#: src/pages/user/views/project/Project.vue:63
+#: src/pages/user/views/settings/Settings.vue:43
+msgid "服务器错误"
+msgstr "서버 오류"
+
+#: src/pages/surface/router.js:98
 msgid "未找到页面"
 msgstr "페이지를 찾을 수 없습니다"
 
-#: src/components/Card/SubCard.vue:28
+#: src/components/Card/SubCard.vue:30
 msgid "查看教程"
 msgstr "튜토리얼 보기"
 
-#: src/components/Card/SubCard.vue:20
-#: src/pages/surface/views/firmware/FirmwaresList.vue:7
+#: src/components/PostCard/PostCard.vue:20
+#: src/components/StdEditor/StdEditor.vue:75 src/constant.js:22
+#: src/pages/surface/components/Status/StatusCard.vue:15
+#: src/pages/surface/views/firmware/FirmwaresList.vue:13
 msgid "正式版"
 msgstr "정식 버전"
 
@@ -317,13 +427,17 @@ msgstr "정식 버전"
 msgid "法语"
 msgstr "프랑스어"
 
-#: src/pages/surface/components/FooterComponent.vue:9
+#: src/pages/surface/components/CardList/CardList.vue:2
+msgid "热门尝鲜"
+msgstr "핫"
+
+#: src/components/Footer/FooterComponent.vue:10
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:15
-#: src/pages/surface/views/firmware/FirmwaresList.vue:10
+#: src/pages/surface/views/firmware/FirmwaresList.vue:12
 msgid "版本"
 msgstr "버전"
 
-#: src/pages/surface/layouts/Widget.vue:115
+#: src/pages/surface/layouts/Widget.vue:128
 msgid "特别赞助"
 msgstr "특별 스폰서"
 
@@ -336,6 +450,14 @@ msgstr "지금 다운로드하기"
 msgid "稍等一下..."
 msgstr "잠깐만 기다려주세요"
 
+#: src/pages/surface/views/project/Topic.vue:49
+msgid "立即安装"
+msgstr "즉시설치"
+
+#: src/components/Card/SubCard.vue:63
+msgid "等待更新"
+msgstr ""
+
 #: src/lib/translate/info.js:47
 msgid "简体中文"
 msgstr "중국어 간체"
@@ -344,7 +466,11 @@ msgstr "중국어 간체"
 msgid "繁体中文"
 msgstr "중국어 번체"
 
-#: src/pages/surface/layouts/Widget.vue:8
+#: src/pages/user/views/project/Project.vue:6
+msgid "编辑"
+msgstr "편집하기"
+
+#: src/pages/surface/layouts/Widget.vue:12
 msgid "网站现在不盈利"
 msgstr "커피 한 잔 부탁드립니다"
 
@@ -352,7 +478,7 @@ msgstr "커피 한 잔 부탁드립니다"
 msgid "翻译来自志愿者"
 msgstr "번역 지원자"
 
-#: src/pages/surface/layouts/Widget.vue:55
+#: src/pages/surface/layouts/Widget.vue:56
 msgid "老孙的店"
 msgstr "손씨네 스토어"
 
@@ -370,16 +496,29 @@ msgstr "영어"
 msgid "苹果服务器下载"
 msgstr "애플 서버 다운로드하기"
 
-#: src/pages/surface/router.js:31
-#: src/pages/surface/views/firmware/DevicesList.vue:15
+#: src/lib/translate/info.js:54
+msgid "葡萄牙语"
+msgstr ""
+
+#: src/pages/surface/router.js:34
+#: src/pages/surface/views/firmware/DevicesList.vue:13
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:14
-#: src/pages/surface/views/firmware/FirmwaresList.vue:6
+#: src/pages/surface/views/firmware/FirmwaresList.vue:39
 msgid "设备型号"
 msgstr "장치 모델"
 
-#: src/pages/surface/views/firmware/DevicesList.vue:18
+#: src/pages/surface/views/firmware/DevicesList.vue:16
+#: src/pages/surface/views/firmware/FirmwaresList.vue:40
 msgid "设备标识符"
-msgstr ""
+msgstr "장치 식별자"
+
+#: src/pages/user/views/project/Project.vue:20
+msgid "访问权限"
+msgstr "접근 권한"
+
+#: src/pages/user/views/project/Project.vue:22
+msgid "访问权限："
+msgstr "접근 권한:"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:25
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:23
@@ -388,7 +527,9 @@ msgstr "펌웨어가 인증을 중지했으며 iTunes 를 통해 복원할 수 �
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:103
 msgid "该固件正常验证中，可以通过 iTunes 进行「升级」或「恢复」。"
-msgstr "이 펌웨어는 정상적으로 인증되었으며, iTunes 를 통해 「업그레이드」 또는 「복원」이 가능합니다."
+msgstr ""
+"이 펌웨어는 정상적으로 인증되었으며, iTunes 를 통해 「업그레이드」 또는 「복"
+"원」이 가능합니다."
 
 #: src/pages/surface/views/Install.vue:68
 msgid "请在 Safari 中打开本页面"
@@ -402,27 +543,32 @@ msgstr "아래에서 장치 모델을 선택하십시오"
 msgid "请在下面选择您的设备类型"
 msgstr "아래에서 장치 유형을 선택하십시오"
 
-#: src/pages/surface/layouts/Widget.vue:29
+#: src/pages/surface/layouts/Widget.vue:30
+#: src/pages/surface/views/live/SponsorCard.vue:13
 msgid ""
 "请在手机中点击此按钮，或在微信搜索「老孙的店」小程序，淘宝搜索「老孙的某宝"
 "店」店铺，感谢您的支持。"
 msgstr ""
-"이 버튼을 누르거나, 위챗에서 「老孙的店」  애플리케이션을 검색하거나, 타오바오에서  「老孙的某宝店」  스토어를 검색해 주십시오. 성원해 "
-"주셔서 감사합니다."
+"이 버튼을 누르거나, 위챗에서 「老孙的店」 애플리케이션을 검색하거나, 타오바오"
+"에서 「老孙的某宝店」 스토어를 검색해 주십시오. 성원해 주셔서 감사합니다."
 
-#: src/pages/surface/views/firmware/FirmwaresList.vue:4
+#: src/pages/surface/views/firmware/FirmwaresList.vue:9
 msgid ""
 "请选择您需要下载的固件版本，验证状态绿色标识为「目前可升级/恢复」版本，红色标"
 "识为「目前不可升级/恢复」版本。"
 msgstr ""
-"다운로드할 펌웨어 버전을 선택하십시오. 인증 상태의 녹색 표시는「업그레이드/복원」가능 버전이고, 빨간색 표시는「업그레이드/복원」 불가 "
-"버전입니다."
+"다운로드할 펌웨어 버전을 선택하십시오. 인증 상태의 녹색 표시는「업그레이드/복"
+"원」가능 버전이고, 빨간색 표시는「업그레이드/복원」 불가 버전입니다."
+
+#: src/components/StdEditor/StdEditor.vue:36
+msgid "软件版本类型"
+msgstr "소프트웨어 버전 종류"
 
 #: src/pages/surface/views/firmware/GoBack.vue:4
 msgid "返回上一级"
 msgstr "뒤로 가기"
 
-#: src/pages/surface/layouts/Widget.vue:29
+#: src/pages/surface/layouts/Widget.vue:36
 msgid "销售额的一部分会作为网站的经费："
 msgstr "매출액의 일부는 홈페이지 경비로 사용됩니다:"
 
@@ -434,15 +580,38 @@ msgstr "튜토리얼 보기"
 msgid "韩语"
 msgstr "한국어"
 
+#: src/pages/user/views/post/Post.vue:23
+msgid "项目"
+msgstr "항목"
+
+#: src/pages/user/views/project/Project.vue:8
+msgid "项目名称"
+msgstr "프로젝트 이름"
+
+#: src/pages/user/views/project/Project.vue:14
+msgid "项目描述"
+msgstr "프로젝트 설명"
+
+#: src/pages/surface/router.js:59
+msgid "项目页面"
+msgstr "프로젝트 페이지"
+
+#: src/pages/surface/router.js:51
+msgid "项目首页"
+msgstr "프로젝트 메인 페이지"
+
 #: src/pages/surface/components/HeaderComponent.vue:15
 #: src/pages/surface/components/HeaderComponent.vue:36
-#: src/pages/surface/router.js:25
+#: src/pages/surface/router.js:20
 msgid "首页"
 msgstr "홈페이지"
 
-#: src/pages/surface/views/firmware/FirmwaresList.vue:18
+#: src/pages/surface/views/firmware/FirmwaresList.vue:20
 msgid "验证状态"
 msgstr "인증 상태"
+
+#~ msgid "候选发布版"
+#~ msgstr "후보 버전"
 
 #~ msgid "Apple"
 #~ msgstr "APPLE"
@@ -484,9 +653,6 @@ msgstr "인증 상태"
 
 #~ msgid "分类"
 #~ msgstr "Category"
-
-#~ msgid "文章"
-#~ msgstr "Post"
 
 #~ msgid "About"
 #~ msgstr "About"
