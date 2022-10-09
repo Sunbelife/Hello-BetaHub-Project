@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Chinese (Simplified) (Hello BetaHub Project)\n"
 "Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: 2022-04-08 07:36+0000\n"
-"PO-Revision-Date: 2022-07-06 12:37+0000\n"
+"PO-Revision-Date: 2022-10-10 16:02+0000\n"
 "Last-Translator: 姚剑栋 <2271907040@qq.com>\n"
 "Language-Team: Spanish <http://hello.betahub.cn/projects/Betahub/betahub/es/>"
 "\n"
@@ -475,7 +475,7 @@ msgstr "Editar"
 
 #: src/pages/surface/layouts/Widget.vue:12
 msgid "网站现在不盈利"
-msgstr ""
+msgstr "Hoy por ti, mañana por mí"
 
 #: src/pages/surface/components/SetLanguage/SetLanguageItem.vue:11
 msgid "翻译来自志愿者"
@@ -531,6 +531,8 @@ msgstr "Este firmware ya no está firmado, no se lo puede restaurar en iTunes."
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:103
 msgid "该固件正常验证中，可以通过 iTunes 进行「升级」或「恢复」。"
 msgstr ""
+"Este firmware está firmado, se puedes actualizar o restaurar a través de "
+"iTunes."
 
 #: src/pages/surface/views/Install.vue:68
 msgid "请在 Safari 中打开本页面"
@@ -550,12 +552,18 @@ msgid ""
 "请在手机中点击此按钮，或在微信搜索「老孙的店」小程序，淘宝搜索「老孙的某宝"
 "店」店铺，感谢您的支持。"
 msgstr ""
+"Pulsaría este botón en su teléfono o buscaría «老孙的店» mini programa en "
+"WeChat, o buscaría «老孙的某宝店» on Taobao.com, gracias por su apoyo."
 
 #: src/pages/surface/views/firmware/FirmwaresList.vue:9
 msgid ""
 "请选择您需要下载的固件版本，验证状态绿色标识为「目前可升级/恢复」版本，红色标"
 "识为「目前不可升级/恢复」版本。"
 msgstr ""
+"Por favor seleccione la versión de firmware que necesita descargar, el "
+"estado de verificación está marcado en verde para las versiones «actualmente "
+"actualizables/restaurables» y en rojo para las versiones «actualmente no "
+"actualizables/restaurables»."
 
 #: src/components/StdEditor/StdEditor.vue:36
 msgid "软件版本类型"
