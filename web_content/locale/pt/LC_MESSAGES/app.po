@@ -14,542 +14,1357 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 4.10.1\n"
 
-#: src/components/Card/SubCard.vue:38 src/components/PostCard/PostCard.vue:49
-#: src/pages/surface/components/Status/StatusCard.vue:43
-#: src/pages/surface/views/project/BetaCat.vue:47
-#: src/pages/surface/views/project/Topic.vue:76
+#: src/pages/admin/views/settings/Settings.vue:43
+msgid " RSS "
+msgstr ""
+
+#: src/components/Card/SubCard.vue:13 src/components/PostCard/PostCard.vue:11
+#: src/components/Status/StatusCard.vue:11
+#: src/pages/surface/views/project/BetaCat.vue:13
+#: src/pages/surface/views/project/Topic.vue:37
 msgid "%{date} 有更新"
 msgstr "Atualizado %{date}"
 
-#: src/pages/surface/router.js:93
-msgid "404页面"
-msgstr "Erro 404"
+#: src/pages/admin/views/dashboard/Dashboard.vue:36
+msgid "30天收入"
+msgstr ""
 
-#: src/pages/surface/router.js:29
+#: src/components/StdDataDisplay/StdCurd.vue:147
+#: src/components/StdDataDisplay/StdCurd.vue:25
+msgid "Add"
+msgstr ""
+
+#: src/components/StdDataDisplay/StdTable.vue:496
+msgid "All"
+msgstr ""
+
+#: src/pages/admin/views/settings/Settings.vue:40
+msgid "Apple 手动登录"
+msgstr ""
+
+#: src/pages/admin/views/settings/Settings.vue:39
+msgid "Apple 自动登录"
+msgstr ""
+
+#: src/components/StdDataDisplay/StdBulkActions.vue:50
+msgid "Apply"
+msgstr ""
+
+#: src/components/StdDataDisplay/StdBulkActions.vue:27
+msgid "Apply bulk action successfully"
+msgstr ""
+
+#: src/components/StdDataDisplay/StdBulkActions.vue:11
+msgid "Are you sure you want to apply to all selected?"
+msgstr ""
+
+#: src/components/StdDataDisplay/StdTable.vue:68
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: src/components/StdDataDisplay/StdBatchEdit.vue:5
+#: src/components/StdDataDisplay/StdTable.vue:25
+#: src/components/StdDataDisplay/StdTable.vue:30
+msgid "Batch Modify"
+msgstr ""
+
+#: src/pages/surface/routes/index.ts:28
 msgid "BetaCat"
 msgstr "BetaCat"
 
-#: src/pages/surface/layouts/Widget.vue:9
-#: src/pages/surface/views/Install.vue:67
+#: src/pages/admin/views/firmware/Firmware.vue:27
+msgid "Build ID"
+msgstr ""
+
+#: src/components/StdDataDisplay/StdBulkActions.vue:41
+msgid "Bulk Action"
+msgstr ""
+
+#: src/components/StdDataDisplay/StdBatchEdit.vue:7
+#: src/components/StdDataDisplay/StdCurd.vue:27
+#: src/components/StdDataEntry/components/StdSelector.vue:11
+msgid "Cancel"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/ServerStatus.vue:64
+msgid "CPU Status"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/ServerStatus.vue:153
+msgid "CPU:"
+msgstr ""
+
+#: src/pages/admin/routes.ts:34
+msgid "DashBoard"
+msgstr ""
+
+#: src/components/StdDataDisplay/StdTable.vue:71
+msgid "Delete"
+msgstr ""
+
+#: src/components/StdDataDisplay/StdTable.vue:136
+msgid "Delete ID: %{id}"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/ServerStatus.vue:96
+msgid "Disk IO"
+msgstr ""
+
+#: src/pages/user/views/settings/Settings.vue:10
+msgid "Email"
+msgstr ""
+
+#: src/components/StdDataDisplay/StdTable.vue:24
+#: src/components/StdDataDisplay/StdTable.vue:380
+msgid "Export"
+msgstr ""
+
+#: src/components/StdDataEntry/components/StdPassword.vue:42
+#: src/pages/user/views/settings/Settings.vue:18
+msgid "Generate"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:24
+#: src/pages/surface/views/page/Install.vue:59
 msgid "iBeta 尝鲜派"
 msgstr "BetaHub"
 
-#: src/pages/surface/router.js:89
-msgid "WWDC 2022"
-msgstr "WWDC 2022"
+#: src/pages/user/views/settings/Settings.vue:17
+msgid "Invisible"
+msgstr ""
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:9
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:7
+#: src/pages/admin/views/dashboard/ServerStatus.vue:141
+msgid "Load Averages:"
+msgstr ""
+
+#: src/pages/user/views/other/Login.vue:135
+msgid "Login"
+msgstr ""
+
+#: src/pages/user/views/other/Login.vue:60
+msgid "Login successful"
+msgstr ""
+
+#: src/pages/admin/layouts/HeaderLayout.vue:15
+msgid "Logout successful"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/ServerStatus.vue:32
+msgid "Memory"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/ServerStatus.vue:29
+msgid "Memory and Storage"
+msgstr ""
+
+#: src/components/StdDataDisplay/StdCurd.vue:25
+#: src/components/StdDataDisplay/StdTable.vue:37
+#: src/components/StdDataDisplay/StdTable.vue:38
+#: src/components/StdDataDisplay/StdTable.vue:44
+#: src/components/StdDataDisplay/StdTable.vue:57
+#: src/components/StdDataDisplay/StdTable.vue:59
+msgid "Modify"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/ServerStatus.vue:74
+msgid "Network"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/ServerStatus.vue:48
+msgid "Network Statistics"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/ServerStatus.vue:52
+msgid "Network Total Receive"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/ServerStatus.vue:56
+msgid "Network Total Send"
+msgstr ""
+
+#: src/components/StdDataDisplay/StdBulkActions.vue:9
+#: src/components/StdDataDisplay/StdTable.vue:66
+msgid "No"
+msgstr ""
+
+#: src/pages/admin/routes.ts:247 src/pages/admin/routes.ts:249
+#: src/pages/surface/routes/index.ts:92 src/pages/surface/routes/index.ts:94
+#: src/pages/user/routes.ts:108 src/pages/user/routes.ts:110
+msgid "Not Found"
+msgstr ""
+
+#: src/components/StdDataDisplay/StdBatchEdit.vue:8
+#: src/components/StdDataDisplay/StdBulkActions.vue:10
+#: src/components/StdDataDisplay/StdCurd.vue:28
+#: src/components/StdDataDisplay/StdTable.vue:67
+#: src/components/StdDataEntry/components/StdSelector.vue:12
+msgid "OK"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/ServerStatus.vue:147
+msgid "OS:"
+msgstr ""
+
+#: src/pages/user/views/other/Login.vue:51
+#: src/pages/user/views/settings/Settings.vue:25
+msgid "Password"
+msgstr ""
+
+#: src/pages/user/views/other/Login.vue:49
+msgid "Please input your password!"
+msgstr ""
+
+#: src/pages/user/views/other/Login.vue:43
+msgid "Please input your username!"
+msgstr ""
+
+#: src/pages/admin/views/project/Project.vue:3
+msgid "Projects"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/ServerStatus.vue:107
+msgid "Reads"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/ServerStatus.vue:20
+#: src/pages/admin/views/dashboard/ServerStatus.vue:78
+msgid "Receive"
+msgstr ""
+
+#: src/components/StdDataDisplay/StdTable.vue:27
+msgid "Reset"
+msgstr ""
+
+#: src/pages/user/views/settings/Settings.vue:28
+#: src/pages/user/views/settings/Settings.vue:29
+#: src/pages/user/views/settings/Settings.vue:31
+msgid "Save"
+msgstr ""
+
+#: src/components/StdDataDisplay/StdBatchEdit.vue:40
+msgid "Save successfully"
+msgstr ""
+
+#: src/components/StdDataDisplay/StdCurd.vue:110
+msgid "Save Successfully"
+msgstr ""
+
+#: src/components/StdDataEntry/components/StdSelector.vue:13
+msgid "Selector"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/ServerStatus.vue:21
+#: src/pages/admin/views/dashboard/ServerStatus.vue:85
+msgid "Send"
+msgstr ""
+
+#: src/components/StdDataDisplay/StdBatchEdit.vue:43
+#: src/components/StdDataDisplay/StdBulkActions.vue:30
+#: src/components/StdDataDisplay/StdTable.vue:172
+#: src/components/StdDataDisplay/StdTable.vue:361
+#: src/components/StdDataDisplay/StdTable.vue:481
+msgid "Server error"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/ServerStatus.vue:5
+msgid "Server Info"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/ServerStatus.vue:41
+msgid "Storage"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/ServerStatus.vue:36
+msgid "Swap"
+msgstr ""
+
+#: src/components/StdDataDisplay/StdCurd.vue:3
+msgid "Table"
+msgstr ""
+
+#: src/pages/admin/views/testflight/TestflightCategory.vue:2
+msgid "Testflight 分类"
+msgstr ""
+
+#: src/pages/admin/routes.ts:189
+msgid "Testflight 应用"
+msgstr ""
+
+#: src/pages/admin/views/settings/Settings.vue:42
+msgid "TSS 关闭固件"
+msgstr ""
+
+#: src/pages/admin/views/settings/Settings.vue:41
+msgid "TSS 开放固件"
+msgstr ""
+
+#: src/components/StdDataDisplay/StdTable.vue:479
+msgid "Updated successfully"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/ServerStatus.vue:137
+msgid "Uptime:"
+msgstr ""
+
+#: src/pages/user/views/other/Login.vue:40
+msgid "Username"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/ServerStatus.vue:100
+#: src/pages/admin/views/dashboard/ServerStatus.vue:22
+#: src/pages/admin/views/dashboard/ServerStatus.vue:23
+msgid "Writes"
+msgstr ""
+
+#: src/pages/admin/views/firmware/Firmware.vue:58
+#, fuzzy
+#| msgid "上传时间:"
+msgid "上传时间"
+msgstr "Data de publicação:"
+
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:124
 msgid "上传时间:"
 msgstr "Data de publicação:"
 
-#: src/pages/surface/views/firmware/DevicesList.vue:27
-#: src/pages/surface/views/firmware/FirmwaresList.vue:25
+#: src/pages/admin/views/user/user_colums.ts:56
+msgid "上次活跃"
+msgstr ""
+
+#: src/pages/surface/views/firmware/DevicesList.vue:31
+#: src/pages/surface/views/firmware/FirmwaresList.vue:32
 msgid "下载"
 msgstr "Baixar"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:74
+#: src/pages/admin/views/card/Edit.vue:124
+msgid "下载方式"
+msgstr ""
+
+#: src/pages/admin/views/card/Edit.vue:8
+#: src/pages/admin/views/dashboard/Dashboard.vue:31
+#, fuzzy
+#| msgid "下载"
+msgid "下载量"
+msgstr "Baixar"
+
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:106
 msgid "下载链接已拷贝到您的剪切板啦~"
 msgstr "O link de download foi copiado para a área de transferência"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:76
-msgid "下载链接拷贝失败"
-msgstr "Falha ao copiar o link de download"
+#: src/pages/user/routes.ts:83
+msgid "个人设置"
+msgstr ""
 
-#: src/pages/user/views/settings/Settings.vue:41
+#: src/pages/admin/views/post/Edit.vue:39
+#, fuzzy
+#| msgid "文章"
+msgid "主文章"
+msgstr "Post"
+
+#: src/pages/admin/views/dashboard/Dashboard.vue:47
+msgid "今日注册"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/Dashboard.vue:19
+msgid "今日访客"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/Dashboard.vue:6
+msgid "今日访问"
+msgstr ""
+
+#: src/pages/user/views/settings/Settings.vue:42
 msgid "令牌创建成功"
 msgstr "Token criado com sucesso"
 
-#: src/pages/surface/layouts/Widget.vue:34
+#: src/pages/surface/layouts/Widget.vue:146
 msgid "以下是我们特别赞助商的产品。"
 msgstr "Abaixo são os produtos de nossos patrocinadores."
 
-#: src/pages/user/views/project/Project.vue:73
+#: src/pages/admin/views/settings/BetaCat.vue:26
+#: src/pages/admin/views/settings/BetaCat.vue:36
+#: src/pages/admin/views/settings/BetaCat.vue:46
+#, fuzzy
+#| msgid "令牌创建成功"
+msgid "任务创建成功"
+msgstr "Token criado com sucesso"
+
+#: src/pages/admin/views/post/post.ts:29
+msgid "作者"
+msgstr ""
+
+#: src/pages/admin/views/card/Edit.vue:31
+msgid "你确定要删除?"
+msgstr ""
+
+#: src/pages/admin/views/card/Edit.vue:23
+msgid "你确定要反删除?"
+msgstr ""
+
+#: src/pages/admin/views/card/Edit.vue:25
+#: src/pages/admin/views/card/Edit.vue:26
+#: src/pages/admin/views/card/Edit.vue:27
+#: src/pages/admin/views/card/Edit.vue:37 src/pages/admin/views/post/Edit.vue:9
+#, fuzzy
+#| msgid "保存失败"
+msgid "保存"
+msgstr "Falha ao salvar"
+
+#: src/pages/user/views/project/Project.vue:71
 msgid "保存失败"
 msgstr "Falha ao salvar"
 
-#: src/pages/user/views/project/Project.vue:69
+#: src/pages/admin/views/card/Edit.vue:174
+#: src/pages/admin/views/firmware/Firmware.vue:92
+#: src/pages/admin/views/post/Edit.vue:156
+#: src/pages/user/views/project/Project.vue:67
 msgid "保存成功"
 msgstr "Salvo com sucesso"
 
-#: src/pages/user/views/project/Project.vue:112
+#: src/pages/admin/routes.ts:153 src/pages/admin/views/card/Edit.vue:14
+msgid "修改卡片"
+msgstr ""
+
+#: src/pages/admin/views/post/Edit.vue:4
+msgid "修改文章"
+msgstr ""
+
+#: src/pages/admin/views/post/post.ts:52
+msgid "修改时间"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:42
 msgid "修改项目"
 msgstr "Editar projeto"
 
-#: src/pages/surface/layouts/Widget.vue:14
-#: src/pages/surface/layouts/Widget.vue:1
+#: src/pages/surface/layouts/Widget.vue:122
 msgid "全靠捐助养自己"
 msgstr "É financiado totalmente por doações"
 
-#: src/pages/surface/layouts/Widget.vue:10
+#: src/pages/surface/layouts/Widget.vue:25
 msgid "公众号 ID 已拷贝到您的剪切板啦~"
 msgstr ""
 "O ID do nosso canal oficial do WeChat foi copiado para a área de "
 "transferência"
 
-#: src/pages/surface/layouts/Widget.vue:52
+#: src/pages/admin/views/settings/frontend_settings.ts:9
+#: src/pages/surface/layouts/Widget.vue:5
 msgid "公告"
 msgstr "Aviso"
 
-#: src/constant.js:10
+#: src/constants/index.ts:11
 msgid "公开"
 msgstr "Público"
 
-#: src/pages/surface/components/HeaderComponent.vue:25
-#: src/pages/surface/components/HeaderComponent.vue:46
-#: src/pages/surface/router.js:77
+#: src/components/Header/HeaderComponent.vue:115
+#: src/components/Header/HeaderComponent.vue:88 src/pages/admin/routes.ts:240
+#: src/pages/surface/routes/index.ts:76
 msgid "关于"
 msgstr "Sobre"
 
-#: src/pages/surface/components/SetLanguage/SetLanguage.vue:16
+#: src/constants/index.ts:51 src/pages/admin/views/firmware/Firmware.vue:46
+msgid "关闭"
+msgstr ""
+
+#: src/components/SetLanguage/SetLanguage.vue:84
 msgid "其他语言"
 msgstr "Outros idiomas"
 
-#: src/pages/surface/views/Install.vue:8 src/pages/surface/views/Install.vue:5
+#: src/pages/admin/views/card/Edit.vue:25
+#: src/pages/admin/views/card/Edit.vue:33
+msgid "再想想"
+msgstr ""
+
+#: src/pages/surface/views/page/Install.vue:100
 msgid "再次下载"
 msgstr "Baixar novamente"
 
-#: src/pages/surface/views/Install.vue:12 src/pages/surface/views/Install.vue:9
+#: src/pages/surface/views/page/Install.vue:104
 msgid "再次复制"
 msgstr "Copiar novamente"
 
-#: src/pages/surface/components/Status/StatusList.vue:2
+#: src/components/Status/StatusList.vue:136
 msgid "最新动态"
 msgstr "Últimas atualizações"
 
-#: src/pages/user/views/project/Project.vue:18
+#: src/pages/admin/routes.ts:91 src/pages/admin/views/post/Edit.vue:4
+#: src/pages/admin/views/post/ListPost.vue:5
+#, fuzzy
+#| msgid "文章"
+msgid "写文章"
+msgstr "Post"
+
+#: src/pages/admin/views/testflight/tf_app_columns.ts:29
+#: src/pages/admin/views/testflight/tf_app_columns.ts:33
+msgid "分类"
+msgstr ""
+
+#: src/pages/admin/routes.ts:202
+msgid "分类管理"
+msgstr ""
+
+#: src/pages/admin/views/project/project_columns.ts:33
+msgid "创建人"
+msgstr ""
+
+#: src/pages/admin/views/testflight/tf_app_columns.ts:89
+#: src/pages/admin/views/testflight/tf_category_columns.ts:26
+#, fuzzy
+#| msgid "创建时间："
+msgid "创建时间"
+msgstr "Criado em:"
+
+#: src/pages/user/views/project/Project.vue:102
 msgid "创建时间："
 msgstr "Criado em:"
 
-#: src/pages/surface/layouts/Widget.vue:46
+#: src/pages/admin/views/card/Edit.vue:35
+msgid "删除"
+msgstr ""
+
+#: src/pages/admin/views/card/Edit.vue:192
+msgid "删除成功"
+msgstr ""
+
+#: src/pages/admin/views/settings/AliyunCDN.vue:3
+msgid "刷新缓存"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:61
 msgid "加入 TG 群组"
 msgstr "Junte-se a nós no Telegram"
 
-#: src/pages/surface/layouts/Widget.vue:50
+#: src/pages/surface/layouts/Widget.vue:65
 msgid "加入尝鲜派"
 msgstr "Junte-se a nós"
 
-#: src/pages/surface/components/SetLanguage/SetLanguage.vue:26
+#: src/components/SetLanguage/SetLanguage.vue:99
 msgid "加入翻译"
 msgstr "Junte-se à equipe de tradução"
 
-#: src/pages/user/views/post/Post.vue:29
+#: src/pages/user/views/post/Post.vue:66
 msgid "动态"
 msgstr "Atualizações"
 
-#: src/components/Card/SubCard.vue:29
+#: src/pages/admin/views/card/Edit.vue:211
+msgid "匹配成功"
+msgstr ""
+
+#: src/pages/admin/views/card/Edit.vue:118
+msgid "卡片样式"
+msgstr ""
+
+#: src/pages/admin/routes.ts:134 src/pages/admin/views/card/List.vue:2
+msgid "卡片管理"
+msgstr ""
+
+#: src/components/Card/SubCard.vue:31 src/pages/admin/views/card/Edit.vue:113
 msgid "即刻尝鲜"
 msgstr "Experimentar agora"
 
-#: src/pages/surface/views/page/Donate.vue:4
+#: src/pages/surface/views/page/Donate.vue:89
 msgid "即可向我们捐赠"
 msgstr "Faça uma doação"
 
-#: src/components/PostCard/PostCard.vue:13
-#: src/pages/surface/components/Status/StatusCard.vue:11
+#: src/pages/admin/views/card/Edit.vue:27
+msgid "反删除"
+msgstr ""
+
+#: src/components/PostCard/PostCard.vue:47
+#: src/components/Status/StatusCard.vue:47
 msgid "发布于"
 msgstr "Publicado em"
 
-#: src/pages/surface/views/firmware/DevicesList.vue:20
-#: src/pages/surface/views/firmware/FirmwaresList.vue:41
+#: src/pages/admin/views/device/Device.vue:41
+msgid "发布年份"
+msgstr ""
+
+#: src/pages/admin/views/card/Edit.vue:92
+msgid "发布日期"
+msgstr ""
+
+#: src/pages/admin/views/device/Device.vue:29
+#: src/pages/admin/views/post/post.ts:45
+#: src/pages/surface/views/firmware/DevicesList.vue:24
+#: src/pages/surface/views/firmware/FirmwaresList.vue:8
 msgid "发布时间"
 msgstr "Data de publicação"
 
-#: src/constant.js:9
+#: src/pages/admin/views/card/Edit.vue:20
+msgid "发布状态"
+msgstr ""
+
+#: src/constants/index.ts:10
 msgid "只读"
 msgstr "Somente leitura"
 
-#: src/pages/surface/views/firmware/DevicesList.vue:3
+#: src/pages/admin/views/settings/Translation.vue:23
+msgid "同步翻译成功"
+msgstr ""
+
+#: src/pages/admin/views/card/Edit.vue:37
+#: src/pages/admin/views/dashboard/Dashboard.vue:17
+#: src/pages/admin/views/dashboard/Dashboard.vue:28
+#: src/pages/admin/views/device/Device.vue:15
+#: src/pages/admin/views/firmware/Firmware.vue:19
+#: src/pages/admin/views/pay/Donate.vue:15
+#: src/pages/admin/views/project/project_columns.ts:13
+#: src/pages/admin/views/testflight/tf_app_columns.ts:14
+#: src/pages/admin/views/testflight/tf_category_columns.ts:12
+#, fuzzy
+#| msgid "项目名称"
+msgid "名称"
+msgstr "Nome do projeto"
+
+#: src/pages/surface/views/firmware/DevicesList.vue:62
 msgid "哪个型号？"
 msgstr "Qual o modelo?"
 
-#: src/pages/surface/views/firmware/FirmwaresList.vue:3
+#: src/pages/surface/views/firmware/FirmwaresList.vue:87
 msgid "哪个版本？"
 msgstr "Qual a versão?"
 
-#: src/pages/surface/views/firmware/DeviceGroup.vue:2
-#: src/pages/surface/views/project/Topic.vue:53
+#: src/pages/admin/views/settings/Translation.vue:7
+#: src/pages/admin/views/settings/Translation.vue:8
+msgid "回退上一版翻译"
+msgstr ""
+
+#: src/pages/admin/views/settings/Translation.vue:41
+msgid "回退翻译成功"
+msgstr ""
+
+#: src/pages/surface/views/firmware/DeviceGroup.vue:16
+#: src/pages/surface/views/project/Topic.vue:124
 msgid "固件下载"
 msgstr "Baixar firmware"
 
-#: src/pages/surface/router.js:39
+#: src/pages/surface/routes/index.ts:38
 msgid "固件列表"
 msgstr "Lista de firmware"
 
-#: src/pages/surface/router.js:44
+#: src/pages/admin/routes.ts:71
+msgid "固件管理"
+msgstr ""
+
+#: src/pages/surface/routes/index.ts:43
 msgid "固件详情"
 msgstr "Detalhes do firmware"
 
-#: src/pages/surface/layouts/Widget.vue:42
+#: src/pages/admin/views/card/Edit.vue:49
+#: src/pages/admin/views/project/project_columns.ts:28
+msgid "图标"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:57
 msgid "在微信上关注 @iBeta尝鲜派"
 msgstr "Siga-nos no WeChat"
 
-#: src/pages/surface/layouts/Widget.vue:60
+#: src/pages/surface/layouts/Widget.vue:75
 msgid "在微信上购买"
 msgstr "Compre no WeChat"
 
-#: src/pages/surface/layouts/Widget.vue:38
+#: src/pages/surface/layouts/Widget.vue:53
 msgid "在微博上关注 @iBeta尝鲜派"
 msgstr "Siga-nos no Weibo"
 
-#: src/pages/surface/layouts/Widget.vue:64
+#: src/pages/surface/layouts/Widget.vue:79
 msgid "在淘宝上购买"
 msgstr "Compre no Taobao"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:31
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:51
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:29
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:49
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:2
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:1
+#: src/pages/admin/views/card/Edit.vue:35
+msgid "填写此字段后，BetaCat 每隔五分钟会将匹配结果更新到这张卡片上"
+msgstr ""
+
+#: src/pages/admin/views/settings/Translation.vue:7
+msgid "备份当前翻译"
+msgstr ""
+
+#: src/pages/admin/views/settings/Translation.vue:32
+msgid "备份翻译成功"
+msgstr ""
+
+#: src/pages/admin/views/settings/Translation.vue:4
+msgid "备份翻译更新时间"
+msgstr ""
+
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:149
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:177
 msgid "复制下载链接"
 msgstr "Copiar link de download"
 
-#: src/pages/surface/layouts/Widget.vue:15
+#: src/pages/admin/views/card/Edit.vue:130
+msgid "复制到剪切板"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:30
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:108
+#: src/pages/surface/views/page/Install.vue:20
+#: src/pages/surface/views/page/Install.vue:52
 msgid "复制失败"
 msgstr "Falha ao copiar"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:43
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:62
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:41
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:60
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:14
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:1
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:12
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:161
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:188
 msgid "复制链接"
 msgstr "Copiar link"
 
-#: src/pages/surface/views/page/Donate.vue:17
+#: src/pages/surface/views/page/Donate.vue:104
 msgid "大老板"
 msgstr "Big Boss"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:57
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:55
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:7
+#: src/pages/admin/views/user/Edit.vue:62
+msgid "女"
+msgstr ""
+
+#: src/pages/admin/views/firmware/Firmware.vue:51
+msgid "奶牛"
+msgstr ""
+
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:183
 msgid "奶牛快传下载"
 msgstr "Baixar via CowTransfer"
 
-#: src/pages/surface/views/page/Donate.vue:19
+#: src/pages/surface/views/page/Donate.vue:110
 msgid "好心人"
 msgstr "Good man"
 
-#: src/pages/surface/layouts/Widget.vue:15
-#: src/pages/surface/layouts/Widget.vue:2
+#: src/pages/surface/layouts/Widget.vue:123
 msgid "如果有幸帮到你"
 msgstr "Se conseguimos ajudar"
 
-#: src/pages/surface/router.js:82
+#: src/pages/surface/routes/index.ts:81
 msgid "安装描述文件"
 msgstr "Instalar perfil de configuração"
 
-#: src/pages/surface/router.js:7 src/pages/surface/views/other/Post.vue:27
-#: src/pages/surface/views/project/Topic.vue:54
+#: src/pages/admin/views/user/Edit.vue:48
+#: src/pages/user/views/other/Login.vue:48
+msgid "密码"
+msgstr ""
+
+#: src/pages/admin/views/settings/AppleDeveloperLogin.vue:45
+msgid "尝试三次仍无法登录，请检查账号密码是否正确"
+msgstr ""
+
+#: src/pages/admin/routes.ts:21 src/pages/surface/routes/index.ts:8
+#: src/pages/surface/views/post/Post.vue:18
+#: src/pages/surface/views/project/Topic.vue:60 src/pages/user/routes.ts:16
 msgid "尝鲜派"
 msgstr "BetaHub"
 
-#: src/components/Footer/FooterComponent.vue:13
-msgid "开发模式"
-msgstr "Modo de desenvolvedor"
+#: src/pages/admin/views/firmware/Firmware.vue:54
+msgid "已上传"
+msgstr ""
 
-#: src/components/PostCard/PostCard.vue:19
-#: src/components/StdEditor/StdEditor.vue:74 src/constant.js:21
-#: src/pages/surface/components/Status/StatusCard.vue:14
-#: src/pages/surface/views/firmware/FirmwaresList.vue:16
+#: src/pages/admin/views/card/Edit.vue:26
+#, fuzzy
+#| msgid "发布于"
+msgid "已发布"
+msgstr "Publicado em"
+
+#: src/pages/admin/routes.ts:196
+msgid "应用管理"
+msgstr ""
+
+#: src/components/PostCard/PostCard.vue:17
+#: src/components/Status/StatusCard.vue:18 src/constants/index.ts:22
+#: src/pages/admin/views/card/Edit.vue:103
+#: src/pages/surface/views/firmware/FirmwaresList.vue:101
 msgid "开发者测试版"
 msgstr "Developer Beta"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:4
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:2
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:119
 msgid "开始下载吧"
 msgstr "Começar o download"
 
-#: src/components/Card/VersionTag.vue:3
+#: src/pages/admin/views/firmware/Firmware.vue:45
+msgid "开放"
+msgstr ""
+
+#: src/pages/admin/views/card/Edit.vue:129
+msgid "弹窗下载"
+msgstr ""
+
+#: src/components/Card/VersionTag.vue:4
 msgid "当前更新至"
 msgstr "Última atualização"
 
-#: src/pages/surface/components/SetLanguage/SetLanguage.vue:10
+#: src/components/SetLanguage/SetLanguage.vue:73
 msgid "当前语言"
 msgstr "Idioma atual"
 
-#: src/pages/surface/views/page/Donate.vue:3
+#: src/pages/surface/views/page/Donate.vue:86
 msgid "微信扫描下方二维码"
 msgstr "Escaneie o QR code abaixo com o WeChat"
 
-#: src/lib/translate/info.js:26
+#: src/language/info.ts:38
 msgid "德语"
 msgstr "Alemão"
 
-#: src/pages/surface/views/Install.vue:41
+#: src/pages/admin/views/user/Edit.vue:55
+msgid "性别"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/Dashboard.vue:34
+msgid "总收入(CNY)"
+msgstr ""
+
+#: src/pages/admin/views/card/Edit.vue:202
+msgid "恢复成功"
+msgstr ""
+
+#: src/pages/surface/views/page/Install.vue:33
 msgid "您希望直接下载升级工具而跳过本教程吗"
 msgstr ""
 "Deseja pular este tutorial e baixar a ferramenta de atualização diretamente?"
 
-#: src/pages/surface/views/Install.vue:42
+#: src/pages/surface/views/page/Install.vue:34
 msgid "您希望直接下载描述文件而跳过本教程吗"
 msgstr ""
 "Deseja pular este tutorial e baixar o perfil de configuração diretamente?"
 
-#: src/pages/surface/layouts/Widget.vue:29
-#: src/pages/surface/views/live/SponsorCard.vue:12
+#: src/pages/surface/layouts/Widget.vue:44
 msgid "感谢您~"
 msgstr "Muito obrigado!!"
 
-#: src/pages/surface/layouts/Widget.vue:68
+#: src/pages/surface/layouts/Widget.vue:83
 msgid "成为特别赞助商"
 msgstr "Seja nosso patrocinador"
 
-#: src/pages/surface/layouts/Widget.vue:157
+#: src/pages/user/routes.ts:71
+msgid "我的项目"
+msgstr ""
+
+#: src/pages/admin/routes.ts:147
+msgid "所有卡片"
+msgstr ""
+
+#: src/pages/admin/routes.ts:97 src/pages/admin/views/post/ListPost.vue:3
+msgid "所有文章"
+msgstr ""
+
+#: src/pages/admin/views/user/Edit.vue:42
+#: src/pages/admin/views/user/user_colums.ts:43
+msgid "手机"
+msgstr ""
+
+#: src/constants/index.ts:50
+msgid "打开"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:55
 msgid "找到我们"
 msgstr "Siga-nos"
 
-#: src/pages/user/views/post/Post.vue:54
+#: src/pages/user/views/post/Post.vue:22
 msgid "投稿类型"
 msgstr "Tipo de contribuição"
 
-#: src/pages/surface/components/SetLanguage/SetLanguage.vue:29
+#: src/components/SetLanguage/SetLanguage.vue:103
 msgid "报告问题"
 msgstr "Reportar um problema"
 
-#: src/pages/surface/components/HeaderComponent.vue:20
-#: src/pages/surface/components/HeaderComponent.vue:41
-#: src/pages/surface/router.js:72
+#: src/pages/admin/views/card/Edit.vue:68
+msgid "指向的文章"
+msgstr ""
+
+#: src/pages/admin/views/card/Edit.vue:108
+msgid "按钮文字"
+msgstr ""
+
+#: src/components/Header/HeaderComponent.vue:110
+#: src/components/Header/HeaderComponent.vue:83
+#: src/pages/surface/routes/index.ts:71
 msgid "捐助"
 msgstr "Doações"
 
-#: src/pages/surface/layouts/Widget.vue:24
-#: src/pages/surface/views/Install.vue:17
-#: src/pages/surface/views/Install.vue:14
+#: src/pages/surface/layouts/Widget.vue:136
+#: src/pages/surface/views/page/Install.vue:112
 msgid "捐助我们"
 msgstr "Fazer uma doação"
 
-#: src/pages/surface/layouts/Widget.vue:16
-#: src/pages/surface/layouts/Widget.vue:3
+#: src/pages/surface/layouts/Widget.vue:124
 msgid "捐助我们别吝惜"
 msgstr "Sinta-se à vontade para doar"
 
-#: src/pages/surface/views/page/Donate.vue:2
+#: src/pages/surface/views/page/Donate.vue:83
 msgid "捐助榜"
 msgstr "Lista de doadores"
 
-#: src/pages/surface/views/page/Donate.vue:15
+#: src/pages/admin/routes.ts:209
+msgid "捐助管理"
+msgstr ""
+
+#: src/pages/surface/views/page/Donate.vue:41
 msgid "捐助金额"
 msgstr "Valor doado"
 
-#: src/pages/user/views/project/Project.vue:14
+#: src/pages/admin/views/project/project_columns.ts:21
+#: src/pages/admin/views/user/Edit.vue:66
+#, fuzzy
+#| msgid "描述："
+msgid "描述"
+msgstr "Descrição:"
+
+#: src/pages/user/views/project/Project.vue:98
 msgid "描述："
 msgstr "Descrição:"
 
-#: src/pages/surface/views/Install.vue:32
-#: src/pages/surface/views/Install.vue:56
+#: src/pages/admin/views/card/Edit.vue:56
+#, fuzzy
+#| msgid "安装描述文件"
+msgid "描述文件"
+msgstr "Instalar perfil de configuração"
+
+#: src/pages/surface/views/page/Install.vue:18
+#: src/pages/surface/views/page/Install.vue:46
 msgid "描述文件的链接已复制到您的剪贴板，请参照这篇教程来使用"
 msgstr ""
 "O link do perfil de configuração foi copiado para a área de transferência, "
 "siga o tutorial para continuar"
 
-#: src/components/PostCard/PostCard.vue:28
-#: src/pages/surface/components/Status/StatusCard.vue:21
-#: src/pages/surface/views/project/Topic.vue:63
+#: src/pages/admin/views/user/Edit.vue:88
+#, fuzzy
+#| msgid "提供"
+msgid "提交"
+msgstr "criou o post"
+
+#: src/components/PostCard/PostCard.vue:62
+#: src/components/Status/StatusCard.vue:57
+#: src/pages/surface/views/project/Topic.vue:134
 msgid "提供"
 msgstr "criou o post"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:13
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:11
+#: src/pages/admin/views/device/Device.vue:49
+#: src/pages/admin/views/firmware/Firmware.vue:65
+#: src/pages/admin/views/post/post.ts:124
+#: src/pages/admin/views/project/project_columns.ts:54
+#: src/pages/admin/views/testflight/tf_app_columns.ts:102
+#: src/pages/admin/views/testflight/tf_category_columns.ts:33
+#: src/pages/admin/views/user/user_colums.ts:96
+msgid "操作"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/Dashboard.vue:39
+msgid "数量"
+msgstr ""
+
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:128
 msgid "文件大小:"
 msgstr "Tamanho do arquivo:"
 
-#: src/pages/surface/router.js:67 src/pages/user/views/post/Post.vue:28
+#: src/pages/surface/routes/index.ts:66 src/pages/user/views/post/Post.vue:65
 msgid "文章"
 msgstr "Post"
 
-#: src/pages/user/views/project/Project.vue:112
+#: src/pages/admin/routes.ts:84
+msgid "文章管理"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:42
 msgid "新建项目"
 msgstr "Novo projeto"
 
-#: src/components/PostCard/PostCard.vue:7
+#: src/components/PostCard/PostCard.vue:41
 msgid "新鲜事"
 msgstr "Novidades"
 
-#: src/components/Footer/FooterComponent.vue:3
+#: src/components/Footer/FooterComponent.vue:19
 msgid "无派科技（深圳）有限公司"
 msgstr "nooTag Tech"
 
-#: src/pages/surface/views/page/Donate.vue:23
+#: src/pages/surface/views/page/Donate.vue:49
 msgid "日期"
 msgstr "Data"
 
-#: src/lib/translate/info.js:12
+#: src/language/info.ts:24
 msgid "日语"
 msgstr "Japonês"
 
-#: src/pages/surface/views/page/Donate.vue:10
+#: src/pages/admin/views/pay/Donate.vue:29
+#, fuzzy
+#| msgid "发布时间"
+msgid "时间"
+msgstr "Data de publicação"
+
+#: src/pages/admin/views/dashboard/Dashboard.vue:25
+msgid "昨日访客"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/Dashboard.vue:10
+msgid "昨日访问量"
+msgstr ""
+
+#: src/pages/admin/views/card/Edit.vue:24
+#: src/pages/admin/views/card/Edit.vue:32
+msgid "是的"
+msgstr ""
+
+#: src/pages/admin/views/user/Edit.vue:20
+#: src/pages/admin/views/user/user_colums.ts:14
+#: src/pages/surface/views/page/Donate.vue:36
+#: src/pages/user/views/settings/columns.ts:18
 msgid "昵称"
 msgstr "Apelido"
 
-#: src/pages/surface/components/Status/StatusList.vue:48
-#: src/pages/surface/views/live/LiveStatus/LiveStatusList.vue:37
+#: src/components/Status/StatusList.vue:9
 msgid "显示 %{n} 条新动态"
 msgstr "Mostrando %{n} novas postagens"
 
-#: src/pages/surface/components/Status/StatusList.vue:24
+#: src/components/Status/StatusList.vue:158
 msgid "显示更多"
 msgstr "Mostrar mais"
 
-#: src/pages/surface/components/Status/StatusList.vue:28
-#: src/pages/surface/views/live/LiveStatus/LiveStatusList.vue:27
+#: src/components/Status/StatusList.vue:162
 msgid "暂无更多动态"
 msgstr "Não há mais postagens"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:73
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:71
+#: src/pages/admin/views/user/Edit.vue:107
+msgid "更新成功"
+msgstr ""
+
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:204
 msgid "更新日志"
 msgstr "Registro de alterações"
 
-#: src/pages/user/views/live/LivePostList.vue:51
-#: src/pages/user/views/post/List.vue:30
-#: src/pages/user/views/project/Project.vue:63
-#: src/pages/user/views/settings/Settings.vue:43
+#: src/pages/admin/views/card/Edit.vue:9
+#: src/pages/admin/views/testflight/tf_app_columns.ts:82
+#: src/pages/admin/views/testflight/tf_category_columns.ts:20
+msgid "更新时间"
+msgstr ""
+
+#: src/pages/admin/views/card/Edit.vue:195
+#: src/pages/admin/views/card/Edit.vue:204
+#: src/pages/admin/views/firmware/Firmware.vue:103
+#: src/pages/admin/views/firmware/Firmware.vue:85
+#: src/pages/admin/views/firmware/Firmware.vue:94
+#: src/pages/admin/views/post/Edit.vue:142
+#: src/pages/admin/views/post/Edit.vue:158
+#: src/pages/admin/views/settings/AliyunCDN.vue:22
+#: src/pages/admin/views/settings/AliyunCDN.vue:34
+#: src/pages/admin/views/settings/BetaCat.vue:19
+#: src/pages/admin/views/settings/BetaCat.vue:31
+#: src/pages/admin/views/settings/BetaCat.vue:41
+#: src/pages/admin/views/settings/BetaCat.vue:51
+#: src/pages/admin/views/settings/Translation.vue:26
+#: src/pages/admin/views/settings/Translation.vue:35
+#: src/pages/admin/views/settings/Translation.vue:44
+#: src/pages/admin/views/testflight/TestflightApp.vue:22
+#: src/pages/admin/views/user/Edit.vue:109
+#: src/pages/admin/views/user/Edit.vue:121
+#: src/pages/admin/views/user/Edit.vue:129
+#: src/pages/admin/views/user/Edit.vue:139
+#: src/pages/user/views/live/LivePostList.vue:76
+#: src/pages/user/views/post/List.vue:22
+#: src/pages/user/views/project/Project.vue:60
+#: src/pages/user/views/settings/Settings.vue:44
 msgid "服务器错误"
 msgstr "Erro de servidor"
 
-#: src/pages/surface/router.js:98
-msgid "未找到页面"
-msgstr "Página não encontrada"
+#: src/pages/admin/views/firmware/Firmware.vue:54
+msgid "未上传"
+msgstr ""
 
-#: src/components/Card/SubCard.vue:30
+#: src/pages/admin/views/user/Edit.vue:60
+msgid "未设置"
+msgstr ""
+
+#: src/components/Card/SubCard.vue:32 src/pages/admin/views/card/Edit.vue:114
 msgid "查看教程"
 msgstr "Ler o tutorial"
 
-#: src/components/PostCard/PostCard.vue:20
-#: src/components/StdEditor/StdEditor.vue:75 src/constant.js:22
-#: src/pages/surface/components/Status/StatusCard.vue:15
-#: src/pages/surface/views/firmware/FirmwaresList.vue:13
+#: src/pages/admin/views/device/Device.vue:22
+#, fuzzy
+#| msgid "设备标识符"
+msgid "标识符"
+msgstr "Identificador do dispositivo"
+
+#: src/pages/admin/views/post/post.ts:22
+msgid "标题"
+msgstr ""
+
+#: src/pages/admin/views/settings/Translation.vue:21
+msgid "正在同步，请稍后"
+msgstr ""
+
+#: src/pages/admin/views/settings/AppleDeveloperLogin.vue:31
+msgid "正在登录"
+msgstr ""
+
+#: src/components/PostCard/PostCard.vue:18
+#: src/components/Status/StatusCard.vue:19 src/constants/index.ts:23
+#: src/pages/admin/views/card/Edit.vue:104
+#: src/pages/admin/views/firmware/Firmware.vue:35
+#: src/pages/admin/views/firmware/Firmware.vue:58
+#: src/pages/admin/views/settings/Settings.vue:44
+#: src/pages/surface/views/firmware/FirmwaresList.vue:98
 msgid "正式版"
 msgstr "Versão Estável"
 
-#: src/lib/translate/info.js:33
+#: src/language/info.ts:45
 msgid "法语"
 msgstr "Francês"
 
-#: src/pages/surface/components/CardList/CardList.vue:2
+#: src/pages/admin/views/user/user_colums.ts:50
+msgid "注册时间"
+msgstr ""
+
+#: src/pages/admin/views/dashboard/Dashboard.vue:43
+msgid "注册用户"
+msgstr ""
+
+#: src/pages/admin/views/card/Edit.vue:19
+msgid "测试匹配"
+msgstr ""
+
+#: src/pages/admin/views/firmware/Firmware.vue:36
+#: src/pages/admin/views/firmware/Firmware.vue:58
+#: src/pages/admin/views/settings/Settings.vue:45
+#, fuzzy
+#| msgid "开发者测试版"
+msgid "测试版"
+msgstr "Developer Beta"
+
+#: src/pages/admin/routes.ts:141 src/pages/admin/views/card/Edit.vue:14
+msgid "添加卡片"
+msgstr ""
+
+#: src/pages/admin/routes.ts:47
+msgid "添加用户"
+msgstr ""
+
+#: src/constants/index.ts:52
+msgid "满员"
+msgstr ""
+
+#: src/components/CardList/CardList.vue:48
 msgid "热门尝鲜"
 msgstr "O que há de novo"
 
-#: src/components/Footer/FooterComponent.vue:10
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:15
-#: src/pages/surface/views/firmware/FirmwaresList.vue:12
+#: src/components/Footer/FooterComponent.vue:26
+#: src/pages/admin/views/firmware/Firmware.vue:23
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:22
+#: src/pages/surface/views/firmware/FirmwaresList.vue:18
 msgid "版本"
 msgstr "Versão"
 
-#: src/pages/surface/layouts/Widget.vue:128
+#: src/pages/admin/views/firmware/Firmware.vue:31
+#, fuzzy
+#| msgid "软件版本类型"
+msgid "版本类型"
+msgstr "Tipo da versão do software"
+
+#: src/pages/surface/layouts/Widget.vue:45
 msgid "特别赞助"
 msgstr "Patrocinadores"
 
-#: src/pages/surface/views/Install.vue:43
+#: src/pages/admin/views/testflight/tf_app_columns.ts:70
+#, fuzzy
+#| msgid "动态"
+msgid "状态"
+msgstr "Atualizações"
+
+#: src/pages/user/routes.ts:21
+msgid "用户中心"
+msgstr ""
+
+#: src/pages/admin/routes.ts:53
+msgid "用户列表"
+msgstr ""
+
+#: src/pages/user/views/other/Login.vue:37
+msgid "用户名"
+msgstr ""
+
+#: src/pages/user/routes.ts:90
+msgid "用户登录"
+msgstr ""
+
+#: src/pages/admin/routes.ts:39
+msgid "用户管理"
+msgstr ""
+
+#: src/pages/admin/routes.ts:58
+msgid "用户编辑"
+msgstr ""
+
+#: src/pages/admin/views/user/Edit.vue:61
+msgid "男"
+msgstr ""
+
+#: src/pages/admin/views/user/Edit.vue:52
+msgid "留空则不修改"
+msgstr ""
+
+#: src/pages/admin/views/settings/AppleDeveloperLogin.vue:39
+msgid "登录失败，请检查二次验证因子输入是否正确"
+msgstr ""
+
+#: src/pages/admin/views/settings/AppleDeveloperLogin.vue:35
+msgid "登录成功"
+msgstr ""
+
+#: src/pages/surface/views/page/Install.vue:35
 msgid "直接下载"
 msgstr "Baixar"
 
-#: src/pages/surface/views/Install.vue:39
-#: src/pages/surface/views/Install.vue:55
+#: src/pages/admin/views/settings/BetaCat.vue:12
+msgid "确定要重置 TSS 检测时间？"
+msgstr ""
+
+#: src/pages/surface/views/page/Install.vue:31
+#: src/pages/surface/views/page/Install.vue:45
 msgid "稍等一下..."
 msgstr "Aguarde um momento, por favor..."
 
-#: src/pages/surface/views/project/Topic.vue:49
+#: src/pages/surface/views/project/Topic.vue:119
 msgid "立即安装"
 msgstr "Instalar agora"
 
-#: src/components/Card/SubCard.vue:63
+#: src/components/Card/SubCard.vue:22
 msgid "等待更新"
 msgstr "Aguardando atualização"
 
-#: src/lib/translate/info.js:47
+#: src/pages/user/views/settings/columns.ts:24
+msgid "简介"
+msgstr ""
+
+#: src/language/info.ts:59
 msgid "简体中文"
 msgstr "Chinês Simplificado"
 
-#: src/lib/translate/info.js:40
+#: src/pages/admin/views/card/Edit.vue:98
+msgid "系统类型"
+msgstr ""
+
+#: src/language/info.ts:52
 msgid "繁体中文"
 msgstr "Chinês Tradicional"
 
-#: src/pages/user/views/project/Project.vue:6
+#: src/pages/admin/views/settings/Translation.vue:3
+msgid "线上翻译更新时间"
+msgstr ""
+
+#: src/pages/admin/views/card/Edit.vue:30
+msgid "绑定 RSS 关键词"
+msgstr ""
+
+#: src/pages/user/views/project/Project.vue:86
 msgid "编辑"
 msgstr "Editar"
 
-#: src/pages/surface/layouts/Widget.vue:12
+#: src/pages/admin/routes.ts:115
+msgid "编辑文章"
+msgstr ""
+
+#: src/pages/surface/layouts/Widget.vue:120
 msgid "网站现在不盈利"
 msgstr "O site não gera lucros ainda"
 
-#: src/pages/surface/components/SetLanguage/SetLanguageItem.vue:11
+#: src/components/SetLanguage/SetLanguageItem.vue:25
 msgid "翻译来自志愿者"
 msgstr "Traduzido por voluntários"
 
-#: src/pages/surface/layouts/Widget.vue:56
+#: src/pages/surface/layouts/Widget.vue:71
 msgid "老孙的店"
 msgstr "Sun Store"
 
-#: src/pages/surface/views/page/Donate.vue:18
+#: src/pages/surface/views/page/Donate.vue:107
 msgid "老板"
 msgstr "Boss"
 
-#: src/lib/translate/info.js:5
+#: src/language/info.ts:17
 msgid "英语"
 msgstr "Inglês"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:38
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:36
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:9
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:156
 msgid "苹果服务器下载"
 msgstr "Baixar diretamente da Apple"
 
-#: src/lib/translate/info.js:54
+#: src/pages/admin/views/card/Edit.vue:25
+msgid "草稿"
+msgstr ""
+
+#: src/pages/admin/views/settings/Translation.vue:6
+msgid "获取最新翻译"
+msgstr ""
+
+#: src/language/info.ts:66
 msgid "葡萄牙语"
 msgstr "Português"
 
-#: src/pages/surface/router.js:34
-#: src/pages/surface/views/firmware/DevicesList.vue:13
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:14
-#: src/pages/surface/views/firmware/FirmwaresList.vue:39
+#: src/language/info.ts:73
+msgid "西班牙语"
+msgstr ""
+
+#: src/pages/surface/routes/index.ts:33
+#: src/pages/surface/views/firmware/DevicesList.vue:17
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:21
+#: src/pages/surface/views/firmware/FirmwaresList.vue:6
 msgid "设备型号"
 msgstr "Modelo do dispositivo"
 
-#: src/pages/surface/views/firmware/DevicesList.vue:16
-#: src/pages/surface/views/firmware/FirmwaresList.vue:40
+#: src/pages/surface/views/firmware/DevicesList.vue:20
+#: src/pages/surface/views/firmware/FirmwaresList.vue:7
 msgid "设备标识符"
 msgstr "Identificador do dispositivo"
 
-#: src/pages/user/views/project/Project.vue:20
+#: src/pages/admin/routes.ts:65
+msgid "设备管理"
+msgstr ""
+
+#: src/pages/admin/routes.ts:234 src/pages/admin/views/post/Edit.vue:15
+msgid "设置"
+msgstr ""
+
+#: src/pages/admin/views/card/Edit.vue:43
+msgid "访问地址"
+msgstr ""
+
+#: src/pages/admin/views/project/project_columns.ts:37
+#: src/pages/user/views/project/Project.vue:27
 msgid "访问权限"
 msgstr "Permissão de acesso"
 
-#: src/pages/user/views/project/Project.vue:22
+#: src/pages/user/views/project/Project.vue:106
 msgid "访问权限："
 msgstr "Permissão de acesso:"
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:25
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:23
+#: src/pages/admin/views/dashboard/Dashboard.vue:20
+#, fuzzy
+#| msgid "访问权限"
+msgid "访问量"
+msgstr "Permissão de acesso"
+
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:140
 msgid "该固件已经停止验证，无法通过 iTunes 恢复。"
 msgstr ""
 "Este firmware não é mais assinado pela Apple, então não pode ser restaurado "
 "pelo iTunes."
 
-#: src/pages/surface/views/firmware/FirmwareDetail.vue:103
+#: src/pages/surface/views/firmware/FirmwareDetail.vue:22
 msgid "该固件正常验证中，可以通过 iTunes 进行「升级」或「恢复」。"
 msgstr ""
 "Este firmware continua sendo assinado, pode ser atualizado ou restaurado "
 "pelo iTunes."
 
-#: src/pages/surface/views/Install.vue:68
+#: src/pages/admin/views/post/Edit.vue:32 src/pages/admin/views/post/post.ts:36
+#, fuzzy
+#| msgid "其他语言"
+msgid "语言"
+msgstr "Outros idiomas"
+
+#: src/pages/surface/views/page/Install.vue:60
 msgid "请在 Safari 中打开本页面"
 msgstr "Por favor, abra esta página no Safari"
 
-#: src/pages/surface/views/firmware/DevicesList.vue:4
+#: src/pages/surface/views/firmware/DevicesList.vue:63
 msgid "请在下面选择您的设备型号"
 msgstr "Por favor, escolha o modelo do seu dispositivo abaixo"
 
-#: src/pages/surface/views/firmware/DeviceGroup.vue:3
+#: src/pages/surface/views/firmware/DeviceGroup.vue:17
 msgid "请在下面选择您的设备类型"
 msgstr "Por favor, escolha o modelo do seu dispositivo abaixo"
 
-#: src/pages/surface/layouts/Widget.vue:30
-#: src/pages/surface/views/live/SponsorCard.vue:13
+#: src/pages/surface/layouts/Widget.vue:45
 msgid ""
 "请在手机中点击此按钮，或在微信搜索「老孙的店」小程序，淘宝搜索「老孙的某宝"
 "店」店铺，感谢您的支持。"
@@ -557,7 +1372,11 @@ msgstr ""
 "Por favor, clique neste botão no seu celular, ou procure 老孙的典 no WeChat, "
 "ou procure 老孙的某宝店 no Taobao, obrigado pelo apoio!"
 
-#: src/pages/surface/views/firmware/FirmwaresList.vue:9
+#: src/pages/admin/views/settings/AppleDeveloperLogin.vue:48
+msgid "请输入6位验证因子"
+msgstr ""
+
+#: src/pages/surface/views/firmware/FirmwaresList.vue:93
 msgid ""
 "请选择您需要下载的固件版本，验证状态绿色标识为「目前可升级/恢复」版本，红色标"
 "识为「目前不可升级/恢复」版本。"
@@ -566,52 +1385,106 @@ msgstr ""
 "seja verde, então o firmware pode ser instalado; caso seja vermelho, não "
 "pode ser instalado."
 
-#: src/components/StdEditor/StdEditor.vue:36
-msgid "软件版本类型"
-msgstr "Tipo da versão do software"
+#: src/pages/admin/views/card/Edit.vue:20 src/pages/admin/views/post/Edit.vue:8
+#: src/pages/admin/views/user/Edit.vue:87
+msgid "返回"
+msgstr ""
 
-#: src/pages/surface/views/firmware/GoBack.vue:4
+#: src/pages/surface/views/firmware/GoBack.vue:14
 msgid "返回上一级"
 msgstr "Voltar à página anterior"
 
-#: src/pages/surface/layouts/Widget.vue:36
+#: src/pages/admin/views/user/Edit.vue:36
+#: src/pages/admin/views/user/user_colums.ts:36
+msgid "邮箱"
+msgstr ""
+
+#: src/pages/admin/views/settings/BetaCat.vue:16
+msgid "重置成功，将在一分钟内进行下一次检测"
+msgstr ""
+
+#: src/pages/admin/views/pay/Donate.vue:21
+#, fuzzy
+#| msgid "捐助金额"
+msgid "金额"
+msgstr "Valor doado"
+
+#: src/pages/admin/views/testflight/tf_app_columns.ts:22
+#, fuzzy
+#| msgid "复制链接"
+msgid "链接"
+msgstr "Copiar link"
+
+#: src/pages/surface/layouts/Widget.vue:148
 msgid "销售额的一部分会作为网站的经费："
 msgstr "Uma parte das vendas será usada para financiar o site:"
 
-#: src/pages/surface/views/Install.vue:44
+#: src/pages/surface/views/page/Install.vue:36
+#: src/pages/surface/views/page/Install.vue:48
 msgid "阅读教程"
 msgstr "Ler o tutorial"
 
-#: src/lib/translate/info.js:19
+#: src/pages/admin/views/post/post.ts:93
+#, fuzzy
+#| msgid "阅读教程"
+msgid "阅读数"
+msgstr "Ler o tutorial"
+
+#: src/language/info.ts:31
 msgid "韩语"
 msgstr "Coreano"
 
-#: src/pages/user/views/post/Post.vue:23
+#: src/pages/admin/views/dashboard/Dashboard.vue:14
+#, fuzzy
+#| msgid "404页面"
+msgid "页面"
+msgstr "Erro 404"
+
+#: src/pages/admin/views/card/Edit.vue:82
+#: src/pages/admin/views/dashboard/Dashboard.vue:36
+#: src/pages/user/views/post/Post.vue:3
 msgid "项目"
 msgstr "Projeto"
 
-#: src/pages/user/views/project/Project.vue:8
+#: src/pages/user/views/project/Project.vue:15
 msgid "项目名称"
 msgstr "Nome do projeto"
 
-#: src/pages/user/views/project/Project.vue:14
+#: src/pages/user/views/project/Project.vue:21
 msgid "项目描述"
 msgstr "Descrição do projeto"
 
-#: src/pages/surface/router.js:59
+#: src/pages/admin/routes.ts:129
+msgid "项目管理"
+msgstr ""
+
+#: src/pages/surface/routes/index.ts:58
 msgid "项目页面"
 msgstr "Página do projeto"
 
-#: src/pages/surface/router.js:51
+#: src/pages/surface/routes/index.ts:50
 msgid "项目首页"
 msgstr "Página inicial do projeto"
 
-#: src/pages/surface/components/HeaderComponent.vue:15
-#: src/pages/surface/components/HeaderComponent.vue:36
-#: src/pages/surface/router.js:20
+#: src/components/Header/HeaderComponent.vue:105
+#: src/components/Header/HeaderComponent.vue:78 src/pages/admin/routes.ts:29
+#: src/pages/surface/routes/index.ts:19
 msgid "首页"
 msgstr "Home"
 
-#: src/pages/surface/views/firmware/FirmwaresList.vue:20
+#: src/pages/admin/views/firmware/Firmware.vue:41
+#: src/pages/surface/views/firmware/FirmwaresList.vue:26
 msgid "验证状态"
 msgstr "Status"
+
+#~ msgid "WWDC 2022"
+#~ msgstr "WWDC 2022"
+
+#~ msgid "下载链接拷贝失败"
+#~ msgstr "Falha ao copiar o link de download"
+
+#~ msgid "开发模式"
+#~ msgstr "Modo de desenvolvedor"
+
+#~ msgid "未找到页面"
+#~ msgstr "Página não encontrada"
