@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
-"POT-Creation-Date: 2022-04-08 07:36+0000\n"
+"POT-Creation-Date: \n"
 "PO-Revision-Date: 2022-06-10 18:54+0000\n"
 "Last-Translator: 孫斌 <1335310642@qq.com>\n"
 "Language-Team: German <http://hello.betahub.cn/projects/Betahub/betahub/de/"
@@ -91,6 +91,10 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
+#: src/pages/admin/views/media/MediaSelector.vue:82
+msgid "Change"
+msgstr "修改"
+
 #: src/pages/admin/views/dashboard/ServerStatus.vue:64
 msgid "CPU Status"
 msgstr ""
@@ -99,7 +103,7 @@ msgstr ""
 msgid "CPU:"
 msgstr ""
 
-#: src/pages/admin/routes.ts:34
+#: src/pages/admin/routes.ts:35
 msgid "DashBoard"
 msgstr ""
 
@@ -142,7 +146,7 @@ msgstr ""
 msgid "Load Averages:"
 msgstr ""
 
-#: src/pages/user/views/other/Login.vue:135
+#: src/pages/user/views/other/Login.vue:136
 msgid "Login"
 msgstr ""
 
@@ -192,7 +196,7 @@ msgstr ""
 msgid "No"
 msgstr ""
 
-#: src/pages/admin/routes.ts:247 src/pages/admin/routes.ts:249
+#: src/pages/admin/routes.ts:256 src/pages/admin/routes.ts:258
 #: src/pages/surface/routes/index.ts:92 src/pages/surface/routes/index.ts:94
 #: src/pages/user/routes.ts:108 src/pages/user/routes.ts:110
 msgid "Not Found"
@@ -223,10 +227,6 @@ msgstr ""
 msgid "Please input your username!"
 msgstr ""
 
-#: src/pages/admin/views/project/Project.vue:3
-msgid "Projects"
-msgstr ""
-
 #: src/pages/admin/views/dashboard/ServerStatus.vue:107
 msgid "Reads"
 msgstr ""
@@ -235,6 +235,10 @@ msgstr ""
 #: src/pages/admin/views/dashboard/ServerStatus.vue:78
 msgid "Receive"
 msgstr ""
+
+#: src/pages/admin/views/media/MediaSelector.vue:87
+msgid "Remove image"
+msgstr "删除图片"
 
 #: src/components/StdDataDisplay/StdTable.vue:27
 msgid "Reset"
@@ -275,6 +279,10 @@ msgstr ""
 msgid "Server Info"
 msgstr ""
 
+#: src/pages/admin/views/media/MediaSelector.vue:69
+msgid "Set Image"
+msgstr "设置图片"
+
 #: src/pages/admin/views/dashboard/ServerStatus.vue:41
 msgid "Storage"
 msgstr ""
@@ -291,7 +299,7 @@ msgstr ""
 msgid "Testflight 分类"
 msgstr ""
 
-#: src/pages/admin/routes.ts:189
+#: src/pages/admin/routes.ts:198
 msgid "Testflight 应用"
 msgstr ""
 
@@ -321,6 +329,16 @@ msgstr ""
 msgid "Writes"
 msgstr ""
 
+#: src/pages/admin/views/media/FileSelector.vue:65
+#, fuzzy
+#| msgid "上传时间:"
+msgid "上传"
+msgstr "Upload-Zeit:"
+
+#: src/pages/admin/views/media/MediaList.vue:305
+msgid "上传于:"
+msgstr "上传于:"
+
 #: src/pages/admin/views/firmware/Firmware.vue:58
 #, fuzzy
 #| msgid "上传时间:"
@@ -331,16 +349,21 @@ msgstr "Upload-Zeit:"
 msgid "上传时间:"
 msgstr "Upload-Zeit:"
 
+#: src/pages/admin/views/media/MediaList.vue:309
+msgid "上传者:"
+msgstr "上传者:"
+
 #: src/pages/admin/views/user/user_colums.ts:56
 msgid "上次活跃"
 msgstr ""
 
+#: src/pages/admin/views/media/FileSelector.vue:20
 #: src/pages/surface/views/firmware/DevicesList.vue:31
 #: src/pages/surface/views/firmware/FirmwaresList.vue:32
 msgid "下载"
 msgstr "Laden"
 
-#: src/pages/admin/views/card/Edit.vue:124
+#: src/pages/admin/views/card/Edit.vue:125
 msgid "下载方式"
 msgstr ""
 
@@ -397,18 +420,25 @@ msgstr "Token erfolgreich erstellt"
 msgid "作者"
 msgstr ""
 
-#: src/pages/admin/views/card/Edit.vue:31
+#: src/pages/admin/views/card/Edit.vue:36
 msgid "你确定要删除?"
 msgstr ""
 
-#: src/pages/admin/views/card/Edit.vue:23
+#: src/pages/admin/views/media/MediaList.vue:101
+#: src/pages/admin/views/media/MediaListItem.vue:15
+msgid "你确定要删除吗？"
+msgstr "你确定要删除吗？"
+
+#: src/pages/admin/views/card/Edit.vue:28
 msgid "你确定要反删除?"
 msgstr ""
 
-#: src/pages/admin/views/card/Edit.vue:25
-#: src/pages/admin/views/card/Edit.vue:26
-#: src/pages/admin/views/card/Edit.vue:27
-#: src/pages/admin/views/card/Edit.vue:37 src/pages/admin/views/post/Edit.vue:9
+#: src/pages/admin/views/card/Edit.vue:30
+#: src/pages/admin/views/card/Edit.vue:31
+#: src/pages/admin/views/card/Edit.vue:32
+#: src/pages/admin/views/card/Edit.vue:42
+#: src/pages/admin/views/media/MediaList.vue:318
+#: src/pages/admin/views/post/Edit.vue:9
 #, fuzzy
 #| msgid "保存失败"
 msgid "保存"
@@ -418,14 +448,15 @@ msgstr "Speichern fehlgeschlagen"
 msgid "保存失败"
 msgstr "Speichern fehlgeschlagen"
 
-#: src/pages/admin/views/card/Edit.vue:174
+#: src/pages/admin/views/card/Edit.vue:175
 #: src/pages/admin/views/firmware/Firmware.vue:92
+#: src/pages/admin/views/media/MediaList.vue:190
 #: src/pages/admin/views/post/Edit.vue:156
 #: src/pages/user/views/project/Project.vue:67
 msgid "保存成功"
 msgstr "Erfolgreich gespeichert"
 
-#: src/pages/admin/routes.ts:153 src/pages/admin/views/card/Edit.vue:14
+#: src/pages/admin/routes.ts:162 src/pages/admin/views/card/Edit.vue:14
 msgid "修改卡片"
 msgstr ""
 
@@ -440,6 +471,10 @@ msgstr ""
 #: src/pages/user/views/project/Project.vue:42
 msgid "修改项目"
 msgstr "Element ändern"
+
+#: src/pages/admin/views/media/MediaList.vue:197
+msgid "全部"
+msgstr "全部"
 
 #: src/pages/surface/layouts/Widget.vue:122
 msgid "全靠捐助养自己"
@@ -459,7 +494,7 @@ msgid "公开"
 msgstr "offen"
 
 #: src/components/Header/HeaderComponent.vue:115
-#: src/components/Header/HeaderComponent.vue:88 src/pages/admin/routes.ts:240
+#: src/components/Header/HeaderComponent.vue:88 src/pages/admin/routes.ts:249
 #: src/pages/surface/routes/index.ts:76
 msgid "关于"
 msgstr "Über"
@@ -472,8 +507,8 @@ msgstr ""
 msgid "其他语言"
 msgstr "andere Sprachen"
 
-#: src/pages/admin/views/card/Edit.vue:25
-#: src/pages/admin/views/card/Edit.vue:33
+#: src/pages/admin/views/card/Edit.vue:30
+#: src/pages/admin/views/card/Edit.vue:38
 msgid "再想想"
 msgstr ""
 
@@ -489,7 +524,7 @@ msgstr "wieder kopieren"
 msgid "最新动态"
 msgstr "Neuesten Nachrichten"
 
-#: src/pages/admin/routes.ts:91 src/pages/admin/views/post/Edit.vue:4
+#: src/pages/admin/routes.ts:100 src/pages/admin/views/post/Edit.vue:4
 #: src/pages/admin/views/post/ListPost.vue:5
 #, fuzzy
 #| msgid "文章"
@@ -501,7 +536,13 @@ msgstr "Post"
 msgid "分类"
 msgstr "Category"
 
-#: src/pages/admin/routes.ts:202
+#: src/pages/admin/views/media/MediaList.vue:30
+#, fuzzy
+#| msgid "分类"
+msgid "分类:"
+msgstr "Category"
+
+#: src/pages/admin/routes.ts:211
 msgid "分类管理"
 msgstr ""
 
@@ -520,11 +561,15 @@ msgstr "Erstellungszeitpunkt:"
 msgid "创建时间："
 msgstr "Erstellungszeitpunkt:"
 
-#: src/pages/admin/views/card/Edit.vue:35
+#: src/pages/admin/views/card/Edit.vue:40
+#: src/pages/admin/views/media/FileSelector.vue:22
+#: src/pages/admin/views/media/FileSelector.vue:23
+#: src/pages/admin/views/media/MediaList.vue:327
 msgid "删除"
 msgstr ""
 
-#: src/pages/admin/views/card/Edit.vue:192
+#: src/pages/admin/views/card/Edit.vue:193
+#: src/pages/admin/views/media/MediaList.vue:142
 msgid "删除成功"
 msgstr ""
 
@@ -544,23 +589,27 @@ msgstr "mit BetaHub teilnehmen"
 msgid "加入翻译"
 msgstr "Übersetzen"
 
+#: src/pages/admin/views/media/MediaList.vue:276
+msgid "加载更多"
+msgstr "加载更多"
+
 #: src/pages/user/views/post/Post.vue:66
 msgid "动态"
 msgstr "Tendenz"
 
-#: src/pages/admin/views/card/Edit.vue:211
+#: src/pages/admin/views/card/Edit.vue:212
 msgid "匹配成功"
 msgstr ""
 
-#: src/pages/admin/views/card/Edit.vue:118
+#: src/pages/admin/views/card/Edit.vue:119
 msgid "卡片样式"
 msgstr ""
 
-#: src/pages/admin/routes.ts:134 src/pages/admin/views/card/List.vue:2
+#: src/pages/admin/routes.ts:143 src/pages/admin/views/card/List.vue:2
 msgid "卡片管理"
 msgstr ""
 
-#: src/components/Card/SubCard.vue:31 src/pages/admin/views/card/Edit.vue:113
+#: src/components/Card/SubCard.vue:31 src/pages/admin/views/card/Edit.vue:114
 msgid "即刻尝鲜"
 msgstr "Versuch's jetzt"
 
@@ -568,7 +617,7 @@ msgstr "Versuch's jetzt"
 msgid "即可向我们捐赠"
 msgstr "Kann uns spenden"
 
-#: src/pages/admin/views/card/Edit.vue:27
+#: src/pages/admin/views/card/Edit.vue:32
 msgid "反删除"
 msgstr ""
 
@@ -581,7 +630,7 @@ msgstr "Veröffentlicht im"
 msgid "发布年份"
 msgstr ""
 
-#: src/pages/admin/views/card/Edit.vue:92
+#: src/pages/admin/views/card/Edit.vue:93
 msgid "发布日期"
 msgstr ""
 
@@ -592,7 +641,7 @@ msgstr ""
 msgid "发布时间"
 msgstr "Veröffentlichkeitsdatum"
 
-#: src/pages/admin/views/card/Edit.vue:20
+#: src/pages/admin/views/card/Edit.vue:21
 msgid "发布状态"
 msgstr ""
 
@@ -604,11 +653,12 @@ msgstr "Schreibgeschützt"
 msgid "同步翻译成功"
 msgstr ""
 
-#: src/pages/admin/views/card/Edit.vue:37
+#: src/pages/admin/views/card/Edit.vue:38
 #: src/pages/admin/views/dashboard/Dashboard.vue:17
 #: src/pages/admin/views/dashboard/Dashboard.vue:28
 #: src/pages/admin/views/device/Device.vue:15
 #: src/pages/admin/views/firmware/Firmware.vue:19
+#: src/pages/admin/views/media/MediaList.vue:26
 #: src/pages/admin/views/pay/Donate.vue:15
 #: src/pages/admin/views/project/project_columns.ts:13
 #: src/pages/admin/views/testflight/tf_app_columns.ts:14
@@ -617,6 +667,11 @@ msgstr ""
 #| msgid "项目名称"
 msgid "名称"
 msgstr "Projektname"
+
+#: src/pages/admin/views/media/MediaList.vue:99
+#: src/pages/admin/views/media/MediaListItem.vue:13
+msgid "否"
+msgstr "否"
 
 #: src/pages/surface/views/firmware/DevicesList.vue:62
 msgid "哪个型号？"
@@ -644,7 +699,7 @@ msgstr "Firmware laden"
 msgid "固件列表"
 msgstr "Firmware Liste"
 
-#: src/pages/admin/routes.ts:71
+#: src/pages/admin/routes.ts:72
 msgid "固件管理"
 msgstr ""
 
@@ -652,8 +707,11 @@ msgstr ""
 msgid "固件详情"
 msgstr "Firmware Detail"
 
-#: src/pages/admin/views/card/Edit.vue:49
+#: src/pages/admin/views/card/Edit.vue:16
+#: src/pages/admin/views/card/Edit.vue:50
+#: src/pages/admin/views/media/MediaList.vue:203
 #: src/pages/admin/views/project/project_columns.ts:28
+#: src/pages/admin/views/project/Project.vue:10
 msgid "图标"
 msgstr ""
 
@@ -673,7 +731,7 @@ msgstr "Folgen Sie auf Weibo"
 msgid "在淘宝上购买"
 msgstr "Bei Taobao kaufen"
 
-#: src/pages/admin/views/card/Edit.vue:35
+#: src/pages/admin/views/card/Edit.vue:36
 msgid "填写此字段后，BetaCat 每隔五分钟会将匹配结果更新到这张卡片上"
 msgstr ""
 
@@ -694,7 +752,7 @@ msgstr ""
 msgid "复制下载链接"
 msgstr "Der Download-Link kopieren"
 
-#: src/pages/admin/views/card/Edit.vue:130
+#: src/pages/admin/views/card/Edit.vue:131
 msgid "复制到剪切板"
 msgstr ""
 
@@ -734,6 +792,23 @@ msgstr "Gutherziger Man"
 msgid "如果有幸帮到你"
 msgstr "Wenn ich das Glück habe, Ihnen zu helfen"
 
+#: src/pages/admin/views/media/MediaList.vue:2
+msgid "媒体列表"
+msgstr "媒体列表"
+
+#: src/pages/admin/routes.ts:84
+msgid "媒体管理"
+msgstr "媒体管理"
+
+#: src/pages/admin/views/media/FileSelector.vue:28
+#: src/pages/admin/views/media/MediaSelector.vue:27
+msgid "媒体选择器"
+msgstr "媒体选择器"
+
+#: src/pages/admin/views/media/MediaList.vue:58
+msgid "媒体预览"
+msgstr "媒体预览"
+
 #: src/pages/surface/routes/index.ts:81
 msgid "安装描述文件"
 msgstr "Profil installieren"
@@ -747,7 +822,7 @@ msgstr ""
 msgid "尝试三次仍无法登录，请检查账号密码是否正确"
 msgstr ""
 
-#: src/pages/admin/routes.ts:21 src/pages/surface/routes/index.ts:8
+#: src/pages/admin/routes.ts:22 src/pages/surface/routes/index.ts:8
 #: src/pages/surface/views/post/Post.vue:18
 #: src/pages/surface/views/project/Topic.vue:60 src/pages/user/routes.ts:16
 msgid "尝鲜派"
@@ -757,19 +832,19 @@ msgstr "BetaHub"
 msgid "已上传"
 msgstr ""
 
-#: src/pages/admin/views/card/Edit.vue:26
+#: src/pages/admin/views/card/Edit.vue:27
 #, fuzzy
 #| msgid "发布于"
 msgid "已发布"
 msgstr "Veröffentlicht im"
 
-#: src/pages/admin/routes.ts:196
+#: src/pages/admin/routes.ts:205
 msgid "应用管理"
 msgstr ""
 
 #: src/components/PostCard/PostCard.vue:17
 #: src/components/Status/StatusCard.vue:18 src/constants/index.ts:22
-#: src/pages/admin/views/card/Edit.vue:103
+#: src/pages/admin/views/card/Edit.vue:104
 #: src/pages/surface/views/firmware/FirmwaresList.vue:101
 msgid "开发者测试版"
 msgstr "Developer Beta testen"
@@ -782,7 +857,7 @@ msgstr "Anfang laden bitte"
 msgid "开放"
 msgstr ""
 
-#: src/pages/admin/views/card/Edit.vue:129
+#: src/pages/admin/views/card/Edit.vue:130
 msgid "弹窗下载"
 msgstr ""
 
@@ -810,7 +885,7 @@ msgstr ""
 msgid "总收入(CNY)"
 msgstr ""
 
-#: src/pages/admin/views/card/Edit.vue:202
+#: src/pages/admin/views/card/Edit.vue:203
 msgid "恢复成功"
 msgstr ""
 
@@ -835,11 +910,11 @@ msgstr "Werden Sie ein besonderer Sponsor"
 msgid "我的项目"
 msgstr ""
 
-#: src/pages/admin/routes.ts:147
+#: src/pages/admin/routes.ts:156
 msgid "所有卡片"
 msgstr ""
 
-#: src/pages/admin/routes.ts:97 src/pages/admin/views/post/ListPost.vue:3
+#: src/pages/admin/routes.ts:106 src/pages/admin/views/post/ListPost.vue:3
 msgid "所有文章"
 msgstr ""
 
@@ -864,11 +939,11 @@ msgstr "Beitragsart"
 msgid "报告问题"
 msgstr "ein Problem melden"
 
-#: src/pages/admin/views/card/Edit.vue:68
+#: src/pages/admin/views/card/Edit.vue:69
 msgid "指向的文章"
 msgstr ""
 
-#: src/pages/admin/views/card/Edit.vue:108
+#: src/pages/admin/views/card/Edit.vue:109
 msgid "按钮文字"
 msgstr ""
 
@@ -891,7 +966,7 @@ msgstr "Bitte spenden Sie für uns, seien Sie nicht geizig"
 msgid "捐助榜"
 msgstr "Spendenliste"
 
-#: src/pages/admin/routes.ts:209
+#: src/pages/admin/routes.ts:218
 msgid "捐助管理"
 msgstr ""
 
@@ -910,7 +985,8 @@ msgstr "beschreiben:"
 msgid "描述："
 msgstr "beschreiben:"
 
-#: src/pages/admin/views/card/Edit.vue:56
+#: src/pages/admin/views/card/Edit.vue:57
+#: src/pages/admin/views/media/MediaList.vue:206
 msgid "描述文件"
 msgstr "Configuration profile"
 
@@ -943,19 +1019,33 @@ msgstr "liefern"
 msgid "操作"
 msgstr ""
 
+#: src/pages/admin/views/media/MediaList.vue:240
+msgid "支持单个文件和批量上传"
+msgstr "支持单个文件和批量上传"
+
 #: src/pages/admin/views/dashboard/Dashboard.vue:39
 msgid "数量"
 msgstr ""
 
+#: src/pages/admin/views/media/MediaList.vue:90
+msgid "文件名称"
+msgstr "文件名称"
+
+#: src/pages/admin/views/media/MediaList.vue:297
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:128
 msgid "文件大小:"
 msgstr "Dateigröße:"
 
+#: src/pages/admin/views/media/MediaList.vue:301
+msgid "文件类型:"
+msgstr "文件类型:"
+
+#: src/pages/admin/views/media/MediaList.vue:200
 #: src/pages/surface/routes/index.ts:66 src/pages/user/views/post/Post.vue:65
 msgid "文章"
 msgstr "Post"
 
-#: src/pages/admin/routes.ts:84
+#: src/pages/admin/routes.ts:93
 msgid "文章管理"
 msgstr ""
 
@@ -993,8 +1083,13 @@ msgstr ""
 msgid "昨日访问量"
 msgstr ""
 
-#: src/pages/admin/views/card/Edit.vue:24
-#: src/pages/admin/views/card/Edit.vue:32
+#: src/pages/admin/views/media/MediaList.vue:100
+#: src/pages/admin/views/media/MediaListItem.vue:14
+msgid "是"
+msgstr "是"
+
+#: src/pages/admin/views/card/Edit.vue:29
+#: src/pages/admin/views/card/Edit.vue:37
 msgid "是的"
 msgstr ""
 
@@ -1031,11 +1126,14 @@ msgstr "Changelog"
 msgid "更新时间"
 msgstr ""
 
-#: src/pages/admin/views/card/Edit.vue:195
-#: src/pages/admin/views/card/Edit.vue:204
+#: src/pages/admin/views/card/Edit.vue:196
+#: src/pages/admin/views/card/Edit.vue:205
 #: src/pages/admin/views/firmware/Firmware.vue:103
 #: src/pages/admin/views/firmware/Firmware.vue:85
 #: src/pages/admin/views/firmware/Firmware.vue:94
+#: src/pages/admin/views/media/MediaList.vue:120
+#: src/pages/admin/views/media/MediaList.vue:153
+#: src/pages/admin/views/media/MediaList.vue:192
 #: src/pages/admin/views/post/Edit.vue:142
 #: src/pages/admin/views/post/Edit.vue:158
 #: src/pages/admin/views/settings/AliyunCDN.vue:22
@@ -1067,7 +1165,7 @@ msgstr ""
 msgid "未设置"
 msgstr ""
 
-#: src/components/Card/SubCard.vue:32 src/pages/admin/views/card/Edit.vue:114
+#: src/components/Card/SubCard.vue:32 src/pages/admin/views/card/Edit.vue:115
 msgid "查看教程"
 msgstr "Beschreibung ansehen"
 
@@ -1091,7 +1189,7 @@ msgstr ""
 
 #: src/components/PostCard/PostCard.vue:18
 #: src/components/Status/StatusCard.vue:19 src/constants/index.ts:23
-#: src/pages/admin/views/card/Edit.vue:104
+#: src/pages/admin/views/card/Edit.vue:105
 #: src/pages/admin/views/firmware/Firmware.vue:35
 #: src/pages/admin/views/firmware/Firmware.vue:58
 #: src/pages/admin/views/settings/Settings.vue:44
@@ -1111,7 +1209,7 @@ msgstr ""
 msgid "注册用户"
 msgstr ""
 
-#: src/pages/admin/views/card/Edit.vue:19
+#: src/pages/admin/views/card/Edit.vue:24
 msgid "测试匹配"
 msgstr ""
 
@@ -1123,17 +1221,21 @@ msgstr ""
 msgid "测试版"
 msgstr "Developer Beta testen"
 
-#: src/pages/admin/routes.ts:141 src/pages/admin/views/card/Edit.vue:14
+#: src/pages/admin/routes.ts:150 src/pages/admin/views/card/Edit.vue:14
 msgid "添加卡片"
 msgstr ""
 
-#: src/pages/admin/routes.ts:47
+#: src/pages/admin/routes.ts:48
 msgid "添加用户"
 msgstr ""
 
 #: src/constants/index.ts:52
 msgid "满员"
 msgstr ""
+
+#: src/pages/admin/views/media/MediaList.vue:237
+msgid "点击或拖拽文件到此处上传"
+msgstr "点击或拖拽文件到此处上传"
 
 #: src/components/CardList/CardList.vue:48
 msgid "热门尝鲜"
@@ -1166,7 +1268,7 @@ msgstr "Tendenz"
 msgid "用户中心"
 msgstr ""
 
-#: src/pages/admin/routes.ts:53
+#: src/pages/admin/routes.ts:54
 msgid "用户列表"
 msgstr ""
 
@@ -1178,11 +1280,11 @@ msgstr ""
 msgid "用户登录"
 msgstr ""
 
-#: src/pages/admin/routes.ts:39
+#: src/pages/admin/routes.ts:40
 msgid "用户管理"
 msgstr ""
 
-#: src/pages/admin/routes.ts:58
+#: src/pages/admin/routes.ts:59
 msgid "用户编辑"
 msgstr ""
 
@@ -1231,7 +1333,11 @@ msgstr ""
 msgid "简体中文"
 msgstr "Chinesisch (Vereinfacht)"
 
-#: src/pages/admin/views/card/Edit.vue:98
+#: src/pages/admin/views/media/MediaList.vue:93
+msgid "管理"
+msgstr "管理"
+
+#: src/pages/admin/views/card/Edit.vue:99
 msgid "系统类型"
 msgstr ""
 
@@ -1243,7 +1349,7 @@ msgstr "Chinesisch (Traditionell)"
 msgid "线上翻译更新时间"
 msgstr ""
 
-#: src/pages/admin/views/card/Edit.vue:30
+#: src/pages/admin/views/card/Edit.vue:31
 msgid "绑定 RSS 关键词"
 msgstr ""
 
@@ -1251,7 +1357,7 @@ msgstr ""
 msgid "编辑"
 msgstr "bearbeiten"
 
-#: src/pages/admin/routes.ts:115
+#: src/pages/admin/routes.ts:124
 msgid "编辑文章"
 msgstr ""
 
@@ -1279,7 +1385,7 @@ msgstr "Englisch"
 msgid "苹果服务器下载"
 msgstr "von Apple-Server laden"
 
-#: src/pages/admin/views/card/Edit.vue:25
+#: src/pages/admin/views/card/Edit.vue:26
 msgid "草稿"
 msgstr ""
 
@@ -1307,15 +1413,15 @@ msgstr "Modellkategorien"
 msgid "设备标识符"
 msgstr "Gerätekennungen"
 
-#: src/pages/admin/routes.ts:65
+#: src/pages/admin/routes.ts:66
 msgid "设备管理"
 msgstr ""
 
-#: src/pages/admin/routes.ts:234 src/pages/admin/views/post/Edit.vue:15
+#: src/pages/admin/routes.ts:243 src/pages/admin/views/post/Edit.vue:15
 msgid "设置"
 msgstr ""
 
-#: src/pages/admin/views/card/Edit.vue:43
+#: src/pages/admin/views/card/Edit.vue:44
 msgid "访问地址"
 msgstr ""
 
@@ -1387,7 +1493,7 @@ msgstr ""
 "aktualisierbar/wiederherstellbar」 und die rote Version ist die Version "
 "「jetzt nicht aktualisierbar/wiederherstellbar」."
 
-#: src/pages/admin/views/card/Edit.vue:20 src/pages/admin/views/post/Edit.vue:8
+#: src/pages/admin/views/card/Edit.vue:25 src/pages/admin/views/post/Edit.vue:8
 #: src/pages/admin/views/user/Edit.vue:87
 msgid "返回"
 msgstr ""
@@ -1442,11 +1548,15 @@ msgstr "Koreanisch"
 msgid "页面"
 msgstr "404 Fehler"
 
-#: src/pages/admin/views/card/Edit.vue:82
+#: src/pages/admin/views/card/Edit.vue:83
 #: src/pages/admin/views/dashboard/Dashboard.vue:36
 #: src/pages/user/views/post/Post.vue:3
 msgid "项目"
 msgstr "Projekt"
+
+#: src/pages/admin/views/project/Project.vue:3
+msgid "项目列表"
+msgstr "项目列表"
 
 #: src/pages/user/views/project/Project.vue:15
 msgid "项目名称"
@@ -1456,7 +1566,7 @@ msgstr "Projektname"
 msgid "项目描述"
 msgstr "Projektbeschreibung"
 
-#: src/pages/admin/routes.ts:129
+#: src/pages/admin/routes.ts:138
 msgid "项目管理"
 msgstr ""
 
@@ -1469,7 +1579,7 @@ msgid "项目首页"
 msgstr "Projekthaus"
 
 #: src/components/Header/HeaderComponent.vue:105
-#: src/components/Header/HeaderComponent.vue:78 src/pages/admin/routes.ts:29
+#: src/components/Header/HeaderComponent.vue:78 src/pages/admin/routes.ts:30
 #: src/pages/surface/routes/index.ts:19
 msgid "首页"
 msgstr "Titelseite"
