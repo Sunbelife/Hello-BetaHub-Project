@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-06-10 18:54+0000\n"
-"Last-Translator: 孫斌 <1335310642@qq.com>\n"
-"Language-Team: German <http://hello.betahub.cn/projects/Betahub/betahub/de/"
-">\n"
+"PO-Revision-Date: 2023-03-08 19:05+0000\n"
+"Last-Translator: 孫斌 <abin_141223@126.com>\n"
+"Language-Team: German <http://hello.betahub.cn/projects/Betahub/betahub/de/>"
+"\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: src/pages/admin/views/settings/Settings.vue:43
 msgid " RSS "
-msgstr ""
+msgstr " RSS "
 
 #: src/components/Card/SubCard.vue:13 src/components/PostCard/PostCard.vue:11
 #: src/components/Status/StatusCard.vue:11
@@ -30,48 +30,46 @@ msgstr "%{date} aktualisierter"
 
 #: src/pages/admin/views/dashboard/Dashboard.vue:36
 msgid "30天收入"
-msgstr ""
+msgstr "30 Tage Einkommen"
 
 #: src/components/StdDataDisplay/StdCurd.vue:147
 #: src/components/StdDataDisplay/StdCurd.vue:25
 msgid "Add"
-msgstr ""
+msgstr "Hinzufügen"
 
 #: src/components/StdDataDisplay/StdTable.vue:496
 msgid "All"
-msgstr ""
+msgstr "Alles"
 
 #: src/pages/admin/views/settings/Settings.vue:40
 msgid "Apple 手动登录"
-msgstr ""
+msgstr "Apple manuelle Anmeldung"
 
 #: src/pages/admin/views/settings/Settings.vue:39
 msgid "Apple 自动登录"
-msgstr ""
+msgstr "Apple automatische Anmeldung"
 
 #: src/components/StdDataDisplay/StdBulkActions.vue:50
-#, fuzzy
-#| msgid "Apple"
 msgid "Apply"
-msgstr "APPLE"
+msgstr "Anwenden"
 
 #: src/components/StdDataDisplay/StdBulkActions.vue:27
 msgid "Apply bulk action successfully"
-msgstr ""
+msgstr "Massenaktion erfolgreich anwenden"
 
 #: src/components/StdDataDisplay/StdBulkActions.vue:11
 msgid "Are you sure you want to apply to all selected?"
-msgstr ""
+msgstr "Möchten Sie sich wirklich auf alle ausgewählten bewerben?"
 
 #: src/components/StdDataDisplay/StdTable.vue:68
 msgid "Are you sure you want to delete?"
-msgstr ""
+msgstr "Sind Sie sicher, dass Sie löschen möchten?"
 
 #: src/components/StdDataDisplay/StdBatchEdit.vue:5
 #: src/components/StdDataDisplay/StdTable.vue:25
 #: src/components/StdDataDisplay/StdTable.vue:30
 msgid "Batch Modify"
-msgstr ""
+msgstr "Batch-Änderung"
 
 #: src/pages/surface/routes/index.ts:28
 msgid "BetaCat"
@@ -79,59 +77,59 @@ msgstr "BetaCat"
 
 #: src/pages/admin/views/firmware/Firmware.vue:27
 msgid "Build ID"
-msgstr ""
+msgstr "Build ID"
 
 #: src/components/StdDataDisplay/StdBulkActions.vue:41
 msgid "Bulk Action"
-msgstr ""
+msgstr "Massenaktion"
 
 #: src/components/StdDataDisplay/StdBatchEdit.vue:7
 #: src/components/StdDataDisplay/StdCurd.vue:27
 #: src/components/StdDataEntry/components/StdSelector.vue:11
 msgid "Cancel"
-msgstr ""
+msgstr "Stornieren"
 
 #: src/pages/admin/views/media/MediaSelector.vue:82
 msgid "Change"
-msgstr "修改"
+msgstr "Überarbeiten"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:64
 msgid "CPU Status"
-msgstr ""
+msgstr "CPU-Status"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:153
 msgid "CPU:"
-msgstr ""
+msgstr "CPU："
 
 #: src/pages/admin/routes.ts:35
 msgid "DashBoard"
-msgstr ""
+msgstr "Armaturenbrett"
 
 #: src/components/StdDataDisplay/StdTable.vue:71
 msgid "Delete"
-msgstr ""
+msgstr "Löschen"
 
 #: src/components/StdDataDisplay/StdTable.vue:136
 msgid "Delete ID: %{id}"
-msgstr ""
+msgstr "ID löschen: %{id}"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:96
 msgid "Disk IO"
-msgstr ""
+msgstr "Festplatten-IO"
 
 #: src/pages/user/views/settings/Settings.vue:10
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: src/components/StdDataDisplay/StdTable.vue:24
 #: src/components/StdDataDisplay/StdTable.vue:380
 msgid "Export"
-msgstr ""
+msgstr "Export"
 
 #: src/components/StdDataEntry/components/StdPassword.vue:42
 #: src/pages/user/views/settings/Settings.vue:18
 msgid "Generate"
-msgstr ""
+msgstr "Generieren"
 
 #: src/pages/surface/layouts/Widget.vue:24
 #: src/pages/surface/views/page/Install.vue:59
@@ -140,31 +138,31 @@ msgstr "BetaHub"
 
 #: src/pages/user/views/settings/Settings.vue:17
 msgid "Invisible"
-msgstr ""
+msgstr "Unsichtbar"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:141
 msgid "Load Averages:"
-msgstr ""
+msgstr "lastdurchschnitte:"
 
 #: src/pages/user/views/other/Login.vue:136
 msgid "Login"
-msgstr ""
+msgstr "Anmeldung"
 
 #: src/pages/user/views/other/Login.vue:60
 msgid "Login successful"
-msgstr ""
+msgstr "Anmeldung erfolgreich"
 
 #: src/pages/admin/layouts/HeaderLayout.vue:15
 msgid "Logout successful"
-msgstr ""
+msgstr "Abmeldung erfolgreich"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:32
 msgid "Memory"
-msgstr ""
+msgstr "Speicher"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:29
 msgid "Memory and Storage"
-msgstr ""
+msgstr "Gedächtnis und Speicherung"
 
 #: src/components/StdDataDisplay/StdCurd.vue:25
 #: src/components/StdDataDisplay/StdTable.vue:37
@@ -173,34 +171,34 @@ msgstr ""
 #: src/components/StdDataDisplay/StdTable.vue:57
 #: src/components/StdDataDisplay/StdTable.vue:59
 msgid "Modify"
-msgstr ""
+msgstr "Ändern"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:74
 msgid "Network"
-msgstr ""
+msgstr "Network"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:48
 msgid "Network Statistics"
-msgstr ""
+msgstr "Networkstatistik"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:52
 msgid "Network Total Receive"
-msgstr ""
+msgstr "Gesamter Networkempfang"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:56
 msgid "Network Total Send"
-msgstr ""
+msgstr "Network insgesamt senden"
 
 #: src/components/StdDataDisplay/StdBulkActions.vue:9
 #: src/components/StdDataDisplay/StdTable.vue:66
 msgid "No"
-msgstr ""
+msgstr "Nein"
 
 #: src/pages/admin/routes.ts:256 src/pages/admin/routes.ts:258
 #: src/pages/surface/routes/index.ts:92 src/pages/surface/routes/index.ts:94
 #: src/pages/user/routes.ts:108 src/pages/user/routes.ts:110
 msgid "Not Found"
-msgstr ""
+msgstr "Nicht gefunden"
 
 #: src/components/StdDataDisplay/StdBatchEdit.vue:8
 #: src/components/StdDataDisplay/StdBulkActions.vue:10
@@ -208,64 +206,64 @@ msgstr ""
 #: src/components/StdDataDisplay/StdTable.vue:67
 #: src/components/StdDataEntry/components/StdSelector.vue:12
 msgid "OK"
-msgstr ""
+msgstr "Okay"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:147
 msgid "OS:"
-msgstr ""
+msgstr "OS："
 
 #: src/pages/user/views/other/Login.vue:51
 #: src/pages/user/views/settings/Settings.vue:25
 msgid "Password"
-msgstr ""
+msgstr "Password"
 
 #: src/pages/user/views/other/Login.vue:49
 msgid "Please input your password!"
-msgstr ""
+msgstr "Bitte geben Sie Ihr Password ein!"
 
 #: src/pages/user/views/other/Login.vue:43
 msgid "Please input your username!"
-msgstr ""
+msgstr "Bitte geben Sie Ihren Benutzernamen ein!"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:107
 msgid "Reads"
-msgstr ""
+msgstr "Lesen"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:20
 #: src/pages/admin/views/dashboard/ServerStatus.vue:78
 msgid "Receive"
-msgstr ""
+msgstr "Erhalten"
 
 #: src/pages/admin/views/media/MediaSelector.vue:87
 msgid "Remove image"
-msgstr "删除图片"
+msgstr "Foto löschen"
 
 #: src/components/StdDataDisplay/StdTable.vue:27
 msgid "Reset"
-msgstr ""
+msgstr "Zurücksetzen"
 
 #: src/pages/user/views/settings/Settings.vue:28
 #: src/pages/user/views/settings/Settings.vue:29
 #: src/pages/user/views/settings/Settings.vue:31
 msgid "Save"
-msgstr ""
+msgstr "speichern"
 
 #: src/components/StdDataDisplay/StdBatchEdit.vue:40
 msgid "Save successfully"
-msgstr ""
+msgstr "Erfolgreich gespeichert"
 
 #: src/components/StdDataDisplay/StdCurd.vue:110
 msgid "Save Successfully"
-msgstr ""
+msgstr "Erfolgreich gespeichert"
 
 #: src/components/StdDataEntry/components/StdSelector.vue:13
 msgid "Selector"
-msgstr ""
+msgstr "Wählerin"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:21
 #: src/pages/admin/views/dashboard/ServerStatus.vue:85
 msgid "Send"
-msgstr ""
+msgstr "Schicken"
 
 #: src/components/StdDataDisplay/StdBatchEdit.vue:43
 #: src/components/StdDataDisplay/StdBulkActions.vue:30
@@ -273,77 +271,73 @@ msgstr ""
 #: src/components/StdDataDisplay/StdTable.vue:361
 #: src/components/StdDataDisplay/StdTable.vue:481
 msgid "Server error"
-msgstr ""
+msgstr "Serverfehler"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:5
 msgid "Server Info"
-msgstr ""
+msgstr "Server-Info"
 
 #: src/pages/admin/views/media/MediaSelector.vue:69
 msgid "Set Image"
-msgstr "设置图片"
+msgstr "Bild einstellen"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:41
 msgid "Storage"
-msgstr ""
+msgstr "Lagerung"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:36
 msgid "Swap"
-msgstr ""
+msgstr "Tausch"
 
 #: src/components/StdDataDisplay/StdCurd.vue:3
 msgid "Table"
-msgstr ""
+msgstr "Tisch"
 
 #: src/pages/admin/views/testflight/TestflightCategory.vue:2
 msgid "Testflight 分类"
-msgstr ""
+msgstr "Testflight-Klassifizierung"
 
 #: src/pages/admin/routes.ts:198
 msgid "Testflight 应用"
-msgstr ""
+msgstr "Testflight-App"
 
 #: src/pages/admin/views/settings/Settings.vue:42
 msgid "TSS 关闭固件"
-msgstr ""
+msgstr "TSS Firmware schließen"
 
 #: src/pages/admin/views/settings/Settings.vue:41
 msgid "TSS 开放固件"
-msgstr ""
+msgstr "TSS Firmware öffnen"
 
 #: src/components/StdDataDisplay/StdTable.vue:479
 msgid "Updated successfully"
-msgstr ""
+msgstr "Erfolgreich geupdated"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:137
 msgid "Uptime:"
-msgstr ""
+msgstr "betriebszeit:"
 
 #: src/pages/user/views/other/Login.vue:40
 msgid "Username"
-msgstr ""
+msgstr "Nutzername"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:100
 #: src/pages/admin/views/dashboard/ServerStatus.vue:22
 #: src/pages/admin/views/dashboard/ServerStatus.vue:23
 msgid "Writes"
-msgstr ""
+msgstr "Schreibt"
 
 #: src/pages/admin/views/media/FileSelector.vue:65
-#, fuzzy
-#| msgid "上传时间:"
 msgid "上传"
-msgstr "Upload-Zeit:"
+msgstr "hochladen"
 
 #: src/pages/admin/views/media/MediaList.vue:305
 msgid "上传于:"
-msgstr "上传于:"
+msgstr "Hochladen auf:"
 
 #: src/pages/admin/views/firmware/Firmware.vue:58
-#, fuzzy
-#| msgid "上传时间:"
 msgid "上传时间"
-msgstr "Upload-Zeit:"
+msgstr "Ladezeit"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:124
 msgid "上传时间:"
@@ -351,11 +345,11 @@ msgstr "Upload-Zeit:"
 
 #: src/pages/admin/views/media/MediaList.vue:309
 msgid "上传者:"
-msgstr "上传者:"
+msgstr "Hochgeladen von:"
 
 #: src/pages/admin/views/user/user_colums.ts:56
 msgid "上次活跃"
-msgstr ""
+msgstr "letzte Aktivität"
 
 #: src/pages/admin/views/media/FileSelector.vue:20
 #: src/pages/surface/views/firmware/DevicesList.vue:31
@@ -365,14 +359,12 @@ msgstr "Laden"
 
 #: src/pages/admin/views/card/Edit.vue:125
 msgid "下载方式"
-msgstr ""
+msgstr "Download-Weg"
 
 #: src/pages/admin/views/card/Edit.vue:8
 #: src/pages/admin/views/dashboard/Dashboard.vue:31
-#, fuzzy
-#| msgid "下载"
 msgid "下载量"
-msgstr "Laden"
+msgstr "Anzahl der Downloads"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:106
 msgid "下载链接已拷贝到您的剪切板啦~"
@@ -380,25 +372,23 @@ msgstr "Der Download-Link wurde in Ihre Zwischenablage kopiert~"
 
 #: src/pages/user/routes.ts:83
 msgid "个人设置"
-msgstr ""
+msgstr "Persönliche Einstellungen"
 
 #: src/pages/admin/views/post/Edit.vue:39
-#, fuzzy
-#| msgid "文章"
 msgid "主文章"
-msgstr "Post"
+msgstr "Hauptartikel"
 
 #: src/pages/admin/views/dashboard/Dashboard.vue:47
 msgid "今日注册"
-msgstr ""
+msgstr "heute anmelden"
 
 #: src/pages/admin/views/dashboard/Dashboard.vue:19
 msgid "今日访客"
-msgstr ""
+msgstr "heutiger Besucher"
 
 #: src/pages/admin/views/dashboard/Dashboard.vue:6
 msgid "今日访问"
-msgstr ""
+msgstr "heute besuchen"
 
 #: src/pages/user/views/settings/Settings.vue:42
 msgid "令牌创建成功"
@@ -411,27 +401,25 @@ msgstr "Im Folgenden sind die Produkte unserer Sponsoren."
 #: src/pages/admin/views/settings/BetaCat.vue:26
 #: src/pages/admin/views/settings/BetaCat.vue:36
 #: src/pages/admin/views/settings/BetaCat.vue:46
-#, fuzzy
-#| msgid "令牌创建成功"
 msgid "任务创建成功"
-msgstr "Token erfolgreich erstellt"
+msgstr "Aufgabe erfolgreich erstellt"
 
 #: src/pages/admin/views/post/post.ts:29
 msgid "作者"
-msgstr ""
+msgstr "Autor"
 
 #: src/pages/admin/views/card/Edit.vue:36
 msgid "你确定要删除?"
-msgstr ""
+msgstr "Sind Sie sicher, dass Sie löschen möchten?"
 
 #: src/pages/admin/views/media/MediaList.vue:101
 #: src/pages/admin/views/media/MediaListItem.vue:15
 msgid "你确定要删除吗？"
-msgstr "你确定要删除吗？"
+msgstr "Sind Sie sicher, dass Sie löschen möchten?"
 
 #: src/pages/admin/views/card/Edit.vue:28
 msgid "你确定要反删除?"
-msgstr ""
+msgstr "Möchten Sie die Löschung wirklich wiederherstellen?"
 
 #: src/pages/admin/views/card/Edit.vue:30
 #: src/pages/admin/views/card/Edit.vue:31
@@ -439,10 +427,8 @@ msgstr ""
 #: src/pages/admin/views/card/Edit.vue:42
 #: src/pages/admin/views/media/MediaList.vue:318
 #: src/pages/admin/views/post/Edit.vue:9
-#, fuzzy
-#| msgid "保存失败"
 msgid "保存"
-msgstr "Speichern fehlgeschlagen"
+msgstr "Speichern"
 
 #: src/pages/user/views/project/Project.vue:71
 msgid "保存失败"
@@ -458,15 +444,15 @@ msgstr "Erfolgreich gespeichert"
 
 #: src/pages/admin/routes.ts:162 src/pages/admin/views/card/Edit.vue:14
 msgid "修改卡片"
-msgstr ""
+msgstr "Karte ändern"
 
 #: src/pages/admin/views/post/Edit.vue:4
 msgid "修改文章"
-msgstr ""
+msgstr "Artikel ändern"
 
 #: src/pages/admin/views/post/post.ts:52
 msgid "修改时间"
-msgstr ""
+msgstr "Ändere die Zeit"
 
 #: src/pages/user/views/project/Project.vue:42
 msgid "修改项目"
@@ -474,7 +460,7 @@ msgstr "Element ändern"
 
 #: src/pages/admin/views/media/MediaList.vue:197
 msgid "全部"
-msgstr "全部"
+msgstr "Alles"
 
 #: src/pages/surface/layouts/Widget.vue:122
 msgid "全靠捐助养自己"
@@ -501,7 +487,7 @@ msgstr "Über"
 
 #: src/constants/index.ts:51 src/pages/admin/views/firmware/Firmware.vue:46
 msgid "关闭"
-msgstr ""
+msgstr "Schließen"
 
 #: src/components/SetLanguage/SetLanguage.vue:84
 msgid "其他语言"
@@ -510,7 +496,7 @@ msgstr "andere Sprachen"
 #: src/pages/admin/views/card/Edit.vue:30
 #: src/pages/admin/views/card/Edit.vue:38
 msgid "再想想"
-msgstr ""
+msgstr "Denk nochmal"
 
 #: src/pages/surface/views/page/Install.vue:100
 msgid "再次下载"
@@ -526,36 +512,30 @@ msgstr "Neuesten Nachrichten"
 
 #: src/pages/admin/routes.ts:100 src/pages/admin/views/post/Edit.vue:4
 #: src/pages/admin/views/post/ListPost.vue:5
-#, fuzzy
-#| msgid "文章"
 msgid "写文章"
-msgstr "Post"
+msgstr "Schreibe einen Aufsatz"
 
 #: src/pages/admin/views/testflight/tf_app_columns.ts:29
 #: src/pages/admin/views/testflight/tf_app_columns.ts:33
 msgid "分类"
-msgstr "Category"
+msgstr "Einstufung"
 
 #: src/pages/admin/views/media/MediaList.vue:30
-#, fuzzy
-#| msgid "分类"
 msgid "分类:"
-msgstr "Category"
+msgstr "Einstufung:"
 
 #: src/pages/admin/routes.ts:211
 msgid "分类管理"
-msgstr ""
+msgstr "Kategorienverwaltung"
 
 #: src/pages/admin/views/project/project_columns.ts:33
 msgid "创建人"
-msgstr ""
+msgstr "Gründer"
 
 #: src/pages/admin/views/testflight/tf_app_columns.ts:89
 #: src/pages/admin/views/testflight/tf_category_columns.ts:26
-#, fuzzy
-#| msgid "创建时间："
 msgid "创建时间"
-msgstr "Erstellungszeitpunkt:"
+msgstr "Erstellungszeitpunkt"
 
 #: src/pages/user/views/project/Project.vue:102
 msgid "创建时间："
@@ -566,16 +546,16 @@ msgstr "Erstellungszeitpunkt:"
 #: src/pages/admin/views/media/FileSelector.vue:23
 #: src/pages/admin/views/media/MediaList.vue:327
 msgid "删除"
-msgstr ""
+msgstr "löschen"
 
 #: src/pages/admin/views/card/Edit.vue:193
 #: src/pages/admin/views/media/MediaList.vue:142
 msgid "删除成功"
-msgstr ""
+msgstr "erfolgreich gelöscht"
 
 #: src/pages/admin/views/settings/AliyunCDN.vue:3
 msgid "刷新缓存"
-msgstr ""
+msgstr "Cache aktualisieren"
 
 #: src/pages/surface/layouts/Widget.vue:61
 msgid "加入 TG 群组"
@@ -591,7 +571,7 @@ msgstr "Übersetzen"
 
 #: src/pages/admin/views/media/MediaList.vue:276
 msgid "加载更多"
-msgstr "加载更多"
+msgstr "Mehr laden"
 
 #: src/pages/user/views/post/Post.vue:66
 msgid "动态"
@@ -599,15 +579,15 @@ msgstr "Tendenz"
 
 #: src/pages/admin/views/card/Edit.vue:212
 msgid "匹配成功"
-msgstr ""
+msgstr "erfolgreiches Spiel"
 
 #: src/pages/admin/views/card/Edit.vue:119
 msgid "卡片样式"
-msgstr ""
+msgstr "Kartenstil"
 
 #: src/pages/admin/routes.ts:143 src/pages/admin/views/card/List.vue:2
 msgid "卡片管理"
-msgstr ""
+msgstr "Kartenverwaltung"
 
 #: src/components/Card/SubCard.vue:31 src/pages/admin/views/card/Edit.vue:114
 msgid "即刻尝鲜"
@@ -619,7 +599,7 @@ msgstr "Kann uns spenden"
 
 #: src/pages/admin/views/card/Edit.vue:32
 msgid "反删除"
-msgstr ""
+msgstr "Wiederherstellen"
 
 #: src/components/PostCard/PostCard.vue:47
 #: src/components/Status/StatusCard.vue:47
@@ -628,11 +608,11 @@ msgstr "Veröffentlicht im"
 
 #: src/pages/admin/views/device/Device.vue:41
 msgid "发布年份"
-msgstr ""
+msgstr "Erscheinungsjahr"
 
 #: src/pages/admin/views/card/Edit.vue:93
 msgid "发布日期"
-msgstr ""
+msgstr "Veröffentlichungsdatum"
 
 #: src/pages/admin/views/device/Device.vue:29
 #: src/pages/admin/views/post/post.ts:45
@@ -643,7 +623,7 @@ msgstr "Veröffentlichkeitsdatum"
 
 #: src/pages/admin/views/card/Edit.vue:21
 msgid "发布状态"
-msgstr ""
+msgstr "Poststatus"
 
 #: src/constants/index.ts:10
 msgid "只读"
@@ -651,7 +631,7 @@ msgstr "Schreibgeschützt"
 
 #: src/pages/admin/views/settings/Translation.vue:23
 msgid "同步翻译成功"
-msgstr ""
+msgstr "Synchronübersetzung erfolgreich"
 
 #: src/pages/admin/views/card/Edit.vue:38
 #: src/pages/admin/views/dashboard/Dashboard.vue:17
@@ -663,15 +643,13 @@ msgstr ""
 #: src/pages/admin/views/project/project_columns.ts:13
 #: src/pages/admin/views/testflight/tf_app_columns.ts:14
 #: src/pages/admin/views/testflight/tf_category_columns.ts:12
-#, fuzzy
-#| msgid "项目名称"
 msgid "名称"
-msgstr "Projektname"
+msgstr "Name"
 
 #: src/pages/admin/views/media/MediaList.vue:99
 #: src/pages/admin/views/media/MediaListItem.vue:13
 msgid "否"
-msgstr "否"
+msgstr "Nein"
 
 #: src/pages/surface/views/firmware/DevicesList.vue:62
 msgid "哪个型号？"
@@ -684,11 +662,11 @@ msgstr "Welche Version?"
 #: src/pages/admin/views/settings/Translation.vue:7
 #: src/pages/admin/views/settings/Translation.vue:8
 msgid "回退上一版翻译"
-msgstr ""
+msgstr "Vorherige Übersetzung rückgängig machen"
 
 #: src/pages/admin/views/settings/Translation.vue:41
 msgid "回退翻译成功"
-msgstr ""
+msgstr "Fallback-Übersetzung erfolgreich"
 
 #: src/pages/surface/views/firmware/DeviceGroup.vue:16
 #: src/pages/surface/views/project/Topic.vue:124
@@ -701,7 +679,7 @@ msgstr "Firmware Liste"
 
 #: src/pages/admin/routes.ts:72
 msgid "固件管理"
-msgstr ""
+msgstr "Firmware-Verwaltung"
 
 #: src/pages/surface/routes/index.ts:43
 msgid "固件详情"
@@ -713,7 +691,7 @@ msgstr "Firmware Detail"
 #: src/pages/admin/views/project/project_columns.ts:28
 #: src/pages/admin/views/project/Project.vue:10
 msgid "图标"
-msgstr ""
+msgstr "Symbol"
 
 #: src/pages/surface/layouts/Widget.vue:57
 msgid "在微信上关注 @iBeta尝鲜派"
@@ -734,18 +712,20 @@ msgstr "Bei Taobao kaufen"
 #: src/pages/admin/views/card/Edit.vue:36
 msgid "填写此字段后，BetaCat 每隔五分钟会将匹配结果更新到这张卡片上"
 msgstr ""
+"Nach dem Ausfüllen dieses Felds aktualisiert BetaCat alle fünf Minuten die "
+"Übereinstimmungsergebnisse auf dieser Karte"
 
 #: src/pages/admin/views/settings/Translation.vue:7
 msgid "备份当前翻译"
-msgstr ""
+msgstr "aktuelle Übersetzung sichern"
 
 #: src/pages/admin/views/settings/Translation.vue:32
 msgid "备份翻译成功"
-msgstr ""
+msgstr "Sicherungsübersetzung erfolgreich"
 
 #: src/pages/admin/views/settings/Translation.vue:4
 msgid "备份翻译更新时间"
-msgstr ""
+msgstr "Aktualisierungszeit der Sicherungsübersetzung"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:149
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:177
@@ -754,7 +734,7 @@ msgstr "Der Download-Link kopieren"
 
 #: src/pages/admin/views/card/Edit.vue:131
 msgid "复制到剪切板"
-msgstr ""
+msgstr "in die Zwischenablage kopieren"
 
 #: src/pages/surface/layouts/Widget.vue:30
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:108
@@ -774,11 +754,11 @@ msgstr "großer Chef"
 
 #: src/pages/admin/views/user/Edit.vue:62
 msgid "女"
-msgstr ""
+msgstr "weiblich"
 
 #: src/pages/admin/views/firmware/Firmware.vue:51
 msgid "奶牛"
-msgstr ""
+msgstr "Kuh"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:183
 msgid "奶牛快传下载"
@@ -794,20 +774,20 @@ msgstr "Wenn ich das Glück habe, Ihnen zu helfen"
 
 #: src/pages/admin/views/media/MediaList.vue:2
 msgid "媒体列表"
-msgstr "媒体列表"
+msgstr "Medienliste"
 
 #: src/pages/admin/routes.ts:84
 msgid "媒体管理"
-msgstr "媒体管理"
+msgstr "Medienmanagement"
 
 #: src/pages/admin/views/media/FileSelector.vue:28
 #: src/pages/admin/views/media/MediaSelector.vue:27
 msgid "媒体选择器"
-msgstr "媒体选择器"
+msgstr "Medienauswahl"
 
 #: src/pages/admin/views/media/MediaList.vue:58
 msgid "媒体预览"
-msgstr "媒体预览"
+msgstr "Medienvorschau"
 
 #: src/pages/surface/routes/index.ts:81
 msgid "安装描述文件"
@@ -816,11 +796,13 @@ msgstr "Profil installieren"
 #: src/pages/admin/views/user/Edit.vue:48
 #: src/pages/user/views/other/Login.vue:48
 msgid "密码"
-msgstr ""
+msgstr "Password"
 
 #: src/pages/admin/views/settings/AppleDeveloperLogin.vue:45
 msgid "尝试三次仍无法登录，请检查账号密码是否正确"
 msgstr ""
+"Nach drei Versuchen können Sie sich immer noch nicht anmelden. Bitte "
+"überprüfen Sie, ob das Kontopassword korrekt ist"
 
 #: src/pages/admin/routes.ts:22 src/pages/surface/routes/index.ts:8
 #: src/pages/surface/views/post/Post.vue:18
@@ -830,17 +812,15 @@ msgstr "BetaHub"
 
 #: src/pages/admin/views/firmware/Firmware.vue:54
 msgid "已上传"
-msgstr ""
+msgstr "hochgeladen"
 
 #: src/pages/admin/views/card/Edit.vue:27
-#, fuzzy
-#| msgid "发布于"
 msgid "已发布"
-msgstr "Veröffentlicht im"
+msgstr "Veröffentlicht"
 
 #: src/pages/admin/routes.ts:205
 msgid "应用管理"
-msgstr ""
+msgstr "Bewerbungsmanagement"
 
 #: src/components/PostCard/PostCard.vue:17
 #: src/components/Status/StatusCard.vue:18 src/constants/index.ts:22
@@ -855,11 +835,11 @@ msgstr "Anfang laden bitte"
 
 #: src/pages/admin/views/firmware/Firmware.vue:45
 msgid "开放"
-msgstr ""
+msgstr "offen"
 
 #: src/pages/admin/views/card/Edit.vue:130
 msgid "弹窗下载"
-msgstr ""
+msgstr "Popup-Download"
 
 #: src/components/Card/VersionTag.vue:4
 msgid "当前更新至"
@@ -879,15 +859,15 @@ msgstr "Deutsch"
 
 #: src/pages/admin/views/user/Edit.vue:55
 msgid "性别"
-msgstr ""
+msgstr "Geschlecht"
 
 #: src/pages/admin/views/dashboard/Dashboard.vue:34
 msgid "总收入(CNY)"
-msgstr ""
+msgstr "Gesamteinkommen (CNY)"
 
 #: src/pages/admin/views/card/Edit.vue:203
 msgid "恢复成功"
-msgstr ""
+msgstr "Wiederherstellung erfolgreich"
 
 #: src/pages/surface/views/page/Install.vue:33
 msgid "您希望直接下载升级工具而跳过本教程吗"
@@ -908,24 +888,24 @@ msgstr "Werden Sie ein besonderer Sponsor"
 
 #: src/pages/user/routes.ts:71
 msgid "我的项目"
-msgstr ""
+msgstr "Mein Projekt"
 
 #: src/pages/admin/routes.ts:156
 msgid "所有卡片"
-msgstr ""
+msgstr "alle Karten"
 
 #: src/pages/admin/routes.ts:106 src/pages/admin/views/post/ListPost.vue:3
 msgid "所有文章"
-msgstr ""
+msgstr "alle Artikel"
 
 #: src/pages/admin/views/user/Edit.vue:42
 #: src/pages/admin/views/user/user_colums.ts:43
 msgid "手机"
-msgstr ""
+msgstr "Handy"
 
 #: src/constants/index.ts:50
 msgid "打开"
-msgstr ""
+msgstr "Öffnen"
 
 #: src/pages/surface/layouts/Widget.vue:55
 msgid "找到我们"
@@ -941,11 +921,11 @@ msgstr "ein Problem melden"
 
 #: src/pages/admin/views/card/Edit.vue:69
 msgid "指向的文章"
-msgstr ""
+msgstr "Artikel darauf hingewiesen"
 
 #: src/pages/admin/views/card/Edit.vue:109
 msgid "按钮文字"
-msgstr ""
+msgstr "Schaltflächentext"
 
 #: src/components/Header/HeaderComponent.vue:110
 #: src/components/Header/HeaderComponent.vue:83
@@ -968,7 +948,7 @@ msgstr "Spendenliste"
 
 #: src/pages/admin/routes.ts:218
 msgid "捐助管理"
-msgstr ""
+msgstr "Spendenverwaltung"
 
 #: src/pages/surface/views/page/Donate.vue:41
 msgid "捐助金额"
@@ -976,10 +956,8 @@ msgstr "Spendenbetrag"
 
 #: src/pages/admin/views/project/project_columns.ts:21
 #: src/pages/admin/views/user/Edit.vue:66
-#, fuzzy
-#| msgid "描述："
 msgid "描述"
-msgstr "beschreiben:"
+msgstr "beschreiben"
 
 #: src/pages/user/views/project/Project.vue:98
 msgid "描述："
@@ -998,10 +976,8 @@ msgstr ""
 "Sie dieses Tutorial"
 
 #: src/pages/admin/views/user/Edit.vue:88
-#, fuzzy
-#| msgid "提供"
 msgid "提交"
-msgstr "liefern"
+msgstr "einreichen"
 
 #: src/components/PostCard/PostCard.vue:62
 #: src/components/Status/StatusCard.vue:57
@@ -1017,19 +993,19 @@ msgstr "liefern"
 #: src/pages/admin/views/testflight/tf_category_columns.ts:33
 #: src/pages/admin/views/user/user_colums.ts:96
 msgid "操作"
-msgstr ""
+msgstr "arbeiten"
 
 #: src/pages/admin/views/media/MediaList.vue:240
 msgid "支持单个文件和批量上传"
-msgstr "支持单个文件和批量上传"
+msgstr "Unterstützt Einzeldatei- und Batch-Uploads"
 
 #: src/pages/admin/views/dashboard/Dashboard.vue:39
 msgid "数量"
-msgstr ""
+msgstr "Menge"
 
 #: src/pages/admin/views/media/MediaList.vue:90
 msgid "文件名称"
-msgstr "文件名称"
+msgstr "Dateinamen"
 
 #: src/pages/admin/views/media/MediaList.vue:297
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:128
@@ -1038,7 +1014,7 @@ msgstr "Dateigröße:"
 
 #: src/pages/admin/views/media/MediaList.vue:301
 msgid "文件类型:"
-msgstr "文件类型:"
+msgstr "dateityp:"
 
 #: src/pages/admin/views/media/MediaList.vue:200
 #: src/pages/surface/routes/index.ts:66 src/pages/user/views/post/Post.vue:65
@@ -1047,7 +1023,7 @@ msgstr "Post"
 
 #: src/pages/admin/routes.ts:93
 msgid "文章管理"
-msgstr ""
+msgstr "Artikelverwaltung"
 
 #: src/pages/user/views/project/Project.vue:42
 msgid "新建项目"
@@ -1070,28 +1046,26 @@ msgid "日语"
 msgstr "Japanisch"
 
 #: src/pages/admin/views/pay/Donate.vue:29
-#, fuzzy
-#| msgid "发布时间"
 msgid "时间"
-msgstr "Veröffentlichkeitsdatum"
+msgstr "Datum"
 
 #: src/pages/admin/views/dashboard/Dashboard.vue:25
 msgid "昨日访客"
-msgstr ""
+msgstr "Besucher von gestern"
 
 #: src/pages/admin/views/dashboard/Dashboard.vue:10
 msgid "昨日访问量"
-msgstr ""
+msgstr "Besuche von gestern"
 
 #: src/pages/admin/views/media/MediaList.vue:100
 #: src/pages/admin/views/media/MediaListItem.vue:14
 msgid "是"
-msgstr "是"
+msgstr "Ja"
 
 #: src/pages/admin/views/card/Edit.vue:29
 #: src/pages/admin/views/card/Edit.vue:37
 msgid "是的"
-msgstr ""
+msgstr "Ja"
 
 #: src/pages/admin/views/user/Edit.vue:20
 #: src/pages/admin/views/user/user_colums.ts:14
@@ -1114,7 +1088,7 @@ msgstr "Keine Neuigkeiten mehr"
 
 #: src/pages/admin/views/user/Edit.vue:107
 msgid "更新成功"
-msgstr ""
+msgstr "Update abgeschlossen"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:204
 msgid "更新日志"
@@ -1124,7 +1098,7 @@ msgstr "Changelog"
 #: src/pages/admin/views/testflight/tf_app_columns.ts:82
 #: src/pages/admin/views/testflight/tf_category_columns.ts:20
 msgid "更新时间"
-msgstr ""
+msgstr "Updatezeit"
 
 #: src/pages/admin/views/card/Edit.vue:196
 #: src/pages/admin/views/card/Edit.vue:205
@@ -1159,33 +1133,31 @@ msgstr "Serverfehler"
 
 #: src/pages/admin/views/firmware/Firmware.vue:54
 msgid "未上传"
-msgstr ""
+msgstr "nicht hochgeladen"
 
 #: src/pages/admin/views/user/Edit.vue:60
 msgid "未设置"
-msgstr ""
+msgstr "nicht eingestellt"
 
 #: src/components/Card/SubCard.vue:32 src/pages/admin/views/card/Edit.vue:115
 msgid "查看教程"
 msgstr "Beschreibung ansehen"
 
 #: src/pages/admin/views/device/Device.vue:22
-#, fuzzy
-#| msgid "设备标识符"
 msgid "标识符"
-msgstr "Gerätekennungen"
+msgstr "Kennung"
 
 #: src/pages/admin/views/post/post.ts:22
 msgid "标题"
-msgstr ""
+msgstr "Titel"
 
 #: src/pages/admin/views/settings/Translation.vue:21
 msgid "正在同步，请稍后"
-msgstr ""
+msgstr "Synchronisierung, bitte warten"
 
 #: src/pages/admin/views/settings/AppleDeveloperLogin.vue:31
 msgid "正在登录"
-msgstr ""
+msgstr "Einloggen"
 
 #: src/components/PostCard/PostCard.vue:18
 #: src/components/Status/StatusCard.vue:19 src/constants/index.ts:23
@@ -1203,39 +1175,37 @@ msgstr "Französisch"
 
 #: src/pages/admin/views/user/user_colums.ts:50
 msgid "注册时间"
-msgstr ""
+msgstr "Anmeldezeit"
 
 #: src/pages/admin/views/dashboard/Dashboard.vue:43
 msgid "注册用户"
-msgstr ""
+msgstr "registrierter Nutzer"
 
 #: src/pages/admin/views/card/Edit.vue:24
 msgid "测试匹配"
-msgstr ""
+msgstr "Testspiel"
 
 #: src/pages/admin/views/firmware/Firmware.vue:36
 #: src/pages/admin/views/firmware/Firmware.vue:58
 #: src/pages/admin/views/settings/Settings.vue:45
-#, fuzzy
-#| msgid "开发者测试版"
 msgid "测试版"
-msgstr "Developer Beta testen"
+msgstr "Beta"
 
 #: src/pages/admin/routes.ts:150 src/pages/admin/views/card/Edit.vue:14
 msgid "添加卡片"
-msgstr ""
+msgstr "Karte hinzufügen"
 
 #: src/pages/admin/routes.ts:48
 msgid "添加用户"
-msgstr ""
+msgstr "Benutzer hinzufügen"
 
 #: src/constants/index.ts:52
 msgid "满员"
-msgstr ""
+msgstr "Voll"
 
 #: src/pages/admin/views/media/MediaList.vue:237
 msgid "点击或拖拽文件到此处上传"
-msgstr "点击或拖拽文件到此处上传"
+msgstr "Klicken oder ziehen Sie Dateien hierher, um sie hochzuladen"
 
 #: src/components/CardList/CardList.vue:48
 msgid "热门尝鲜"
@@ -1249,60 +1219,58 @@ msgid "版本"
 msgstr "Version"
 
 #: src/pages/admin/views/firmware/Firmware.vue:31
-#, fuzzy
-#| msgid "软件版本类型"
 msgid "版本类型"
-msgstr "Typ der Softwareversion"
+msgstr "Versionstyp"
 
 #: src/pages/surface/layouts/Widget.vue:45
 msgid "特别赞助"
 msgstr "Sondersponsor"
 
 #: src/pages/admin/views/testflight/tf_app_columns.ts:70
-#, fuzzy
-#| msgid "动态"
 msgid "状态"
-msgstr "Tendenz"
+msgstr "Zustand"
 
 #: src/pages/user/routes.ts:21
 msgid "用户中心"
-msgstr ""
+msgstr "Benutzerzentrum"
 
 #: src/pages/admin/routes.ts:54
 msgid "用户列表"
-msgstr ""
+msgstr "Benutzerliste"
 
 #: src/pages/user/views/other/Login.vue:37
 msgid "用户名"
-msgstr ""
+msgstr "Nutzername"
 
 #: src/pages/user/routes.ts:90
 msgid "用户登录"
-msgstr ""
+msgstr "Benutzer-Anmeldung"
 
 #: src/pages/admin/routes.ts:40
 msgid "用户管理"
-msgstr ""
+msgstr "Benutzerverwaltung"
 
 #: src/pages/admin/routes.ts:59
 msgid "用户编辑"
-msgstr ""
+msgstr "Benutzer bearbeiten"
 
 #: src/pages/admin/views/user/Edit.vue:61
 msgid "男"
-msgstr ""
+msgstr "männlich"
 
 #: src/pages/admin/views/user/Edit.vue:52
 msgid "留空则不修改"
-msgstr ""
+msgstr "Lassen Sie das Feld leer, um es nicht zu ändern"
 
 #: src/pages/admin/views/settings/AppleDeveloperLogin.vue:39
 msgid "登录失败，请检查二次验证因子输入是否正确"
 msgstr ""
+"Anmeldung fehlgeschlagen, bitte überprüfen Sie, ob die Eingabe des "
+"sekundären Verifizierungsfaktors korrekt ist"
 
 #: src/pages/admin/views/settings/AppleDeveloperLogin.vue:35
 msgid "登录成功"
-msgstr ""
+msgstr "Anmeldung erfolgreich"
 
 #: src/pages/surface/views/page/Install.vue:35
 msgid "直接下载"
@@ -1310,7 +1278,7 @@ msgstr "Herunterladen"
 
 #: src/pages/admin/views/settings/BetaCat.vue:12
 msgid "确定要重置 TSS 检测时间？"
-msgstr ""
+msgstr "Möchten Sie die TSS-Erkennungszeit wirklich zurücksetzen?"
 
 #: src/pages/surface/views/page/Install.vue:31
 #: src/pages/surface/views/page/Install.vue:45
@@ -1327,7 +1295,7 @@ msgstr "warte auf aktualisierung"
 
 #: src/pages/user/views/settings/columns.ts:24
 msgid "简介"
-msgstr ""
+msgstr "Einführung"
 
 #: src/language/info.ts:59
 msgid "简体中文"
@@ -1335,11 +1303,11 @@ msgstr "Chinesisch (Vereinfacht)"
 
 #: src/pages/admin/views/media/MediaList.vue:93
 msgid "管理"
-msgstr "管理"
+msgstr "verwalten"
 
 #: src/pages/admin/views/card/Edit.vue:99
 msgid "系统类型"
-msgstr ""
+msgstr "Systemtyp"
 
 #: src/language/info.ts:52
 msgid "繁体中文"
@@ -1347,11 +1315,11 @@ msgstr "Chinesisch (Traditionell)"
 
 #: src/pages/admin/views/settings/Translation.vue:3
 msgid "线上翻译更新时间"
-msgstr ""
+msgstr "Aktualisierungszeit der Online-Übersetzung"
 
 #: src/pages/admin/views/card/Edit.vue:31
 msgid "绑定 RSS 关键词"
-msgstr ""
+msgstr "Binden Sie RSS-Schlüsselwörter"
 
 #: src/pages/user/views/project/Project.vue:86
 msgid "编辑"
@@ -1359,7 +1327,7 @@ msgstr "bearbeiten"
 
 #: src/pages/admin/routes.ts:124
 msgid "编辑文章"
-msgstr ""
+msgstr "Artikel bearbeiten"
 
 #: src/pages/surface/layouts/Widget.vue:120
 msgid "网站现在不盈利"
@@ -1387,11 +1355,11 @@ msgstr "von Apple-Server laden"
 
 #: src/pages/admin/views/card/Edit.vue:26
 msgid "草稿"
-msgstr ""
+msgstr "Entwurf"
 
 #: src/pages/admin/views/settings/Translation.vue:6
 msgid "获取最新翻译"
-msgstr ""
+msgstr "Holen Sie sich die neuesten Übersetzungen"
 
 #: src/language/info.ts:66
 msgid "葡萄牙语"
@@ -1399,7 +1367,7 @@ msgstr "Portugiesisch"
 
 #: src/language/info.ts:73
 msgid "西班牙语"
-msgstr ""
+msgstr "Spanisch"
 
 #: src/pages/surface/routes/index.ts:33
 #: src/pages/surface/views/firmware/DevicesList.vue:17
@@ -1415,15 +1383,15 @@ msgstr "Gerätekennungen"
 
 #: src/pages/admin/routes.ts:66
 msgid "设备管理"
-msgstr ""
+msgstr "Geräteverwaltung"
 
 #: src/pages/admin/routes.ts:243 src/pages/admin/views/post/Edit.vue:15
 msgid "设置"
-msgstr ""
+msgstr "aufstellen"
 
 #: src/pages/admin/views/card/Edit.vue:44
 msgid "访问地址"
-msgstr ""
+msgstr "Adresse"
 
 #: src/pages/admin/views/project/project_columns.ts:37
 #: src/pages/user/views/project/Project.vue:27
@@ -1435,10 +1403,8 @@ msgid "访问权限："
 msgstr "Zugriffsberechtigung:"
 
 #: src/pages/admin/views/dashboard/Dashboard.vue:20
-#, fuzzy
-#| msgid "访问权限"
 msgid "访问量"
-msgstr "Zugriffsberechtigung"
+msgstr "Anzahl der Besuche"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:140
 msgid "该固件已经停止验证，无法通过 iTunes 恢复。"
@@ -1453,10 +1419,8 @@ msgstr ""
 "「aktualisiert」 oder 「wiederhergestellt」 werden."
 
 #: src/pages/admin/views/post/Edit.vue:32 src/pages/admin/views/post/post.ts:36
-#, fuzzy
-#| msgid "其他语言"
 msgid "语言"
-msgstr "andere Sprachen"
+msgstr "Sprachen"
 
 #: src/pages/surface/views/page/Install.vue:60
 msgid "请在 Safari 中打开本页面"
@@ -1481,7 +1445,7 @@ msgstr ""
 
 #: src/pages/admin/views/settings/AppleDeveloperLogin.vue:48
 msgid "请输入6位验证因子"
-msgstr ""
+msgstr "Bitte geben Sie den 6-stelligen Bestätigungscode ein"
 
 #: src/pages/surface/views/firmware/FirmwaresList.vue:93
 msgid ""
@@ -1496,7 +1460,7 @@ msgstr ""
 #: src/pages/admin/views/card/Edit.vue:25 src/pages/admin/views/post/Edit.vue:8
 #: src/pages/admin/views/user/Edit.vue:87
 msgid "返回"
-msgstr ""
+msgstr "zurück"
 
 #: src/pages/surface/views/firmware/GoBack.vue:14
 msgid "返回上一级"
@@ -1505,23 +1469,21 @@ msgstr "Zurück"
 #: src/pages/admin/views/user/Edit.vue:36
 #: src/pages/admin/views/user/user_colums.ts:36
 msgid "邮箱"
-msgstr ""
+msgstr "Email"
 
 #: src/pages/admin/views/settings/BetaCat.vue:16
 msgid "重置成功，将在一分钟内进行下一次检测"
 msgstr ""
+"Das Zurücksetzen war erfolgreich und der nächste Test wird innerhalb einer "
+"Minute durchgeführt"
 
 #: src/pages/admin/views/pay/Donate.vue:21
-#, fuzzy
-#| msgid "捐助金额"
 msgid "金额"
-msgstr "Spendenbetrag"
+msgstr "Summe"
 
 #: src/pages/admin/views/testflight/tf_app_columns.ts:22
-#, fuzzy
-#| msgid "复制链接"
 msgid "链接"
-msgstr "Link kopieren"
+msgstr "Link"
 
 #: src/pages/surface/layouts/Widget.vue:148
 msgid "销售额的一部分会作为网站的经费："
@@ -1533,20 +1495,16 @@ msgid "阅读教程"
 msgstr "Anleitung lesen"
 
 #: src/pages/admin/views/post/post.ts:93
-#, fuzzy
-#| msgid "阅读教程"
 msgid "阅读数"
-msgstr "Anleitung lesen"
+msgstr "Anzahl Lesungen"
 
 #: src/language/info.ts:31
 msgid "韩语"
 msgstr "Koreanisch"
 
 #: src/pages/admin/views/dashboard/Dashboard.vue:14
-#, fuzzy
-#| msgid "404页面"
 msgid "页面"
-msgstr "404 Fehler"
+msgstr "Buchseite"
 
 #: src/pages/admin/views/card/Edit.vue:83
 #: src/pages/admin/views/dashboard/Dashboard.vue:36
@@ -1556,7 +1514,7 @@ msgstr "Projekt"
 
 #: src/pages/admin/views/project/Project.vue:3
 msgid "项目列表"
-msgstr "项目列表"
+msgstr "Projektliste"
 
 #: src/pages/user/views/project/Project.vue:15
 msgid "项目名称"
@@ -1568,7 +1526,7 @@ msgstr "Projektbeschreibung"
 
 #: src/pages/admin/routes.ts:138
 msgid "项目管理"
-msgstr ""
+msgstr "Projektmanagement"
 
 #: src/pages/surface/routes/index.ts:58
 msgid "项目页面"
