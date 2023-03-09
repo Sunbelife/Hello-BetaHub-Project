@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-06-10 18:54+0000\n"
-"Last-Translator: Rafael <raafaafaa@gmail.com>\n"
-"Language-Team: English <http://hello.betahub.cn/projects/Betahub/betahub/en/"
-">\n"
+"PO-Revision-Date: 2023-03-25 13:17+0000\n"
+"Last-Translator: Sunbelife <Sunbelife@icloud.com>\n"
+"Language-Team: English <http://hello.betahub.cn/projects/Betahub/betahub/en/>"
+"\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1398,7 +1398,7 @@ msgstr "Portuguese"
 
 #: src/language/info.ts:73
 msgid "西班牙语"
-msgstr ""
+msgstr "Spanish"
 
 #: src/pages/surface/routes/index.ts:33
 #: src/pages/surface/views/firmware/DevicesList.vue:17
