@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Chinese (Simplified) (Hello BetaHub Project)\n"
 "Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-03-08 19:05+0000\n"
+"PO-Revision-Date: 2023-03-25 13:17+0000\n"
 "Last-Translator: 姚剑栋 <2271907040@qq.com>\n"
 "Language-Team: Spanish <http://hello.betahub.cn/projects/Betahub/betahub/es/>"
 "\n"
@@ -1329,7 +1329,7 @@ msgstr ""
 
 #: src/language/info.ts:59
 msgid "简体中文"
-msgstr "chino simplificado"
+msgstr "Chino simplificado"
 
 #: src/pages/admin/views/media/MediaList.vue:93
 msgid "管理"
