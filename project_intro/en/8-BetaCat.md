@@ -1,0 +1,1 @@
+BetaCat is a data crawler written by us, it's used for detect firmware updates/TSS status/Weibo delivery, etc. It is called BetaCat because it works all the time without sleeping.

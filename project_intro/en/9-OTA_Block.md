@@ -1,0 +1,1 @@
+This is taken from the tvOS Profile, and it's used for disable OTA for iOS.
