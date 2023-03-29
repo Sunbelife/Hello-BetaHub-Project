@@ -1,1 +1,16 @@
-{}
+{
+    "TransProjectID:1": "iOS 15 系统是 Apple 旗下 iPhone/iPod Touch 使用的系统，版本为 iOS 15.x，目前提供开发者测试版/正式版。",
+    "TransProjectID:2": "iPadOS 15 系统是 Apple 旗下 iPad 使用的系统，版本为 iPadOS 15.x，目前提供开发者测试版/正式版。",
+    "TransProjectID:3": "watchOS 8 系统是 Apple 旗下 Apple Watch 使用的系统，版本为 watchOS 8.x，目前提供开发者测试版/正式版。",
+    "TransProjectID:4": "tvOS 15 系统是 Apple 旗下 Apple TV 及 HomePod 使用的系统，版本为 tvOS 15.x，目前提供开发者测试版/正式版。",
+    "TransProjectID:5": "macOS 12 系统是 Apple 旗下 Mac 使用的系统，版本为 macOS 12.x，目前提供开发者测试版/正式版。",
+    "TransProjectID:6": "Apple 工具是 Apple 发布的一些开发者工具，目前提供开发者测试版/正式版。",
+    "TransProjectID:7": "TSS 验证状态代表 Apple 对固件的签署状态，开启则代表可以使用 iTunes 刷入设备，关闭则反之。",
+    "TransProjectID:8": "BetaCat（小夜猫）是尝鲜派写的一只数据爬虫，用于检测固件更新/TSS 状态/微博发送等等自动化工作，因为不睡觉一直工作，所以叫 BetaCat～",
+    "TransProjectID:9": "这个取自 tvOS 的描述文件，用于屏蔽 iOS 的 OTA 更新。",
+    "TransProjectID:10": "iOS 16 系统是 Apple 旗下 iPhone/iPod Touch 使用的系统，版本为 iOS 16.x，目前提供开发者测试版/正式版。",
+    "TransProjectID:11": "iPadOS 16 系统是 Apple 旗下 iPad 使用的系统，版本为 iPadOS 16.x，目前提供开发者测试版/正式版。",
+    "TransProjectID:12": "watchOS 9 系统是 Apple 旗下 Apple Watch 使用的系统，版本为 watchOS 9.x，目前提供开发者测试版/正式版。",
+    "TransProjectID:13": "macOS 13 系统是 Apple 旗下 Mac 使用的系统，版本为 macOS 13.x，目前提供开发者测试版/正式版。",
+    "TransProjectID:14": "tvOS 16 系统是 Apple 旗下 Apple TV 及 HomePod 使用的系统，版本为 tvOS 16.x，目前提供开发者测试版/正式版。"
+}
