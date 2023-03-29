@@ -1,1 +1,0 @@
-macOS 13 is the system running on Apple's Mac, version start from macOS 13.x, We offer it in developer beta and stable release version now.

@@ -1,1 +1,0 @@
-watchOS 8 is the system running on Apple's Apple Watch, version start from watchOS 8.x, We offer it in developer beta and stable release version now.

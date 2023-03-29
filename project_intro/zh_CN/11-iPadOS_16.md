@@ -1,1 +1,0 @@
-iPadOS 16 系统是 Apple 旗下 iPad 使用的系统，版本为 iPadOS 16.x，目前提供开发者测试版/正式版。

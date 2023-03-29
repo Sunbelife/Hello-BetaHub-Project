@@ -1,1 +1,0 @@
-watchOS 8 系统是 Apple 旗下 Apple Watch 使用的系统，版本为 watchOS 8.x，目前提供开发者测试版/正式版。

@@ -1,1 +1,0 @@
-The TSS Signing Status Checker is a tool to check if you can flash the firmware into your device.
