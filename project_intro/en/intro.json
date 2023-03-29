@@ -1,16 +1,16 @@
 {
-    "TransProjectID:1": "The iOS 15 is the operating system running on iPhone/iPod Touch, version starts like iOS 15.x, currently, the developer beta and stable version is released.",
-    "TransProjectID:2": "The iPad OS 15 is the operating system running on iPad, version starts like iPad OS 15.x, currently, the developer beta and stable version is released.",
-    "TransProjectID:3": "The watch OS 8 is the operating system running on Apple Watch, version starts like watchOS 8.x, currently, the developer beta and stable version is released.",
-    "TransProjectID:4": "The tvOS 15 is the operating system running on Apple TV, version starts like tvOS 15.x, currently, the developer beta and stable version is released.",
-    "TransProjectID:5": "The macOS 12 is the operating system running on Mac, version starts like macOS 12.x, currently, the developer beta and stable version is released.",
-    "TransProjectID:6": "Apple Tools is the developer tools released by Apple. Inc, currently, the developer beta and stable version is released.",
+    "TransProjectID:1": "The iOS 15 is the operating system running on iPhone/iPod Touch, version starts like iOS 15.x, currently, the developer beta and stable version is available.",
+    "TransProjectID:2": "The iPad OS 15 is the operating system running on iPad, version starts like iPad OS 15.x, currently, the developer beta and stable version is available.",
+    "TransProjectID:3": "The watch OS 8 is the operating system running on Apple Watch, version starts like watchOS 8.x, currently, the developer beta and stable version is available.",
+    "TransProjectID:4": "The tvOS 15 is the operating system running on Apple TV, version starts like tvOS 15.x, currently, the developer beta and stable version is available.",
+    "TransProjectID:5": "The macOS 12 is the operating system running on Mac, version starts like macOS 12.x, currently, the developer beta and stable version is available.",
+    "TransProjectID:6": "Apple Tools is the developer tools released by Apple. Inc, currently, the developer beta and stable version is available.",
     "TransProjectID:7": "The TSS (Tatsu Signing Server) status is a flag to tell if you can flash the firmware into your device, if turned on, it means you can flash and vice versa.",
     "TransProjectID:8": "BetaCat is a data crawler developed by us, it's used for detecting firmware updates/TSS status/Weibo posts, etc. Since it works all the time without sleeping so we call it \"BetaCat\".",
     "TransProjectID:9": "This description file from tvOS is used to block OTA on iOS.",
-    "TransProjectID:10": "The iOS 16 is the operating system running on iPhone/iPod Touch, version starts like iOS 16.x, currently, the developer beta and stable version is released.",
-    "TransProjectID:11": "The iPadOS 16 is the operating system running on iPad, version starts like iOS 16.x, currently, the developer beta and stable version is released.",
-    "TransProjectID:12": "The watchOS 9 is the operating system running on Apple Watch, version starts like watchOS 9.x, currently, the developer beta and stable version is released.",
-    "TransProjectID:13": "The macOS 13 is the operating system running on Mac, version starts like macOS 13.x, currently, the developer beta and stable version is released.",
-    "TransProjectID:14": "The tvOS 16 is the operating system running on Apple TV, version starts like tvOS 16.x, currently, the developer beta and stable version is released."
+    "TransProjectID:10": "The iOS 16 is the operating system running on iPhone/iPod Touch, version starts like iOS 16.x, currently, the developer beta and stable version is available.",
+    "TransProjectID:11": "The iPadOS 16 is the operating system running on iPad, version starts like iOS 16.x, currently, the developer beta and stable version is available.",
+    "TransProjectID:12": "The watchOS 9 is the operating system running on Apple Watch, version starts like watchOS 9.x, currently, the developer beta and stable version is available.",
+    "TransProjectID:13": "The macOS 13 is the operating system running on Mac, version starts like macOS 13.x, currently, the developer beta and stable version is available.",
+    "TransProjectID:14": "The tvOS 16 is the operating system running on Apple TV, version starts like tvOS 16.x, currently, the developer beta and stable version is available."
 }
