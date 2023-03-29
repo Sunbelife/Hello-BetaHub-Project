@@ -1,12 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-04-10 15:30+0000\n"
+"PO-Revision-Date: 2023-03-31 02:27+0000\n"
 "Last-Translator: 是猫 <zhangziyi.knu@gmail.com>\n"
-"Language-Team: Korean <http://hello.betahub.cn/projects/Betahub/betahub/ko/"
-">\n"
+"Language-Team: Korean <http://hello.betahub.cn/projects/Betahub/betahub/ko/>"
+"\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: src/pages/admin/views/settings/Settings.vue:43
 msgid " RSS "
-msgstr ""
+msgstr " RSS "
 
 #: src/components/Card/SubCard.vue:13 src/components/PostCard/PostCard.vue:11
 #: src/components/Status/StatusCard.vue:11
@@ -30,16 +30,16 @@ msgstr "%{date} 업그레이드"
 
 #: src/pages/admin/views/dashboard/Dashboard.vue:36
 msgid "30天收入"
-msgstr ""
+msgstr "30일 동안의 수입"
 
 #: src/components/StdDataDisplay/StdCurd.vue:147
 #: src/components/StdDataDisplay/StdCurd.vue:25
 msgid "Add"
-msgstr ""
+msgstr "Add"
 
 #: src/components/StdDataDisplay/StdTable.vue:496
 msgid "All"
-msgstr ""
+msgstr "All"
 
 #: src/pages/admin/views/settings/Settings.vue:40
 msgid "Apple 手动登录"
