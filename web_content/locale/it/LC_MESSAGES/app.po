@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: Chinese (Simplified) (Hello BetaHub Project)\n"
 "Report-Msgid-Bugs-To: Sunbelife@iCloud.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-07-06 12:37+0000\n"
+"PO-Revision-Date: 2023-03-31 02:27+0000\n"
 "Last-Translator: Vincent <2519143936@qq.com>\n"
-"Language-Team: Italian <http://hello.betahub.cn/projects/Betahub/betahub/it/"
-">\n"
+"Language-Team: Italian <http://hello.betahub.cn/projects/Betahub/betahub/it/>"
+"\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: src/pages/admin/views/settings/Settings.vue:43
 msgid " RSS "
-msgstr ""
+msgstr " RSS "
 
 #: src/components/Card/SubCard.vue:13 src/components/PostCard/PostCard.vue:11
 #: src/components/Status/StatusCard.vue:11
@@ -27,46 +27,46 @@ msgstr "%{date} C'è un aggiornamento"
 
 #: src/pages/admin/views/dashboard/Dashboard.vue:36
 msgid "30天收入"
-msgstr ""
+msgstr "Entrate a 30 giorni"
 
 #: src/components/StdDataDisplay/StdCurd.vue:147
 #: src/components/StdDataDisplay/StdCurd.vue:25
 msgid "Add"
-msgstr ""
+msgstr "Aggiungi"
 
 #: src/components/StdDataDisplay/StdTable.vue:496
 msgid "All"
-msgstr ""
+msgstr "Tutti"
 
 #: src/pages/admin/views/settings/Settings.vue:40
 msgid "Apple 手动登录"
-msgstr ""
+msgstr "Accesso manuale Apple"
 
 #: src/pages/admin/views/settings/Settings.vue:39
 msgid "Apple 自动登录"
-msgstr ""
+msgstr "Accesso automatico Apple"
 
 #: src/components/StdDataDisplay/StdBulkActions.vue:50
 msgid "Apply"
-msgstr ""
+msgstr "Applica"
 
 #: src/components/StdDataDisplay/StdBulkActions.vue:27
 msgid "Apply bulk action successfully"
-msgstr ""
+msgstr "Applica l'azione di massa con successo"
 
 #: src/components/StdDataDisplay/StdBulkActions.vue:11
 msgid "Are you sure you want to apply to all selected?"
-msgstr ""
+msgstr "Sei sicuro di voler applicare a tutti i selezionati?"
 
 #: src/components/StdDataDisplay/StdTable.vue:68
 msgid "Are you sure you want to delete?"
-msgstr ""
+msgstr "Sei sicuro di voler eliminare?"
 
 #: src/components/StdDataDisplay/StdBatchEdit.vue:5
 #: src/components/StdDataDisplay/StdTable.vue:25
 #: src/components/StdDataDisplay/StdTable.vue:30
 msgid "Batch Modify"
-msgstr ""
+msgstr "Modifica batch"
 
 #: src/pages/surface/routes/index.ts:28
 msgid "BetaCat"
@@ -74,17 +74,17 @@ msgstr "BetaCat"
 
 #: src/pages/admin/views/firmware/Firmware.vue:27
 msgid "Build ID"
-msgstr ""
+msgstr "ID di compilazione"
 
 #: src/components/StdDataDisplay/StdBulkActions.vue:41
 msgid "Bulk Action"
-msgstr ""
+msgstr "Azione di massa"
 
 #: src/components/StdDataDisplay/StdBatchEdit.vue:7
 #: src/components/StdDataDisplay/StdCurd.vue:27
 #: src/components/StdDataEntry/components/StdSelector.vue:11
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 #: src/pages/admin/views/media/MediaSelector.vue:82
 msgid "Change"
@@ -92,41 +92,41 @@ msgstr "修改"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:64
 msgid "CPU Status"
-msgstr ""
+msgstr "CPU Stato"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:153
 msgid "CPU:"
-msgstr ""
+msgstr "CPU:"
 
 #: src/pages/admin/routes.ts:35
 msgid "DashBoard"
-msgstr ""
+msgstr "Dashboard"
 
 #: src/components/StdDataDisplay/StdTable.vue:71
 msgid "Delete"
-msgstr ""
+msgstr "Elimina"
 
 #: src/components/StdDataDisplay/StdTable.vue:136
 msgid "Delete ID: %{id}"
-msgstr ""
+msgstr "Elimina ID: %{id}"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:96
 msgid "Disk IO"
-msgstr ""
+msgstr "IO disco"
 
 #: src/pages/user/views/settings/Settings.vue:10
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: src/components/StdDataDisplay/StdTable.vue:24
 #: src/components/StdDataDisplay/StdTable.vue:380
 msgid "Export"
-msgstr ""
+msgstr "Esporta"
 
 #: src/components/StdDataEntry/components/StdPassword.vue:42
 #: src/pages/user/views/settings/Settings.vue:18
 msgid "Generate"
-msgstr ""
+msgstr "Genera"
 
 #: src/pages/surface/layouts/Widget.vue:24
 #: src/pages/surface/views/page/Install.vue:59
@@ -135,31 +135,31 @@ msgstr "BetaHub"
 
 #: src/pages/user/views/settings/Settings.vue:17
 msgid "Invisible"
-msgstr ""
+msgstr "Invisibile"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:141
 msgid "Load Averages:"
-msgstr ""
+msgstr "Media di carico:"
 
 #: src/pages/user/views/other/Login.vue:136
 msgid "Login"
-msgstr ""
+msgstr "Login"
 
 #: src/pages/user/views/other/Login.vue:60
 msgid "Login successful"
-msgstr ""
+msgstr "Accesso riuscito"
 
 #: src/pages/admin/layouts/HeaderLayout.vue:15
 msgid "Logout successful"
-msgstr ""
+msgstr "Uscita riuscita"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:32
 msgid "Memory"
-msgstr ""
+msgstr "Memoria"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:29
 msgid "Memory and Storage"
-msgstr ""
+msgstr "Memoria e archiviazione"
 
 #: src/components/StdDataDisplay/StdCurd.vue:25
 #: src/components/StdDataDisplay/StdTable.vue:37
@@ -168,34 +168,34 @@ msgstr ""
 #: src/components/StdDataDisplay/StdTable.vue:57
 #: src/components/StdDataDisplay/StdTable.vue:59
 msgid "Modify"
-msgstr ""
+msgstr "Modifica"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:74
 msgid "Network"
-msgstr ""
+msgstr "Rete"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:48
 msgid "Network Statistics"
-msgstr ""
+msgstr "Statistiche di rete"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:52
 msgid "Network Total Receive"
-msgstr ""
+msgstr "Totale ricezione rete"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:56
 msgid "Network Total Send"
-msgstr ""
+msgstr "Totale invio rete"
 
 #: src/components/StdDataDisplay/StdBulkActions.vue:9
 #: src/components/StdDataDisplay/StdTable.vue:66
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: src/pages/admin/routes.ts:256 src/pages/admin/routes.ts:258
 #: src/pages/surface/routes/index.ts:92 src/pages/surface/routes/index.ts:94
 #: src/pages/user/routes.ts:108 src/pages/user/routes.ts:110
 msgid "Not Found"
-msgstr ""
+msgstr "Non Trovato"
 
 #: src/components/StdDataDisplay/StdBatchEdit.vue:8
 #: src/components/StdDataDisplay/StdBulkActions.vue:10
@@ -203,37 +203,37 @@ msgstr ""
 #: src/components/StdDataDisplay/StdTable.vue:67
 #: src/components/StdDataEntry/components/StdSelector.vue:12
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:147
 msgid "OS:"
-msgstr ""
+msgstr "OS:"
 
 #: src/pages/user/views/other/Login.vue:51
 #: src/pages/user/views/settings/Settings.vue:25
 msgid "Password"
-msgstr ""
+msgstr "Password"
 
 #: src/pages/user/views/other/Login.vue:49
 msgid "Please input your password!"
-msgstr ""
+msgstr "Inserisci la tua password!"
 
 #: src/pages/user/views/other/Login.vue:43
 msgid "Please input your username!"
-msgstr ""
+msgstr "Inserisci il tuo nome utente!"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:107
 msgid "Reads"
-msgstr ""
+msgstr "Letture"
 
 #: src/pages/admin/views/dashboard/ServerStatus.vue:20
 #: src/pages/admin/views/dashboard/ServerStatus.vue:78
 msgid "Receive"
-msgstr ""
+msgstr "Ricevi"
 
 #: src/pages/admin/views/media/MediaSelector.vue:87
 msgid "Remove image"
-msgstr "删除图片"
+msgstr "Rimuovi immagine"
 
 #: src/components/StdDataDisplay/StdTable.vue:27
 msgid "Reset"
