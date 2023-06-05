@@ -53,7 +53,7 @@ msgstr "Laden"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:74
 msgid "下载链接已拷贝到您的剪切板啦~"
-msgstr "Der Download-Link wurde in Ihre Zwischenablage kopiert~"
+msgstr "Der Download-Link wurde in deine Zwischenablage kopiert"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:76
 msgid "下载链接拷贝失败"
@@ -65,7 +65,7 @@ msgstr "Token erfolgreich erstellt"
 
 #: src/pages/surface/layouts/Widget.vue:34
 msgid "以下是我们特别赞助商的产品。"
-msgstr "Im Folgenden sind die Produkte unserer Sponsoren."
+msgstr "Unsere Sponsoren:"
 
 #: src/pages/user/views/project/Project.vue:73
 msgid "保存失败"
@@ -108,7 +108,7 @@ msgstr "andere Sprachen"
 
 #: src/pages/surface/views/Install.vue:8 src/pages/surface/views/Install.vue:5
 msgid "再次下载"
-msgstr "wieder laden"
+msgstr "erneut laden"
 
 #: src/pages/surface/views/Install.vue:12 src/pages/surface/views/Install.vue:9
 msgid "再次复制"
@@ -124,11 +124,11 @@ msgstr "Erstellungszeitpunkt:"
 
 #: src/pages/surface/layouts/Widget.vue:46
 msgid "加入 TG 群组"
-msgstr "Bei Telegram"
+msgstr "Telegram"
 
 #: src/pages/surface/layouts/Widget.vue:50
 msgid "加入尝鲜派"
-msgstr "mit BetaHub teilnehmen"
+msgstr "an BetaHub teilnehmen"
 
 #: src/pages/surface/components/SetLanguage/SetLanguage.vue:26
 msgid "加入翻译"
@@ -140,7 +140,7 @@ msgstr "Tendenz"
 
 #: src/components/Card/SubCard.vue:29
 msgid "即刻尝鲜"
-msgstr "Versuch's jetzt"
+msgstr "Jetzt testen"
 
 #: src/pages/surface/views/page/Donate.vue:4
 msgid "即可向我们捐赠"
@@ -183,7 +183,7 @@ msgstr "Firmware Detail"
 
 #: src/pages/surface/layouts/Widget.vue:42
 msgid "在微信上关注 @iBeta尝鲜派"
-msgstr "Folgen Sie auf WeChat"
+msgstr "Folge uns auf WeChat"
 
 #: src/pages/surface/layouts/Widget.vue:60
 msgid "在微信上购买"
@@ -191,7 +191,7 @@ msgstr "Bei WeChat kaufen"
 
 #: src/pages/surface/layouts/Widget.vue:38
 msgid "在微博上关注 @iBeta尝鲜派"
-msgstr "Folgen Sie auf Weibo"
+msgstr "Folge uns auf Weibo"
 
 #: src/pages/surface/layouts/Widget.vue:64
 msgid "在淘宝上购买"
@@ -204,11 +204,11 @@ msgstr "Bei Taobao kaufen"
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:2
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:1
 msgid "复制下载链接"
-msgstr "Der Download-Link kopieren"
+msgstr "Den Download-Link kopieren"
 
 #: src/pages/surface/layouts/Widget.vue:15
 msgid "复制失败"
-msgstr "kopieren fehlgeschlagen"
+msgstr "Kopieren fehlgeschlagen"
 
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:43
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:62
@@ -232,7 +232,7 @@ msgstr "Cowtransfer laden"
 
 #: src/pages/surface/views/page/Donate.vue:19
 msgid "好心人"
-msgstr "Gutherziger Man"
+msgstr "Kleine Spenden"
 
 #: src/pages/surface/layouts/Widget.vue:15
 #: src/pages/surface/layouts/Widget.vue:2
@@ -320,12 +320,12 @@ msgstr "Spenden"
 #: src/pages/surface/views/Install.vue:17
 #: src/pages/surface/views/Install.vue:14
 msgid "捐助我们"
-msgstr "Spenden Sie an uns"
+msgstr "Jetzt spenden!"
 
 #: src/pages/surface/layouts/Widget.vue:16
 #: src/pages/surface/layouts/Widget.vue:3
 msgid "捐助我们别吝惜"
-msgstr "Bitte spenden Sie für uns, seien Sie nicht geizig"
+msgstr "Bitte spende für uns, seien Sie nicht geizig"
 
 #: src/pages/surface/views/page/Donate.vue:2
 msgid "捐助榜"
@@ -432,7 +432,7 @@ msgstr "Französisch"
 
 #: src/pages/surface/components/CardList/CardList.vue:2
 msgid "热门尝鲜"
-msgstr "aktülle Versuch"
+msgstr "aktuelle Beta-Versionen"
 
 #: src/components/Footer/FooterComponent.vue:10
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:15
@@ -451,7 +451,7 @@ msgstr "Herunterladen"
 #: src/pages/surface/views/Install.vue:39
 #: src/pages/surface/views/Install.vue:55
 msgid "稍等一下..."
-msgstr "Warte mal..."
+msgstr "Warte..."
 
 #: src/pages/surface/views/project/Topic.vue:49
 msgid "立即安装"
@@ -479,7 +479,7 @@ msgstr "Kauf uns einen Kaffee"
 
 #: src/pages/surface/components/SetLanguage/SetLanguageItem.vue:11
 msgid "翻译来自志愿者"
-msgstr "Übersetzung von Freiwilligen"
+msgstr "Übersetzungen von Freiwilligen"
 
 #: src/pages/surface/layouts/Widget.vue:56
 msgid "老孙的店"
@@ -487,7 +487,7 @@ msgstr "Sun Store"
 
 #: src/pages/surface/views/page/Donate.vue:18
 msgid "老板"
-msgstr "Chef"
+msgstr "Mittlere Spende"
 
 #: src/lib/translate/info.js:5
 msgid "英语"
@@ -497,7 +497,7 @@ msgstr "Englisch"
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:36
 #: src/pages/surface/views/firmware/FirmwareDetail.vue:9
 msgid "苹果服务器下载"
-msgstr "von Apple-Server laden"
+msgstr "von Apple-Servern laden"
 
 #: src/lib/translate/info.js:54
 msgid "葡萄牙语"
@@ -542,11 +542,11 @@ msgstr "Bitte öffnen Sie diese Seite in Safari"
 
 #: src/pages/surface/views/firmware/DevicesList.vue:4
 msgid "请在下面选择您的设备型号"
-msgstr "Bitte wählen Sie unten Ihr Gerätemodell aus"
+msgstr "Bitte wähle unten dein Gerätemodell aus"
 
 #: src/pages/surface/views/firmware/DeviceGroup.vue:3
 msgid "请在下面选择您的设备类型"
-msgstr "Bitte wählen Sie unten Ihren Gerätetyp aus"
+msgstr "Bitte wähle unten deinen Gerätetyp aus"
 
 #: src/pages/surface/layouts/Widget.vue:30
 #: src/pages/surface/views/live/SponsorCard.vue:13
@@ -578,7 +578,7 @@ msgstr "Zurück"
 
 #: src/pages/surface/layouts/Widget.vue:36
 msgid "销售额的一部分会作为网站的经费："
-msgstr "Ein Teil des Verkaufs wird zur Finanzierung der Website verwendet:"
+msgstr "Ein Teil der Verkäufe wird zur Finanzierung der Website verwendet:"
 
 #: src/pages/surface/views/Install.vue:44
 msgid "阅读教程"
